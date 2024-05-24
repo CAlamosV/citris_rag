@@ -1,0 +1,19 @@
+Rajeevan Amirtharajah
+Prof. Amirtharajah’s research activities focus on the development and implementation of electronic systems which are powered by energy harvested from their environment. This includes the conversion of incident light (solar energy harvesting) and environmental mechanical vibrations into electrical form, power electronics to generate stable supply voltages, and load circuits which consume less than one milliwatt. These systems form the foundation for self-powered wireless sensor networks which have applications in green building design, infrastructure and environmental monitoring, medicine, and defense.
+
+Recent projects include the development of disk-shaped piezoelectric transducers for vibration-to-electric energy conversion, highly efficient integrated rectifier designs for multiple electrode energy harvesters, self-timed circuits and embedded dynamic memory for time-varying power supplies, integrated solar cells, and energy scalable reconfigurable arays for sensor signal processing. We are initiating new projects exploring how novel devices such as silicon nanowires can be best exploited for low power digital and mixed-signal integrated circuits at the end of the CMOS roadmap. Possible applications of these emerging devices include sensing elements for biological and chemical agents, switches, current buffers, and interconnect for 3D integration.
+
+He received the National Science Foundation CAREER award in 2006. He is an inventor on over twenty United States patents and is a member of IEEE, AAAS, and Sigma Xi. In the 2012-2013 academic year, he was a visiting scholar at the Berkeley Wireless Research Center.
+
+
+Rajeevan Amirtharajah
+TitleAssociate Professor
+Websitehttps://faculty.engineering.ucdavis.edu/amirtharajah/biography/
+E: ramirtha@ece.ucdavis.edu
+T: (530) 754-6562
+Address
+University of California, Davis
+Department of Electrical and Computer Engineering
+One Shields Avenue, Kemper Hall
+Davis, CA 95616
+CA
