@@ -1,6 +1,5 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, jsonify
 from flask_socketio import SocketIO, emit
-import os
 from openai import OpenAI
 from typing_extensions import override
 from openai import AssistantEventHandler
@@ -115,6 +114,7 @@ Do not provide citations or sources.
 URLs should be in the format of "https://www.example.com", no html formatting.
 Do not tell people why research areas are relevant, unless it is highly non-obvious. They will know why they are relevant.
 No boilerplate "his work pertains to area X", or "which relates to X". Just say what they do.
+Abbreviate University of California to UC.
 """
 data_name = 'pi_profiles'
 assistant_name = 'pi_profiles_assistant'
