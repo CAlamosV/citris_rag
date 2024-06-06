@@ -1,0 +1,18 @@
+Name: Matthew Guthaus
+
+Description: Matthew Guthaus is currently an Associate Professor at the University of California Santa Cruz in the Computer Engineering department. Matthew received his BSE in Computer Engineering in 1998, MSE in 2000, and PhD in 2006 in Electrical Engineering all from The University of Michigan. Matthew is a Senior Member of ACM and IEEE and a member of IFIP Working Group 10.5. His research interests are in low-power computing including applications in mobile health systems. This includes new circuits, architectures, and sensors along with their application to mobile and clinical health systems. Matthew is the recipient of a 2011 NSF CAREER award and a 2010 ACM SIGDA Distinguished Service Award.
+
+Title: Associate Professor
+
+Website: http://users.soe.ucsc.edu/~mrg/
+
+Email: mrg@soe.ucsc.edu
+
+Phone: (831)-406-1851
+
+Address: University of California, Santa Cruz Baskin School of Engineering 1156 High Street, MS SOE 3 Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-matthew-guthaus/
+
+Personal Website Text Short: UCSC Professor Matthew R. Guthaus This page has moved to GitHub
+

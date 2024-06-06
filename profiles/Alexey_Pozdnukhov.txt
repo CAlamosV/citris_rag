@@ -1,0 +1,18 @@
+Name: Alexey Pozdnukhov
+
+Description: I work on scalable data analytics methods for semantically rich modelling of urban dynamics. My research links advanced machine learning, complex networks and spatial interaction models into a general framework to quantify the emergence and evolution of spatio-temporal patterns in everyday dynamics and socio-economic structure of cities.
+
+Title: Assistant Professor
+
+Website: http://faculty.ce.berkeley.edu/pozdnukhov/
+
+Email: alexeip@berkeley.edu
+
+Phone: (510) 642-1008
+
+Address: 115 McLaughlin Hall CEE Systems and Transportation UC Berkeley CA 94720
+
+Profile URL: https://citris-uc.org/people/person/professor-alexey-pozdnukhov/
+
+Personal Website Text Short: 404 Not Found Not Found The requested URL /pozdnukhov/ was not found on this server. Apache/2.2.15 (CentOS) Server at faculty.ce.berkeley.edu Port 80
+

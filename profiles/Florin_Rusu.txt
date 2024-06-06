@@ -1,0 +1,21 @@
+Name: Florin Rusu
+
+Description: Florin is originally from the city of Cluj-Napoca in the historical region of Transylvania, Romania. He received a B.Eng. degree in 2004 from the Technical University of Cluj-Napoca, Faculty of Automation and Computer Science under the supervision of Sergiu Nedevschi. In 2005, he joined the graduate program in Computer Science at the University of Florida where he received a M.Sc. degree in 2008 and a Ph.D. degree in 2009. At UF, Florin worked on large scale data management problems under the supervision of Alin Dobra. He also participated in the design and implementation of multiple database systems under the coordination of Chris Jermaine.Research Interests•Large scale data management•Database systems design and implementation•Data aggregation methods•Approximation and randomized algorithmsEducation•Ph.D., 2009 — University of Florida•M.S., 2008 — University of Florida•B.S. in Engineering, 2004 — Technical University of Cluj-Napoca, Romania
+
+Title: Assistant Professor
+
+Website: http://www.ucmerced.edu/faculty/facultybio.asp?facultyid=167
+
+Email: frusu@ucmerced.edu
+
+Phone: (209) 228-4286
+
+Address: University of California, Merced
+5200 North Lake Rd.
+S&E Bldg. RM 262
+Merced, CA 95343
+
+Profile URL: https://citris-uc.org/people/person/professor-florin-rusu/
+
+Personal Website Text Short: 404 Not Found Not Found The requested URL "/faculty/facultybio.asp?facultyid=167" was not found on this server.
+

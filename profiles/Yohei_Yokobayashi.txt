@@ -1,0 +1,21 @@
+Name: Yohei Yokobayashi
+
+Description: Research InterestSynthetic Biology and Biomolecular EngineeringRecent advances in genomics and biotechnology have enabled us to start understanding biological systems as a whole rather than a collection of isolated biochemical events. At the same time, bioengineers who started with modifying single or few genes and proteins are beginning to design and construct more complex biological systems that often mimic those found in nature. Our goal is to develop tools that will enable us to engineer complex cellular functions such as sensing various molecules (proteins, drugs, metabolites, etc.), processing information, and intervene in gene regulation. We currently focus on engineering RNA to control gene expression in mammalian and prokaryotic cells in response to various molecules.
+
+Title: Associate Professor
+
+Website: http://www.bme.ucdavis.edu/people/departmental-faculty/profiles2/yohei-yokobayashi/
+
+Email: yoko@ucdavis.edu
+
+Phone: (530) 754-9676
+
+Address: University of California, Davis
+Biomedical Engineering
+One Shields Ave.
+Davis, CA 95616-5270
+
+Profile URL: https://citris-uc.org/people/person/professor-yohei-yokobayashi/
+
+Personal Website Text Short: nan
+

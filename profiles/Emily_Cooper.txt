@@ -1,0 +1,18 @@
+Name: Emily Cooper
+
+Description: Emily Cooper is an Assistant Professor of Optometry and Vision Science at University of California, Berkeley. She is co-Director of theCenter for Innovation in Vision and Optics, and a member of the Helen Wills Neuroscience Institute. Her research focuses on understanding the mechanisms and phenomenology of human visual perception, with an emphasis on 3D vision and binocular combination. Her research has also concentrated on applications for the design of visual displays and graphics.Research Interests:human vision, augmented reality, assistive technology, computational neuroscience
+
+Title: Assistant Professor of Optometry and Vision Science at UC Berkeley
+
+Website: http://www.emilyacooper.org/
+
+Email: emilycooper@berkeley.edu
+
+Phone: nan
+
+Address: nan
+
+Profile URL: https://citris-uc.org/people/person/emily-cooper/
+
+Personal Website Text Short: Cooper Lab University of California, Berkeley Perceptual Reality Lab HOME RESEARCH ABSTRACTS/POSTERS PUBLICATIONS/DATA/CODE PEOPLE We are a vision research lab at University of California, Berkeley. Our work examines biological vision, with relevance to both basic and translational questions. PI: Emily Cooper For information about undergraduate, graduate, and post-doctoral research opportunities, please contact emilycooper@berkeley.edu .
+

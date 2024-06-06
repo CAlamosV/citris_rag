@@ -1,0 +1,226 @@
+Name: Professor Iris Tommelein
+
+Description: Iris D. Tommelein is Professor of Engineering and Project Management, in the Civil and Environmental Engineering Department at U.C. Berkeley. She teaches and conducts research developing the theory and principles of project-based production management for the architecture-engineering-construction industry, what is termed ‘lean construction.’ Current research focuses on the work specialty contractors and suppliers perform and how they can become integral participants in design-build teams in order to increase process and product development performance. Professor Tommelein is an expert on construction site logistics, layout, as well as materials management, supply-chain management, and e-commerce. Her work involves computer-aided design, planning, scheduling, simulation, and visualization of construction processes; and the use of information technology including web-based systems, wireless communication, bar-coding, and laser-based positioning systems.Professor Tommelein is the Executive Director of the newly formed Project Production Systems Laboratory (P2SL), a research institute dedicated to developing and deploying knowledge and tools for project management as well as a learning lab for the Northern California construction industry. She is an active participant in the International Group for Lean Construction and she serves on the Board of Directors of the Lean Construction Institute. Professor Tommelein served on the Executive Committee of ASCE’s Technical Council on Computing and Information Technology (TCCIT). She is a member of the Construction Research Council of the Construction Institute of ASCE.Professor Tommelein is the 2002 recipient of the Walter L. Huber Civil Engineering Prize “for her research on civil engineering computing for managing project-based production systems in the engineering-architecture-construction industry”.
+
+Title: Professor
+
+Website: http://www.ce.berkeley.edu/~tommelein/
+
+Email: tommelein@ce.berkeley.edu
+
+Phone: (510) 643-8678
+
+Address: University of California, Berkeley
+215-A McLaughlin Hall #1712
+Berkeley, CA 94720 - 1712
+
+Profile URL: https://citris-uc.org/people/person/professor-iris-tommelein/
+
+Personal Website Text Short: Iris D. Tommelein, Professor of Civil and Environmental Engineering,
+U.C. Berkeley P2SL - Project Production Systems Laboratory Biography Research Pubs Teaching Students Memberships Conference
+      Organization Education Links Iris D. Tommelein Professor Interests: lean construction, supply-chain management, e-commerce,
+    engineering and management of project-based production systems, materials
+    management, construction processes, logistics and layout, information
+    technology. Mailing Address: Engineering
+      and Project Management Program Civil and Environmental Engineering
+      Department 212 McLaughlin
+      Hall University of California Berkeley, CA 94720-1712 Office Hours: Best to  email tommelein@berkeley.edu for an appointment. Email: tommelein@ce.berkeley.edu Phone: (510) 643-8678 Biography Iris D. Tommelein is Professor of Engineering and Project Management, 
+in the Civil and Environmental Engineering Department at the University of California, Berkeley, USA.
+ She teaches and conducts research to develop and advance the theory and principles 
+of project-based production management, applied to--but not limited to--the 
+Architecture-Engineering-Construction (AEC) industry, what is termed 'Lean Construction.' Professor Tommelein is an expert on construction site layout and logistics, 
+as well as materials- and supply-chain management. Her work experience is in 
+commercial building- and industrial construction. Her research focuses on 
+enabling integrated owner-designer-builder teams to continuously improve their 
+process- and product development performance. Current research topics include 
+adaptive project leadership, design- and change management, and 'green' 
+life-cycle engineering. Much of her work builds on using IT to support 
+product and process design, planning, scheduling, simulation, and visualization 
+(such as the development and use of Building Information Models (BIM)). Professor Tommelein directs the Project Production Systems Laboratory 
+(P2SL - p2sl.berkeley.edu ) 
+at UC Berkeley. P2SL is a research laboratory 
+dedicated to developing and deploying knowledge and tools for project management, 
+as well as a learning lab for the Northern California construction industry. 
+She is an active participant in the International Group for Lean Construction 
+(IGLC - www.iglc.net ) 
+and a Research Affiliate of the Lean Construction Institute 
+(LCI - www.leanconstruction.org ). 
+She served on the Executive Committee of ASCE's 
+Technical Council on Computing and Information Technology (TCCIT) and 
+is a member of the Construction Research Council of the Construction Institute of ASCE. 
+She is the 2002 recipient of the Walter L. Huber Civil Engineering Prize 
+awarded by ASCE "for her research on civil engineering
+    computing for managing project-based production systems in the 
+engineering-architecture-construction industry". Professor Tommelein's education includes a 5-year Civil Engineer-Architect degree from the VUB (Belgium), 
+an MS (Construction Engineering & Management), an MS (Computer Science), as well 
+as a PhD (Civil Engineering) all from Stanford University (USA). Research · Adaptive Project Leadership · Lean Construction Improving Design Management Using the Design Structure Matrix Target Value Design to Support 'Green' Project Financing Development and Use of Building Information Models (BIM) Set-based Design—SetPlan Tolerances (Management of Dimensional Variation)
+         e.g., Hollow Metal Doors, Cast-in-Place Concrete, Penetration and
+         Connections Improving
+         Design Fitness by Applying Tolerance Analysis, Methods Knowledge, and
+         Set-based Design Built-in Quality and Mistake-proofing (Poka Yoke) Work Structuring Reducing Lead Times for Engineered-to-order
+         Products Rebar Electrical Switchgear HVAC Sheet Metal Pipe Supports Pre-engineered Buildings Stainless Steel Process Equipment and Piping Coordinating
+         Specialists New
+         Technologies to Re-Engineer Materials Handling on Construction Sites Constraint-based
+         Work Package Scheduling —WorkPlan · Supply Chain
+    Management & e-Commerce The Value Chain - Adding Value tot the Supply
+         Chain: Value Chain Mapping, Performance Assessment, and Improvement Improving Construction Supply Chain Performance Role of the Distributor in the Age of e-Commerce · Materials
+    Management Tool
+         and Material Management Systems · Site Layout
+    Design Alternative
+         Strategies for Positioning Temporary Facilities—SightPlan Interactive Graphical System to Create Layouts that
+         Change over Time—MovePlan Space Schedule Planning and
+         Control—MoveCapPlan Heuristic
+         Optimization for Space-Time Scheduling—MoveSchedule · Integrated
+    Design, Planning, Scheduling, Simulation, and Visualization (nD CAD) of
+    Construction Processes Knowledge-Based
+         System Integrating Project with Process Planning and
+         Simulation—CIPROS Case-based Reasoning about Product Models for
+         Schedule Reuse Schedule
+          Reuse for Power Plant Boiler Erection—CasePlan Use of Computers, Information Technology, Wireless
+         Communication, Bar-coding, and Laser-based Positioning Systems Publications Click
+    here to go to the publications page. Teaching · Fall 2015 CE 268A Lean Construction Concepts and Methods CE 298 Construction Engineering and Management
+          Seminar · Spring 2016 CE 268B Lean Construction and Supply Chain
+          Management · Other courses
+    taught at The University of California, Berkeley, CA (semester last taught) E 10 Engineering Design and Analysis (Fall 2011) CE 92 Introduction to Civil and Environmental
+          Engineering CE 167 Engineering Project Management CE 169A Module 1: Web-Based Systems for
+          Engineering and Management CE 169B Module 2: Database Systems for Engineering
+          and Management CE 169C Module 3: Visualization and Simulation (Spring 2012) CE 298 Simulation of Lean Construction --
+          Research Seminar taught jointly with Glenn Ballard Lean Construction -- 2-day seminar offered through U.C. Extension 's Berkeley
+          Summer Engineering Institute, taught jointly with Glenn Ballard (June 2006) · Courses taught at
+    The University of Michigan, Ann Arbor, MI, 1989 to 1995 CEE 432 Construction Engineering (Equipment and
+          Methods) CEE 502 Artificial Intelligence Applications in
+          Civil Engineering CEE 536 Critical Path Methods CEE 538 Concrete Construction CEE 830 Construction Engineering and Management
+          Seminar Research Students Current Research Students (advisor or co-advisor with Prof. Glenn Ballard) Paz Arroyo (PhD Student, E&PM) Audrey Bascoul (PhD Student, E&PM) Nigel Blampied (PhD Student, E&PM) Adam Frandson (PhD Student, E&PM) Eder Martinez (PhD Student, E&PM) Graduates · Thais da Costa Lago Alves (PhD
+    Fall 2005, EPM) Research:
+    "Buffering Practices in HVAC Ductwork Supply Chains." · Roberto J. Arbulu (M.Eng. Spring 2002, CE&M) Current Position: Strategic
+    Project Solutions Research: "Improving Construction Supply Chain Performance: Pipe
+    Supports and System Interfaces." · Chang-Sun (Kevin) Chin (M.Eng.
+    Spring 2005, EPM) Research:
+    "Reducing Lead Times for Rebar Delivery" · Hyun Jeong (James) Choo (PhD Spring 2003, CE&M) Current Position:
+    CTO at Strategic
+    Project Solutions View research poster on: Constraint-based
+    Work Package Scheduling · Jan A. Elfving (PhD Fall 2003, E&PM) Current Position:
+    Employee at Skanska and Lecturer at Helsinki University of
+    Technology. Dissertation Title: Exploration of Opportunities to Reduce Lead Times for
+    Engineered-To-Ordered Products. · Peter Feng (PhD
+    Spring 2009, E&PM) · Nuno Gil (PhD Fall 2001, CE&M) Current position:
+    Lecturer at the University of Manchester - Institute of Science and
+    Technology (UMIST) Research: "Coordinating Specialists." View research poster on: HVAC
+    Expediter: Process-Product Simulation to Support Design-Build Organizations · Farook Hamzeh (PhD
+    Summer 2010, E&PM) · Hyun Woo Lee (PhD Spring 2012, E&PM) · Colin Milberg (PhD Fall 2006, E&PM) Research:
+    "Tolerance Allocation in the AEC Supply Chain." · Kristen Parrish (PhD
+    Spring 2009, CEE Systems) Research: "Management of Rebar Design & Detailing. " · Zofia Rybkowski (PhD Summer 2010, E&PM) Research:
+    " Target Costing in Design" · Carol Soares (Graduate Student, E&PM) · Stan Tuholski (PhD
+    Spring 2009, CEE Systems) · Cynthia C.Y. Tsao (PhD Fall 2005, E&PM) Current position:
+    Lean Coordinator, Consigli, Boston, MA Research: "Use of Work Structuring to Increase Performance of
+    Project-based Production Systems." Professional
+    Memberships and Affiliations University
+    of California at Berkeley · Project
+    Production Systems Laboratory (P2SL), College of Engineering,
+    Director · Center
+    for the Built Environment (CBE), College of Environmental
+    Design, Research
+    Staff · U.C. Berkeley Supply Chain
+    Management Initiative (SCMI), Haas School of Business,
+    University of California, Berkeley, Affiliated Faculty American
+    Society of Civil Engineers · Technical Council
+    of Computer Practices Executive Committee 1995-99, Chair 1997-98 Expert Systems and Artificial Intelligence
+          Committee, Member and EXCOM Representative, Past-chair Database and Information Management Committee,
+          Member and EXCOM Representative · Construction Institute Construction Research Council, Member Constructability Committe, Member Lean
+    Construction Institute Research Affiliate, 2010-current Member of Board of Directors, 1997-2010 The Lean Construction Institute organizes educational
+    seminars and offers consulting services that promote the implementation of
+    lean construction practices. The aim of the Institute is to identify and
+    advance best practices and develop the theory for lean production as it
+    applies to the architecture/engineering/construction (AEC) industry. International
+    Group for Lean Construction Member since 1997 The Seventh Annual Conference of the International Group for
+    Lean Construction was held from 26 to 28 July 1999 in Berkeley, California.
+    Have a look at the Proceedings
+    IGLC-7 . The proceedings of this 1999 conference and those of other
+    years are accessible through the main IGLC website. Member of Board of Consultants Journal
+         of Construction Research , as of 2003 Editorial Advisory Board Member Lean
+         Construction Journal (LCJ), member of Advisory Board as of Fall 2003 LCJ is an
+    international refereed journal devoted to Lean Construction practice and
+    research. The primary objective is to stimulate a systematic rethinking of
+    the construction process both on and off-site by providing a forum for
+    disseminating knowledge and exchanging ideas between industry and academia.
+    LCJ publishes high-quality practical papers that report developments,
+    provoke new thinking and chronicle the history of Lean Construction in a
+    manner that is readily accessible to reflective practitioners and clients
+    of the Architecture, Engineering, and Construction (AEC) Industry and AEC
+    students and faculty. LCJ publishes both basic and applied research papers
+    and reports on projects from practitioners, consultants and academics. Engineering,
+         Construction, and Architectural Management (ECAM), Regional
+         Editor ITCON —Information
+         Technologies in Construction, member of Editorial Board This electronic journal
+    is distributed freely to anyone wishing to subscribe. The primary means of
+    distribution is the World Wide Web. This journal has been endorsed by and
+    is the host journal of CIB-78 , a working group of the CIB (International Council for Research and Innovation in Building and
+    Construction). It is sponsored by the Swedish Council for Building Research . Conference
+    Organization 2012 20th Annual Conference of
+          the International Group for Lean Construction , (IGLC-20), San Diego,
+          California, Ken Walsh (Chair) and Iris Tommelein &Christine
+          Pasquire (Technical Chairs) and International Advisory Board Member.
+          Organized by the International Group for Lean Construction (IGLC). 2007 15th Annual Conference
+          of the International Group for Lean Construction , (IGLC-15),
+          Lansing, Michigan, International Advisory Board Member. Organized by
+          the International Group for Lean Construction (IGLC). Click here to get to the official
+          conference website at Michigan State University. 2006 14th Annual Conference
+          of the International Group for Lean Construction , (IGLC-14),
+          Santiago, Chile, International Advisory Board Member. Organized by
+          the International Group for Lean Construction (IGLC). Click here to get to the official conference
+          website in Chile. 2005 Construction
+          Research Congress 2005 ,
+          Ken Walsh (Chair) and Iris Tommelein (Technical Chair). Organized by
+          the ASCE. 13th Annual Conference
+          of the International Group for Lean Construction , (IGLC-13),
+          Brazil, International Advisory Board Member. Organized by the
+          International Group for Lean Construction (IGLC). 2004 12th Annual Conference of the
+          International Group for Lean Construction , (IGLC-12),
+          Denmark, International Advisory Board Member. Organized by the
+          International Group for Lean Construction (IGLC). 2003 11th Annual Conference of
+          the International Group for Lean Construction , (IGLC-11),
+          Blacksburgh, VA, International Advisory Board Member. Organized by
+          the International Group for Lean Construction (IGLC). 2002 3rd
+          International Conference on Concurrent Engineering in Construction (CEC02), here, in Berkeley, this summer from 1-3 July 2002. 10th Annual
+          Conference of the International Group for Lean Construction ,
+          (IGLC-10), August 6-8, 2002, Gramado-RS, Brazil, International
+          Advisory Board Member. Organized by the International Group for Lean
+          Construction (IGLC). ISARC 2002: 19th International
+          Symposium on Automation and Robotics in Construction , 23-25
+          September 2002, Washington, D.C., organized by NIST. 2001 9th Annual Conference of
+          the International Group for Lean Construction , (IGLC-9), Singapore,
+          International Advisory Board Member. Organized by the International
+          Group for Lean Construction (IGLC). Sixth International
+          Conference on the Application of Artificial Intelligence to Civil and
+          Structural Engineering AND Eigth International Conference on Civil and Structural
+          Engineering Computing , Eisenstand-Vienna, Austria, 19-21
+          September 2001, Editorial Board Member. 2000 8th
+          Annual Conference of the International Group for Lean Construction (IGLC-8), July 17-19, 2000, Brighton, U.K., Advisory Board Member.
+          Organized by the International Group for Lean Construction (IGLC). 8th International
+          Conference of Computing in Civil and Building Engineering , VIII-ICCCBE, August
+          14-17, 2000, Stanford University, CA, USA. ISARC 2000 , 17th
+          International Symposium on Automation and Robotics in Construction ,
+          September 18-20, 2000 in Taipei, Taiwan, Member of International
+          Program Committee. Organized by the International Association for
+          Automation and Robotics in Construction (IAARC). 1999 7th
+          Annual Conference of the International Group for Lean Construction (IGLC-7), July 26-27-28, 1999, Berkeley, California. Conference
+          Organized by Iris Tommelein jointly with Glenn Ballard. Members of
+          the International Group for Lean
+          Construction held their annual business meeting on July 28. The
+          conference proceedings are posted in electronic format on our conference
+          web site . NSF Sponsored Research
+          Workshop "Berkeley-Stanford CE&M Workshop: Defining a
+          Research Agenda for AEC Process/Product Development in 2000 and
+          Beyond." Organized by Professor Iris Tommelein jointly with
+          Professor Martin Fischer from Stanford University. Please visit the
+          workshop web site for more details: http://faculty.ce.berkeley.edu/tommelein/CEMworkshop.htm . Education PhD, Civil Engineering (Construction Engineering
+         and Management), Stanford
+         University , 1989 M.S., Computer Science (Artificial Intelligence), Stanford University ,
+         1989 M.S., Civil Engineering (Construction Engineering
+         and Management), Stanford
+         University , 1985 Civil Engineer-Architect (5 year degree), Free University Brussels (Vrije
+         Universiteit Brussel) , Brussels , Belgium , 1984 Links | Prof. Iris D. Tommelein | Project Production Systems Laboratory
+    (P2SL) | Engineering
+    and Project Management (E&PM) Program | Civil & Environmental Engineering
+    Department | U.C. Berkeley | E&PM Program / IDT / 3 DEC 2015
+

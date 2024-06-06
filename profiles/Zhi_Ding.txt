@@ -1,0 +1,73 @@
+Name: Zhi Ding
+
+Description: Dr. Ding is a Professor of Electrical and Computer Engineering. He received the B.S. degree from Nanjing Institute of Technology in 1982, M.A.Sc. degree from the University of Toronto in 1987, and the Ph.D. degree from Cornell University in 1990, all in electrical engineering. He is currently Professor of Electrical and Computer Engineering, University of California, Davis, CA. His research contributions cover a broad range of signal processing and communication problems including wireless transceiver optimization, blind channel estimation and equalization, multi-input-multi-output communications, multiuser detection, source separation, adaptive signal processing, parameter estimation, radar target discrimination, multimedia wireless communications, and cross-layer wireless communications. He has published over 200 refereed papers and book chapters.Dr. Ding has served on a number of technical programs for SPS workshops and conferences. He was associate editor for IEEE Transactions on Signal Processing from 1994-1997 and again from 2001-2004. He also served as associate editor of IEEE Signal Processing Letters from 2002-2005. He was a member of technical committee on Statistical Signal and Array Processing, member of technical committee on Signal Processing for Communications (1994-2003), and a member of the IEEE SPS Technical Committee on Multimedia Signal Processing(2001-2006). He was a member of the Editorial Board for the IEEE Signal Processing Magazine. Dr. Ding was on the Organization Committee of ICASSP 2005 in Philadelphia. He was the Technical Program Chair of the 2006 IEEE Globecom.Dr. Ding is a Fellow of the IEEE. Dr. Ding is named 2004-06 Distinguished Lecturer by the IEEE Circuits and Systems Society. He also received the IEEE Outstanding Instructor of the Year Award in 2002 for contributions to electrical engineering education from the IEEE student section in University of California, Davis.Dr. Ding has held visiting positions in Australian National University, Hong Kong University of Science and Technology, NASA Lewis Research Center, and USAF Wright Laboratory. Prof. Ding has active collaboration with researchers from several regions including Australia, China, Japan, Canada, Taiwan, Korea, Singapore, and Hong Kong. He is also a visiting professor of the Southeast University in Nanjing, China.
+
+Title: Professor
+
+Website: http://www.ece.ucdavis.edu/~zding/
+
+Email: zding@ece.ucdavis.edu
+
+Phone: (530) 752-4625
+
+Address: University of California, Davis 2064 Kemper Hall, 1 Shields Avenue, Davis, CA 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-zhi-ding/
+
+Personal Website Text Short: Wireless Communications Research, 3GPP, Standard Essential Patents, Infringement,  
+cellular, Expert Deposition, ITC, best known, Trial, Testimony, 4G, 5G, LTE, UMTS, GPRS, GSM, 2G, CDMA2000, 
+Inter Partes Review, PTAB triasl, Most Experienced, Best Wireless Expert, Wireless Consulting, Consulting
+Expert, LTE, famous Expert witness, testifying, IPR, Deposition Expert, IEEE 802.11,  WiFi, FRAND, ETSI, 3GPP, 
+Bluetooth, MIMO, DOCSIS, MoCA, Cable modems,      
+LTE-Advanced, and WiMAX 
+(Prof. Zhi Ding, UC Davis ECE Department), 
+World Famous Top Wireless Expert, Expert Witness, Litigation, Most Experienced Wireless Consultant, Famous Wireless expert, Intellectual Property Right, Dispute,
+Top WiFi Expert Consultant, Leading Wireless Expert, WiFi 802.11 Technologies, professor, Top
+wireless Litigation expert, Leading cellular expert, Witness, Litigation, Patent, Eastern
+District of Texas, Wi-Lan, 3GPP2, fair, reasonable, and non-discriminatory, super-star, best expert, best witness, 
+Top 3GPP LTE expert, Leading LTE Expert, Top LTE consultant, Patent Litigation
+consulting, Best Known consultant, Best wireless consultant, PTAB, ITC, 
+Famous Consulting Expert on Communications, Top Wireless Consultant, MoCA (Multimedia over Coax Alliance) Protocol, 
+Modems, DOCSIS Expert, DSL Expert, LTE Expert, Litigation, Power over Ethernet, Blutooth Skip to Content Skip to Navigation UC Davis College of Engineering Search Contact Us Home Current BRAT Research Interests/ Activities News Former Brats (Graduates) BRAT's Publications Books and Book Chapters Selected Journal Articles Selected Conference Papers Text Book on Communications Head-brat's CV NSF SpecEES Project Progress NSF MLWins Project Progress Current brats About Prof. Ding Technology and IP Consulting Address: 2064 Kemper Hall 1 Shields Avenue University of California Davis, CA 95616 USA zding @ucdavis .edu 1-530-752-4625(voice) 1-530-752-8428(fax) Welcome to BRAT-Lab (Broadband Radio Access Technologies Laboratory) Dr. Zhi Ding, Distinguished Professor of
+Electrical and Computer Engineering, head of BRAT-Lab,  on UC Davis campus Dr. Ding is a Faculty Member in the Department of Electrical and Computer Engineering, UC Davis.
+He received the B.S. degree from Nanjing Institute of Technology in 1982, M.A.Sc. degree from the University of Toronto in 1987, and the
+Ph.D. degree from Cornell University in
+1990, all in electrical engineering. He is currently Distinguished Professor 
+of Electrical and Computer
+Engineering, University of California, Davis, CA. His research
+contributions cover a broad range of signal processing and communication problems including wireless
+transceiver optimization,  blind channel estimation and
+equalization, multi-input-multi-output communications, multiuser
+detection, source separation, adaptive signal processing, parameter
+estimation, radar target discrimination, multimedia wireless
+communications,  and cross-layer wireless communications.  He
+has
+published over 400 refereed papers and book chapters. Dr. Ding has served on a number of  technical programs for SPS workshops
+and conferences. He was associate editor for IEEE Transactions on Signal Processing from 1994-1997 and again from 2001-2004. He also served as 
+associate editor of IEEE Signal
+Processing Letters from 2002-2005. He was a member of technical
+committee on Statistical Signal and Array Processing,   member
+of technical committee on Signal Processing for Communications
+(1994-2003), and   a member of the IEEE SPS Technical Committee on Multimedia Signal
+Processing (2001-2006).  He was a member of the 
+Editorial Board for the IEEE Signal Processing Magazine .
+Dr. Ding was on the Organization Committee of ICASSP 2005 in
+Philadelphia.  He was the Technical Program Chair of the 2006 IEEE
+Globecom and General Chair of the 2016 IEEE ICASSP. Dr. Ding is a Fellow
+of the IEEE . Dr. Ding was named 2004-06 Distinguished Lecturer by
+the IEEE Circuits and Systems Society, 2008-2010 Distinguished Lecturer
+by the IEEE Communications Society. He also received the IEEE
+Outstanding Instructor of the Year Award in 2002 for contributions to
+electrical engineering education from the IEEE student section in
+University of California, Davis. Dr. Ding has held visiting positions in Australian National
+University , Hong Kong University of Science and
+Technology , NASA 
+Lewis Research Center , and USAF Wright
+Laboratory . Prof. Ding has active collaboration with researchers from
+several regions including Australia, Canada, China, Finland, Japan, 
+Korea, Singapore, Taiwan, and Hong Kong. Technical News Former (Graduated) Brats Current Brats (Students) Prof. Ding's group of brats and visiting brats
+outside their office building (Kemper Hall) in a Spring Day of the
+21st Century. From left: River, Neil, Jovana, Li, Ash, Chengbin (visiting from NWPU), Zhihua (visiting from SEU),
+Huy-Dung, Zia, Shafi, Zhi, Forrest, Fabio (photographer). New Book: B. P. Lathi and Zhi Ding, Modern Digital and Analog Communication Systems, 5th Edition, 2018. ISBN13: 9780190686840.  Instructor's resources: Questions or comments? Email me [zding(at)ucdavis.edu]. Address: 2064 Kemper Hall, UC Davis, 1 Shields Avenue,
+Davis, CA 95616,  USA. Phone numbers:   1-530-752-4625.
+

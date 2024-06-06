@@ -1,0 +1,22 @@
+Name: Marilyn Walker
+
+Description: Marilyn Walker, is a Professor of Computer Science at UC Santa Cruz, and a fellow of the Association for Computational Linguistics (ACL), in recognition of her for fundamental contributions to statistical methods for dialog optimization, to centering theory, and to expressive generation for dialog. Her current research includes work on computational models of dialogue interaction and conversational agents, analysis of affect, sarcasm and other social phenomena in social media dialogue, acquiring causal knowledge from text, conversational summarization, interactive story and narrative generation, and statistical methods for training the dialogue manager and the language generation engine for dialogue systems.Before coming to Santa Cruz , Marilyn was a Professor of Computer Science at University of Sheffield. From 1996 to 2003, she was a Principal Member of Research Staff in the Speech and Information Processing Lab at AT&T Bell Labs and AT&T Research. While at AT&T, Marilyn worked on the AT&T Communicator project, where she developed a new architecture for spoken dialogue systems and statistical methods for dialogue management and generation.Marilyn has published more than 200 papers, and has 10 granted/pending U.S. patents. She received her Ph.D. in Computer Science from University of Pennsylvania (1993).
+
+Title: Professor
+
+Website: http://www.cs.ucsc.edu/people/maw
+
+Email: maw@soe.ucsc.edu
+
+Phone: (831) 459-1058
+
+Address: University of California, Santa Cruz
+Baskin School of Engineering
+1156 High St
+Mail Stop SOE3
+Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/marilyn-walker/
+
+Personal Website Text Short: nan
+

@@ -1,0 +1,18 @@
+Name: Bahram Parvin
+
+Description: Bahram Parvin received his Ph.D. in Electrical Engineering from the University of Southern California in 1991. His laboratory aims at technology development for molecular pathology, identifying novel biomarkers for tumor progression, and synthesizing delivery vehicles for complex biological systems. Parvin’s lab has developed (i) a computational pipeline for characterizing tumor histology sections from The Cancer Genome Atlas (TCGA), (ii) a testbed for high content screening of multicellular systems for identifying biomarkers by perturbing the microenvironment, and (iii) a screening protocol for identifying novel peptides for cargo delivery.He has been a member of program and organizing committees for a number of conferences, is a member of IEEE Steering Committee on Bioimaging and Signal Processing, is a member of IEEE Steering Committee on Translational Medicine, and is the General Chair of IEEE ISBI in 2013. He is a staff scientist with Lawrence Berkeley National Laboratory and is an adjunct Professor of Electrical Engineering at the University of California.
+
+Title: Staff Scientist
+
+Website: http://vision.lbl.gov/People/parvin/
+
+Email: B_Parvin@lbl.gov
+
+Phone: 510-486-6203
+
+Address: Lawrence Berkeley National Laboratory M.S. 977R225A Imaging and Bioinformatics Berkeley, CA 94720
+
+Profile URL: https://citris-uc.org/people/person/bahram-parvin/
+
+Personal Website Text Short: nan
+

@@ -1,0 +1,21 @@
+Name: Bruno Sanso
+
+Description: I am Professor of Statistics and Chair of the Department of Applied Mathematics and Statistics of the University of California, Santa Cruz, where I have been part of the faculty since the Fall of 2001. During these years I have joined the effort of founding the department and starting its core programs. Before coming to Santa Cruz, I was a founding member of the Center for Statistics and Mathematical Software as well as of the Department of Scientific Computing and Statistics of Universidad Simón Bolívar, Caracas, Venezuela. I worked at USB from 1987 to 2002, reaching the level of Full Professor.I obtained a PhD in mathematics at Universidad Central de Venezuela in 1992 with the dissertation Near Ignorance Classes for Bayesian Analysis written under the supervision of Luis Raúl Pericchi. After obtaining my PhD, my research activity focused on problems on robust Bayesian inference. Subsequently, I worked in problems related to model selection, meta-analysis and spatio-temporal modelling for rainfall and other environmental variables, always from a Bayesian viewpoint. Currently my work is focused on Bayesian spatio-temporal modeling, environmental and geostatistical applications, modeling of extreme values and statistical assessment of climate variability.I am an Editor for Bayesian Analysis, and and Associate Editor for Technometrics. I am an elected member of the International Statistical Institute and a Fellow of the American Statistical Association. I have ongoing collaborations with researchers from different institutions, including UPENN, NOAA, LANL, Univ. Simón Bolívar, Univ. de Lisboa and Univ. of Rio de Janeiro. I have supervised the graduate work of eleven students and I am currently supervising three more.
+
+Title: Professor
+
+Website: http://users.soe.ucsc.edu/~bruno/
+
+Email: bruno@soe.ucsc.edu
+
+Phone: (831) 459-1484
+
+Address: University of California, Santa Cruz
+School of Engineering
+1156 High Street Mail Stop: SOE2
+Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-bruno-sanso/
+
+Personal Website Text Short: Bruno Sansó
+

@@ -1,0 +1,18 @@
+Name: Chen-Nee Chuah
+
+Description: Chen-Nee Chuah is currently a Professor in the Department of Electrical and Computer Engineering at University of California, Davis. Chuah received her B.S. in Electrical Engineering from Rutgers University in 1995, and her M.S. and Ph.D. in Electrical Engineering and Computer Sciences from UC Berkeley in 1997 and 2001, respectively. From 2001 to 2002, she was a visiting researcher of the IP-Group at Sprint Advanced Technology Laboratories in Burlingame, CA. She joined UC Davis as a full-time Assistant Professor in July 2002, and currently leads the Robust and Ubiquitous Networking (RUBINET) Research Group. Chuah’s research interests lie broadly in communications and computer networks, distributed systems, and wireless/mobile computing, with emphasis on Internet measurements and analysis, anomaly detection, architecture of the future Internet, routing, traffic engineering, multimedia and emerging applications, and vehicular ad hoc networks.Chuah received the National Science Foundation CAREER Award in 2003 for her research on Robust, Stable, and Secure Routing. She received the Outstanding Junior Faculty Award from the College of Engineering at UC Davis in 2004. In 2008, Chuah was named a UC Davis Chancellor’s Fellow. Chuah has served on the technical program committee of several ACM and IEEE conferences and workshops (including SIGCOMM, INFOCOM, IMC, MOBICOM, and SECON). She received the ACM Recognition Award for co-organizing the First Workshop on Vehicular Ad Hoc Network (VANET) in 2004. She was the TPC vice-chair of IEEE GLOBECOM 2006 and the co-Chair of IEEE IWQoS 2007. She currently serves as the Associate Editor of IEEE/ACM Transactions on Networking.
+
+Title: Professor, Professor and Chancellor's Fellow
+
+Website: http://www.ece.ucdavis.edu/rubinet/people/chuah/bio.html
+
+Email: chuah@ece.ucdavis.edu
+
+Phone: (530) 752-5825
+
+Address: University of California, Davis 3125 Kemper Hall Electrical & Computer Engineering University of California at Davis One Shields Avenue, Davis, CA 95616-5294
+
+Profile URL: https://citris-uc.org/people/person/professor-chen-nee-chuah/
+
+Personal Website Text Short: Page not found – Electrical and Computer Engineering Menu Skip to content Home Not Found Apologies, but the page you requested could not be found. Perhaps searching will help. Search for: Search OK Archives No archives to show. Categories No categories Electrical and Computer Engineering | Powered by Mantra & WordPress. Privacy and Accessibility UC Davis Principles of Community
+

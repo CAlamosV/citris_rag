@@ -1,0 +1,36 @@
+Name: Linda Werner
+
+Description: Linda Werner is a associate researcher in Computer Science and a lecturer in Computer Science and Information Systems Management at the University of California, Santa Cruz.Her areas of interest include computer science education, pair programming, software engineering, and social issues.She received her B.A. in mathematics in 1973 from Clark University in Worcester, MA. After working in industry for many years, she returned to school and received her M.S. and Ph.D. in computer science from University of California, San Diego.
+
+Title: associate researcher
+
+Website: http://users.soe.ucsc.edu/~linda/
+
+Email: linda@soe.ucsc.edu
+
+Phone: (831) 459-1017
+
+Address: University of California, Santa Cruz
+Baskin School of Engineering
+1156 High St
+Mail Stop SOE3
+Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/linda-werner/
+
+Personal Website Text Short: Homepage, Dr. Linda L. Werner, lecturer and researcher Linda Werner, UC Santa Cruz: Linda Werner is an Adjunct Professor in Computer Science at the University of California, Santa Cruz. Her areas of interest include computer science education, pair
+programming, computational thinking for the middle school student, 
+software engineering, and social issues. She received her B.A. in mathematics in 1973 from Clark University in
+Worcester, MA.  After working in industry for many years, she returned
+to school and received her M.S. and Ph.D. in computer science from the University of California, San Diego . Linda can be found in E2-249 (831.459.1017) when at work. 
+Her office hours are by appointment for this quarter. Current Work Pair Programming in the Classroom CMPS115
+Winter 2008 ISM158
+Spring 2008 CMPS115
+Winter 2009 ISM158
+Spring 2009 CMPS115
+Winter 2010 CMPS115
+Fall 2010 ISM058
+Winter 2011 ISM050
+Spring 2011 CMPS115 Fall 2011 TIM050 Spring 2012 CMPS115 Fall 2012 CMPS116 Winter 2013 CMPS117 Spring 2013 Recent publications pair programming video can be downloaded from here Linda Werner
+linda at cse dot ucsc dot edu
+

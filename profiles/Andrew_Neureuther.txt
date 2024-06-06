@@ -1,0 +1,56 @@
+Name: Andrew Neureuther
+
+Description: Dr. Andrew R. Neureuther was born in Decatur, Illinois on July 30, 1941. He received the B.S., M.S., and Ph.D. degrees in Electrical Engineering from the University of Illinois, Urbana, in 1963, 1964 and 1966, respectively as a member of the Antenna Laboratory.Dr. Neureuther joined the Department of Electrical Engineering and Computer Sciences, University of California, Berkeley as a faculty member in 1966 where he is the Conexant Systems Distinguished Professor. His initial research was on integral equation methods for analysis of antennas and diffraction gratings. His main area of research has become computer-aided modeling of lithography and semiconductor fabrication processes. The latter began in 1972 through an industrial leave at the IBM T. J. Watson Research Center to work on photoresist modeling with Dr. F.H. Dill. With Professor W.G. Oldham, he then developed the user oriented computer programs for Simulation And Modeling of Profiles in Lithography and Etching (SAMPLE). The need to understand and control processes in the semiconductor industry provided the motivation, relevant applications and financial support to further extend this work through consortia and projects with the Semiconductor Research Corporation and DARPA. Recently, he also served as Associate Chair of his Department (1996-1999) and as Chair of the Applied Science and Technology Graduate Group (2000-2003).Dr. Neureuther has pioneered modeling and simulation of integrated circuit processing for many physical process effects as well as the use of these tools to explore innovation and manufacturing issues in emerging technologies. His work includes models for chemically amplified imaging materials (STORM), simulation of optical, electron, ion beam and x-ray lithography (SAMPLE), assessment of residual effects of defects and lens aberrations (SPLAT), electromagnetic scattering (TEMPEST), time-evolution of topography (SAMPLE3D), environments for integrating simulators with process flow (SIMPL) and remote web-based simulation (LAVA).Dr. Neureuther is a Fellow of the IEEE. He has published 250 papers and has advised 35 M.S. and 30 Ph.D. students. He was elected to the National Academy of Engineering (1995) and was selected as a Distinguished Alumni by the Electrical and Computer Engineering Department at Illinois (2001). He recently received the IEEE 2003 Cledo Brunetti field award which is given for contributions to miniaturization in electronics.
+
+Title: Professor
+
+Website: http://www.eecs.berkeley.edu/~neureuth/
+
+Email: neureuth@eecs.berkeley.edu
+
+Phone: (510) 642-4590
+
+Address: University of California, Berkeley 511 Cory Hall Berkeley, Ca 94720 - 1770
+
+Profile URL: https://citris-uc.org/people/person/professor-andrew-neureuther/
+
+Personal Website Text Short: Prof. Andrew R. Neureuther's Home Page bAndrew R. Neureuther, 509 Cory
+Hall,                          
+Version 11/14/2012 Under Construction Conexant Distinguished Professor
+Emeritus, Electrical Engineering and
+Computer Sciences PROCESS TECHNOLOGY NOTES or (PTN
+  Direct) LAVA (remote simulation) or (LAVA
+  Direct) (EE 243 Direct) RESEARCH RECENT
+TALK BIO/PUBS LITHOGRAPHY WEB SITES Tentative
+Office Hours: By Arrangement (email) CONTACT
+INFORMATION: email : neureuth@eecs Phone/Fax: Tel. 510-642-4590, Fax.  510-642-2739 Address: Professor Andrew R. Neureuther, Dept. EECS 231 Cory
+Hall, University of California, Berkeley, CA 94720-1770, Research Services Officer: Farah Pranawahadi, 510-643-2612, farah@erso Research Services Assistant: Charlotte Jones,
+510-643-2834, cmj@erso This web site is
+being updated to include a number of lectures on lithography as well as personel information on hobbies. PROCESS TECHNOLOGY NOTES: (go to PTN for more
+information) <> This is an evolving mini-library of snipits of materials on physically based model for
+characterizing microfabrication technology. It tends
+emphasize optical lithography as this is the main interest of the TCAD Group at
+UC Berkeley. The purpose is to make available globally two types of information of likely
+practical use in microfabrication . Materials that supplement existing
+textbooks on process technology and might be used in classes. Information on concepts and results from
+research that likely contribute to the practice of microfabrication . RESEARCH : My research interests are photolithography and integrated circuit process
+technology simulation. You can view recent results from the SAMPLE Technology
+CAD Group. SAMPLE TCAD
+     Group and Lithograpy trends , Simulation
+     of Mask Issues Simulation
+     of Resist and Electron-Beam Issues , Remote
+     Simulation via the web and References , Example graphics
+     from our T echnology CAD
+     Tools . LAVA
+Remote Simulation: (go to LAVA for more information) The Lithography
+Analysis through Virtual Access web site facilitates remote simulation
+using TCAD tools from the SAMPLE Group. This includes SPLAT, SAMPLE, SIMPL, TEMPEST,
+STORM, PBODY-BEAM and SAMPLE3D. There are a number of application-oriented
+graphical applets for user convenience. It is also possible to remotely launch
+TEMPEST and the Pattern Matcher. The research of my group is sponsored in part under the Feature Level
+Compensation and Control project in the State of California and
+Industry U.C. Discovery program. It is also supported in part under the Network for Advanced Lithography sponsored by DARPA/SRC. LITHOGRAPHY
+WEB SITES: (go to LAVA for additional
+information on TCAD) Semiconductor bay at www.semiconbay.com Lithography Research at The Rochester institute of
+     Technology TCAD research at Stanford at http://www-tcad.stanford.edu/tcad.html TCAD research at the Technical University of Vienna at http://www.iue.tuwien.ac.at/
+

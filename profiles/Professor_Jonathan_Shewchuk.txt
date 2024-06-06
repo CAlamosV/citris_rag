@@ -1,0 +1,242 @@
+Name: Professor Jonathan Shewchuk
+
+Description: Professor Jonathan Shewchuk obtained his B.Sc. in Physics and Computing Science from Simon Fraser University, 1990, and a M.S. and Ph.D. in Computer Science from Carnegie Mellon University, the latter in 1997. He joined the Computer Science Division of the Department of Electrical Engineering and Computer Sciences at UC Berkeley in 1998.He does research in scientific computing, computational geometry (especially mesh generation, numerical robustness, and surface reconstruction), numerical methods, and physically-based animation.
+
+Title: Associate Professor
+
+Website: http://www.cs.berkeley.edu/~jrs
+
+Email: jrs@cs.berkeley.edu
+
+Phone: (510) 642-3936
+
+Address: University of California, Berkeley
+625 Soda Hall #1776
+Berkeley, CA 94720 - 1776
+
+Profile URL: https://citris-uc.org/people/person/professor-jonathan-shewchuk/
+
+Personal Website Text Short: Jonathan Richard Shewchuk Jonathan Shewchuk Professor in Computer Science University of California at Berkeley Office 529 Soda Hall Computer Science Division University of California at Berkeley Berkeley, California  94720-1776 (510) 642-3936 [(510) NICE ZEN] Office hours (510 or 529 Soda Hall) Mondays, 5:10-6:00 pm Fridays, 5:10-6:00 pm and by appointment. Outside of office hours or lectures,
+your best shot at contacting me is to try my office
+between 3 pm and midnight on Monday, Wednesday, or Friday,
+in person or by phone.
+Those are the ideal times to ask me about
+research, coursework, or anything else.
+Sadly, Soda Hall and its fifth floor are locked after 6:30,
+so call my office if you want to visit and don't have a keycard.
+While you're by, ask me to make a pot of tea.
+I get teas from Upton Tea Imports ,
+a first-rate importer in Massachusetts,
+and I enjoy introducing people to the good stuff. Mornings I sleep.  Attempts to phone me then are futile. I DO RESEARCH in scientific computing, computational geometry
+(especially mesh generation, numerical robustness, and surface reconstruction),
+numerical methods, and physically-based animation.
+If you came here with a specific object in mind, you're probably looking for my
+triangular mesh generator Triangle ,
+my paper An Introduction to the Conjugate Gradient Method Without the Agonizing
+Pain ,
+or my paper What Is a Good Linear Finite Element?
+Interpolation, Conditioning, Anisotropy, and Quality Measures . If you are considering applying for graduate school or a postdoctoral position in the Computer Science Division, please read this note . New: Announcing what I think is the best paper I've ever written
+(with former UC Berkeley student Sagnik Bhattacharya).
+We characterize the geometry and topology of the fiber of W :
+the set of all weight vectors for which
+a linear neural network computes the same linear transformation W .
+The fiber is an algebraic variety, but usually not a manifold.
+We stratify the fiber—that is, we partition it into
+smooth manifolds of varying dimensions called strata .
+We derive the dimensions of these strata and
+the relationships by which they adjoin each other. To help achieve these goals, we first derive what we call
+a Fundamental Theorem of Linear Neural Networks , analogous to
+what Strang calls the Fundamental Theorem of Linear Algebra .
+We show how to decompose each layer of a linear neural network into
+a set of subspaces
+that show how information flows through the neural network.
+Each stratum of the fiber represents a different pattern by which
+information flows (or fails to flow).
+The topology of a stratum depends solely on its basis flow diagram.
+So does its geometry, up to a linear transformation in weight space. Jonathan Richard Shewchuk and Sagnik Bhattacharya, The Geometry of the Set of Equivalent Linear Neural Networks ,
+arXiv:2404.14855 [cs.LG]. PDF (color, 99 pages) from arXiv , or you can download a locally stored copy . Product T RIANGLE . A production-quality C program for
+two-dimensional constrained Delaunay triangulation and quality mesh generation.
+See the Triangle page to obtain the source code and for hypertext instructions.
+I expect to release its three-dimensional successor, Star ,
+in the near future.
+The algorithms behind Triangle and Star are discussed in my dissertation
+and in several other papers on my Papers
+page . S TELLAR . A C program for aggressively improving the quality of tetrahedral meshes,
+making them suitable for finite element analysis.
+Stellar routinely improves meshes so that the smallest dihedral angle is larger
+than 30 degrees and the largest dihedral angle is smaller than 140 degrees.
+See the Stellar page to obtain the source code, hypertext instructions, and
+publications describing its algorithms. S TREAMING G EOMETRIC S OFTWARE . Software tools for processing huge meshes and point sets,
+including Delaunay triangulation construction in two or three dimensions
+and computations for GIS (Geographic Information Systems).
+Need to triangulate billions of points, or use them
+to construct elevation maps and isocontours, on an ordinary computer?
+Martin Isenburg, I, and our collaborators have streaming tools for constructing huge Delaunay triangulations, constructing Digital Elevation Maps and isolines, processing LIDAR data in LAS format, and visualizing LIDAR data in Google Earth. Our algorithms for processing gobs of data are discussed in several papers on
+my Papers
+page . E XACT A RITHMETIC AND R OBUST G EOMETRIC P REDICATES . I've written a set of fast routines for exact floating-point
+addition and multiplication, which I've used to create
+fast correct geometric predicates, namely the two- and three-dimensional orientation and incircle tests.
+These predicates are used to make the Delaunay triangulation routines
+in Triangle and Star robust against roundoff error.
+See my Robust Predicates page for more information, for papers,
+or to obtain the C source code. Proselytization P APERS . All my publications are available here. The conjugate gradient method Mesh generation Physically-based computer animation Streaming geometry Numerical analysis of finite element quality Numerically robust geometry Constrained Delaunay triangulations Surface reconstruction Large-scale earthquake simulation Parallel finite element methods Communication requirements of unstructured simulations Route planning on real-world maps R ESEARCH O VERVIEW . Here's a self-contained summary of some of my research.
+This is the fastest way to learn a bit about my work. T HREE S INS OF A UTHORS IN C OMPUTER S CIENCE AND M ATH . A short crotchety essay that will improve your technical writing,
+or annoy you trying.
+You won't find these sins decried in the usual books of writing advice. While you're at it, you might be interested in my (less snarky) advice on Giving an Academic
+Talk . Projects B ERKELEY C OMPUTER A NIMATION & M ODELING G ROUP . We develop numerical and geometric methods for physically-based animation,
+especially for objects and materials with dynamically changing geometry.
+Dynamic geometry is important for modeling fluids, viscoplastic materials,
+and events such as surgery, car crashes, and explosions. Q UAKE . The Quake Project is a multidisciplinary Grand Challenge Application
+Group studying ground motion in large basins during strong earthquakes,
+with the goal of characterizing the seismic response of the Los Angeles basin.
+We created some of the largest unstructured finite element
+simulations ever performed. Professing CS 294:  M ESH G ENERATION AND G EOMETRY P ROCESSING IN G RAPHICS , E NGINEERING , AND M ODELING ( Spring 2012 , Spring 2008 , Autumn 1999 ) . Techniques for generating and processing meshes for
+finite element methods, graphics, interpolation,
+Geographical Information Systems, and other applications.
+Algorithms for computing optimal triangulations. CS 274:  C OMPUTATIONAL G EOMETRY ( Spring 2019 , Spring 2017 , Spring 2015 , Spring 2013 , Autumn 2009 , Autumn 2006 , Spring 2005 , Spring 2003 ) . Geometric algorithms, analyses, and applications.
+Polygons, polytopes, triangulations, planar and spatial subdivisions,
+convex hulls, halfspace intersections, Voronoi diagrams,
+Delaunay triangulations, arrangements of lines and hyperplanes.
+Geometric queries (databases, point location), binary space partitions,
+robot motion planning, cartography, solid modeling,
+small-dimensional linear programming, and more. CS 189 / CS 289A:  I NTRODUCTION TO M ACHINE L EARNING ( Spring 2024 , Spring 2023 , Spring 2022 , Spring 2021 , Spring 2020 , Spring 2019 , Spring 2017 , Spring 2016 ) . The study of how computers can “learn”
+by finding patterns in data and using them to make predictions.
+Covers supervised learning methods such as classification and regression, and
+unsupervised learning methods such as clustering, dimensionality reduction, and
+density estimation. CS 170:  E FFICIENT A LGORITHMS AND I NTRACTABLE P ROBLEMS (Spring 2001) . The study of advanced algorithms, including graph algorithms,
+dynamic programming, linear programming, matrix multiplication,
+and number theory, plus an introduction to the theory of
+NP-completeness. CS 61B:  D ATA S TRUCTURES ( Spring 2014 , Spring 2013 , Spring 2012 , Autumn 2010 , Spring 2009 , Autumn 2006 , Spring 2005 , Spring 2004 , Spring 2002 , Spring 2000 , Autumn 1998 ) . An introduction to data structures (lists, trees, hash tables, graphs, etc.),
+simple algorithms (searching and sorting), encapsulation,
+and the language Java. CS 4 aka CS 39L:  I NTRODUCTION TO C OMPUTING FOR E NGINEERS (Spring 2006) . An introductory computer programming class that employs
+examples from engineering and science.
+An alternative to CS 3, taught in the language Java. Protégés M ARTIN I SENBURG , 1972–2021,
+In Memoriam .
+Martin was a Post-Doctoral Scholar under my supervision
+from the summer of 2005 to the summer of 2007.
+He developed a software suite called the LAStools for fast streaming computation of geographical information (including Delaunay triangulations ) on huge data sets,
+which he subsequently promoted through his personal company, rapidlasso GmbH .
+I wrote an extended obituary for him after
+his sad early death. M ARC K HOURY in May 2020 completed his Ph.D. on restricted
+constrained Delaunay triangulations and
+the geometry of adversarial examples.
+Read his dissertation, Geometric
+Sampling Theory, Triangulations, and Robust Machine Learning .
+He now works at Hudson River Trading. B RYAN K LINGNER in November 2008 completed his Ph.D. on tetrahedral
+mesh improvement algorithms and physical simulations with dynamically changing geometry .
+Read his dissertation, Improving
+Tetrahedral Meshes .
+He now works at Google. R AVIKRISHNA K OLLURI in December 2005 completed his Ph.D. on surface reconstruction algorithms,
+including spectral
+surface reconstruction , scan registration,
+moving least squares interpolation for generating implicit surfaces
+(which won the Best Student Paper Award
+at the 2005 Symposium on Discrete Algorithms),
+and the very cool power
+crust .
+Read his dissertation, From
+Range Images to 3D Models .
+He now works at Google. F RANÇOIS L ABELLE in August 2007 completed his Ph.D. on
+tetrahedral mesh generation algorithms with
+guaranteed dihedral angles (notably isosurface
+stuffing ).
+Read his dissertation, Tetrahedral
+Mesh Generation with Good Dihedral Angles Using Point Lattices .
+During his time at Berkeley,
+he also did lovely work in anisotropic
+mesh generation . J ESSICA S CHOEN in May 2008 completed her M.S. on
+robust anisotropic mesh generation in the plane.
+Read her thesis, Robust,
+Guaranteed-Quality Anisotropic Mesh Generation . Promotion C ARNEGIE M ELLON U NIVERSITY'S S CHOOL OF C OMPUTER S CIENCE IS H ELL . My t-shirt design for the 1992 Immigration Course, a three-week departmental
+orientation for new doctoral students.
+If you want to print it, I recommend downloading the full-size version ( 3888 x 6456, 784k GIF ) .
+It's a 600 dpi scan of a sheet of legal-size paper. C ALVIN AND H OBBES AND C ARNEGIE M ELLON U NIVERSITY'S S CHOOL OF C OMPUTER S CIENCE . My t-shirt design for the 1994 Immigration Course.
+For printing, here's the full-size version ( 3553 x 5861, 621k GIF ) ,
+which is also a 600 dpi scan of a sheet of legal-size paper. Profile I WAS BORN in Cranbrook , British Columbia, Canada.
+I am a Canadian citizen and a U.S. permanent resident.
+I obtained my B.Sc. in Physics and Computing Science from Simon Fraser University in 1990,
+and my M.S. and Ph.D. in Computer Science from Carnegie Mellon University ,
+the latter in 1997. I am trained to only sleep during
+national holidays .
+I joined the Computer Science Division of the Department of Electrical Engineering and Computer Sciences at Berkeley in 1998.
+I am also an Adjunct Semi-Senior Pseudoscientist with
+Enhanced Library Privileges in the School of Information Repetition at Stanford–Berkeley Professors' Spouses'
+University .
+My favorite piano concertos are Brahms' Second , Medtner's Third ,
+and Scharwenka's
+Fourth .
+Only I am allowed to talk about Fight Club. Editorial F OR OVER 30 YEARS , researchers and government agencies have put forth nutritional edicts
+that are unsupported, and often contradicted, by their own data:
+“ saturated fat
+(or all fat) is bad for you ”;
+“polyunsaturated vegetable oils are good for you”;
+“ grains
+are healthy ”;
+“ whole
+grains are healthier ”;
+“ fiber is important
+for good health ”;
+“ carbohydrates are
+essential ”;
+“ high
+LDL cholesterol (or total cholesterol) causes heart disease ”;
+“ fat
+is fattening ”;
+“obesity can be combatted by eating less and
+exercising more .”
+The public and press are unaware how much scientific evidence
+nutritional authorities have had to ignore to perpetuate these
+notions, which survive on account of ambition, politics, and fear of scientific
+ostracism, rather than good science. Meanwhile, a new picture is emerging in which the
+“diseases of civilization”—heart disease, diabetes, overweight , tooth
+decay ,
+and perhaps even Alzheimer's disease and many cancers—are symptoms
+of a metabolic dysfunction caused by both the wrong foods and deficiencies
+of the right ones.
+The most likely culprits appear to be metabolism-disrupting lectins in grains (especially wheat, other gluten
+grains , and soy); fructose (often in the form of high fructose corn syrup, from grain); omega-6
+fats and lectins in vegetable seed oils (also from grain); iron ;
+and deficiencies of Vitamin D 3 , Vitamin K 2 MK-4 , copper , omega-3 fats, magnesium ,
+and niacin .
+It is not yet clear whether carbohydrates in large amounts are inherently
+harmful, though they are clearly harmful to many people who have broken their
+metabolisms with grain products.
+(If there is a safe carbohydrate source, it is probably root vegetables.) Consumption of grains, vegetable seed oils, fructose, and carbohydrates
+has risen sharply, and intake of Vitamin K 2 MK-4 has dropped,
+in response to official demonization of dietary saturated fat,
+causing increases of type 2 diabetes and obesity.
+The American Medical Association, the American
+Heart Association , the American Diabetes
+Association ,
+and many other authorities have blood on their hands, and
+they will continue to lead us lambs into the slaughterhouse of grain
+poisoning until the culture of nutritional research is reformed. While I've been aware of these facts for some time, I now have a rigorous
+account to direct people to.  Gary Taubes, in Good
+Calories, Bad Calories —his new
+exposé of what the scientific data really reveal—writes,
+“The institutionalized vigilance,
+‘this unending exchange of critical judgment,’
+is nowhere to be found in the study of nutrition, chronic disease,
+and obesity, and it hasn't been for decades.  For this reason, it is difficult
+to use the term ‘scientist’ to describe those individuals who
+work in these disciplines.  …
+The result is an enormous enterprise dedicated in
+theory to determining the relationship between diet, obesity, and disease,
+while dedicated in practice to convincing everyone involved, and the lay
+public, most of all, that the answers are already known and always have
+been—an enterprise, in other words, that purports to be a science and yet
+functions like a religion.”  Harsh words, but words entirely justified by
+the data in the research literature—though the papers that present those
+data often go through great contortions to explain them away and defend the dogma . I call upon the National Institutes of Health (NIH) to fund large randomized
+controlled trials that test the hypothesis that grain-derived carbohydrates
+are central in the etiology of coronary heart disease, diabetes, and obesity.
+Over the past two decades, the NIH has dedicated its largest nutritional grants
+to unsuccessfully confirming the “fat is bad” hypothesis, while
+neglecting all competing hypotheses.  We are all suffering for this
+misallocation of resources. “[Wisdom] is earned through disgrace, through painful realization of
+the inadequacy of your personal world view.” — Nat Hillard “In my psychedelic, hazy-vision state, where I reach the ultimate
+heightened awareness of the beer-buzz, I realise the true meaning of exams:
+that professors are evil, torture-loving beings, and that we cannot blame them
+for their shortcomings.” — Rob Chung “We need a more lasting form of negative feedback than just
+paper rejections.” — Jonathan Hardwick on research
+

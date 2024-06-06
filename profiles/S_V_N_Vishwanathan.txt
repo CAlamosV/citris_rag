@@ -1,0 +1,18 @@
+Name: S V N Vishwanathan
+
+Description: S V N Vishwanathan’s research goal is to design, analyze and implement novel machine learning algorithms that take advantage of modern hardware to enable learning on and mining of massive datasets.With the increasing availability of many-core processors, general-purpose graphics processing units and solid-state drives, we are witnessing a hardware revolution. Existing machine learning algorithms do not take advantage of these emerging computing paradigms and hence do not scale to the increasingly common massive, distributed datasets. To develop the next generation of machine learning algorithms, we need to develop new models as well as new systems-aware, efficient, scalable optimization algorithms.Four major deliverables of Vishwanathan’s research agenda include:new models for learning from massive datasetsnew optimization algorithms–specialized for machine learning–that can exploit recent advances in hardware,novel theoretical analysis for the new models and optimization algorithmsopen-source tools for large scale machine learning.In addition, S V N Vishwanathan is committed to dissemination of these ideas via publications, lectures at machine learning summer schools, and graduate and undergraduate level classes.Research interests: machine learning algorithms for massive datasets, optimization, large scale learning.
+
+Title: Professor of Computer Science
+
+Website: nan
+
+Email: vishy@ucsc.edu
+
+Phone: nan
+
+Address: University of California, Santa Cruz 1156 High Street Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/s-v-n-vishwanathan-2/
+
+Personal Website Text Short: nan
+

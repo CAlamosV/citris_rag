@@ -1,0 +1,34 @@
+Name: Athanasios Kottas
+
+Description: Athanasios Kottas’s research interests include Bayesian modeling and inference, Bayesian nonparametrics, survival analysis, semiparametric regression modeling, spatial statistics, and categorical data analysis. Kottas earned B.S. and M.S. degrees in mathematics from the University of Ioannina, Greece, and a Ph.D. in statistics from the University of Connecticut. Before joining the UCSC faculty, he was a visiting assistant professor at Duke University.
+
+Title: Associate Professor
+
+Website: http://users.soe.ucsc.edu/~thanos/
+
+Email: thanos@soe.ucsc.edu
+
+Phone: (831) 459-5536
+
+Address: University of California, Santa Cruz
+Baskin School of Engineering
+1156 High St
+Mail Stop SOE2
+Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-athanasios-kottas/
+
+Personal Website Text Short: Thanasis Kottas Athanasios Kottas Professor, Department of Statistics Baskin School of Engineering University of California, Santa Cruz Office: 523 Engineering 2 Building Phone: 831-459-5536; E-mail: thanos@soe.ucsc.edu Education Ph.D. in Statistics (2000), Department of Statistics , University of Connecticut. M.Sc. in Statistics and Operations Research (1996),
+Department of Mathematics, University of Ioannina , Greece. B.Sc. in Mathematics (1994), Department of Mathematics,
+University of Ioannina, Greece. Employment July 2018 -- present: Professor, Department of Statistics, UCSC. July 2002 -- June 2018: Assistant Professor (2002--2008), Associate Professor
+(2008--2012), Professor (2012--2018), Department of Applied Mathematics
+and Statistics, UCSC. August 2000 -- June 2002: Visiting Assistant Professor, Institute
+of Statistics and Decision Sciences, Duke University. Research interests: Bayesian nonparametrics; Mixture models; Modeling and inference for point processes;
+Nonparametric regression; Survival analysis. Applications in biometrics, ecology and the environmental sciences. Publications and work in progress Students Sample of conference/seminar talks Editorial Service Editor for Bayesian Analysis (since December 2018) Associate Editor for Bayesian Analysis (April 2008 -- December 2018), and for Sankhya Series B (January 2016 -- December 2018) Action Editor for the Journal of Machine Learning Research (September 2011 -- August 2013) Courses on Bayesian nonparametrics Tutorial on "Nonparametric Bayesian density regression: modeling
+methods and applications", Bayesian Nonparametrics Networking
+Workshop 2023 , Monash University, Melbourne, Australia, December
+4, 2023. Tutorial notes Short course on "Applied Bayesian Nonparametric
+Mixture Modeling", ISBA 2021 World Meeting , Virtual
+Conference, June 26, 2021. Course notes and References UCSC course ``Bayesian Nonparametric Methods"
+(offered 10 times, starting in Spring 2004). thanos@soe.ucsc.edu Last updated December 16, 2023
+

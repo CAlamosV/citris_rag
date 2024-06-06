@@ -1,0 +1,18 @@
+Name: Kai Liu
+
+Description: Professor Kai Liu joined UC Davis in 2001. His research interest is in experimental studies of nanostructured materials for nanomagnetism, spin-transport, and advanced energy explorations. Due to their intricate nanostructures, extremely small length scales, rich surfaces and interfaces, low dimensionality, and interplay among constituents, nanostructured materials often exhibit new and enhanced properties over their bulk counterparts. Additionally, these novel properties can be tailored through extra degrees of freedom, such as structure and material. Professor Liu is particularly interested in magnetic nanostructures where the electron spin coherence may be preserved and exploited, providing a spin-based vision for electronics of the future. This is of critical importance as downscaling of CMOS-based devices face huge uncertainties regarding power consumption and dissipation, resulting in a catastrophic power crisis that has stalled progress across all scales. Spin-based applications represent potentially paradigm-shifting innovations and transformative opportunities that can address the grand challenges of our time.Current Research topics include:Nanosynthesis of artificially structured materialsVortices in nanomagnetsSpin-transport in multilayered nanowires and other systemsPerpendicular magnetic anisotropyExchange biasSi-based half-metals
+
+Title: Professor
+
+Website: http://www.physics.ucdavis.edu/~kliu/
+
+Email: kailiu@ucdavis.edu
+
+Phone: (530) 752-4109
+
+Address: University of California, Davis Department of Physics One Shields Avenue Davis, CA 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-kai-liu/
+
+Personal Website Text Short: Kai Liu's Home Page Adjunct Professor Experimental Condensed Matter Physics Physics Department , UC Davis Office: (530) 752-4109; 207 Physics Fax: (530) 752-4717 Kai Liu Google Scholar Profile Prof. Liu has moved to Georgetown University Magnetism & Spin-Transport in Nanostructured Materials First Order Reversal Curves High Anisotropy L1 0 FeCuPt Artificial Magnetic Skyrmions Magneto-Ionic Control of Interfaces Group Selected Publications All Publications Patents Teaching Physics 1B (Spring 2018) Physics 250-3 (Spring 2018) Physics 122 (Spring 2013) Physics 9B Physics 298 Last Updated 07/2019
+

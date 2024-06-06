@@ -1,0 +1,18 @@
+Name: Zubair Shafiq
+
+Description: Zubair Shafiq is an associate professor of computer science at the University of California, Davis. His research focuses on making the internet more private, secure and performant using network measurement and machine learning techniques.Research interests: Privacy, security, machine learning.
+
+Title: Associate Professor of Computer Science
+
+Website: nan
+
+Email: zshafiq@ucdavis.edu
+
+Phone: nan
+
+Address: University of California, Davis
+
+Profile URL: https://citris-uc.org/people/person/zubair-shafiq/
+
+Personal Website Text Short: nan
+

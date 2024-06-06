@@ -1,0 +1,18 @@
+Name: David Lee
+
+Description: David T. Lee is an Assistant Professor of Technology Management at UC Santa Cruz. He received his PhD from Stanford University, where he was a part of the Social Algorithms Lab and Crowdsourced Democracy Team, and his BS from the California Institute of Technology. His research centers around using HCI and algorithms to make it possible for governments and NGOs to mobilize and coordinate citizens at scale towards addressing complex, societal issues. His work has received a Notable Paper Award at HCOMP, been published in the Proceedings of the National Academy of Sciences (PNAS), and deployed with the Finland Ministry of the Environment. He is a recipient of the NSF Graduate Research Fellowship, an Accel Innovation Scholar, and a two-time recipient of a Magic Grant from the Brown Institute for Media Innovation.Research AreasCrowdsourcing, Collective Intelligence, Social Computing, Computational Social Choice, Participatory Democracy, Human Computer Interaction, Algorithmic EconomicsWeb PageTech4Good LabThe Refugee Project
+
+Title: Assistant Professor, Technology Management
+
+Website: https://tech4good.soe.ucsc.edu/
+
+Email: davidtlee@ucsc.edu
+
+Phone: nan
+
+Address: University of California, UC Santa Cruz Engineering 2, Room 559 Santa Cruz, Ca
+
+Profile URL: https://citris-uc.org/people/person/david-lee/
+
+Personal Website Text Short: Tech4good
+

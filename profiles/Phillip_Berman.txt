@@ -1,0 +1,18 @@
+Name: Phillip Berman
+
+Description: Dr. Phillip Berman is a biotech industry veteran with extensive experience in discovery research and manufacturing process development. He earned his Ph.D. in Biochemistry at Dartmouth Medical School and was a postdoctoral fellow at the Salk Institute (La Jolla, CA) and the Dept. of Biochemistry and Biophysics at UCSF. Dr. Berman joined Genentech in 1982 and for the next 15 years worked on many projects including developing basic technology for the expression and recovery of recombinant proteins, vaccines to prevent Herpes Simplex Virus and AIDS. He also played a leadership role on projects focusing on chimeric receptors and therapeutic monoclonal antibodies to treat autoimmunity and inflammatory disease. Dr. Berman is best known for his 25 year effort to develop an HIV vaccine, which began with the development of the first vaccine that could induce neutralizing antibodies and protect chimpanzees from HIV infection, and culminated in the world’s first large scale, Phase III, HIV vaccine efficacy trials involving more than 7500 volunteers in North America, Europe and Thailand. His quest for an HIV vaccine began at Genentech and was continued at VaxGen, a company co-founded by Dr. Berman and CDC vaccine expert, Dr. Donald Francis. While at VaxGen (1997-2004), Dr. Berman served as Sr. Vice President of Research and Development where, besides carrying out activities to support the HIV vaccine trials, he participated in the conceptual design of a large scale mammalian cell manufacturing facility (Celltrion, Inc.) as a joint venture between VaxGen and Korean investors. In 2004 Dr. Berman and Dr. Don Francis founded Global Solutions for Infectious Diseases, a not-for-profit organization, with initial funding from the Bill and Melinda Gates Foundation, dedicated to combining technology and expertise from the biotechnology industry and public health sector know-how to address problems of infectious disease prevention and control, including HIV, in the developing world. Dr. Berman joined the faculty of the University of California, Santa Cruz in July of 2006 where he serves as the Jack Baskin Professor of Biomolecular Engineering. In 2009 the results of the RV144 vaccine trial became available, which showed for the first time that vaccination according to a prime/boost regimen could prevent infection by HIV-1 in humans. The RV144 trial included priming immunizations with VCP1521 from Sanofi Aventis and booster immunizations with the AIDSVAX B/E vaccine invented by Dr. Berman at Genentech and VaxGen. Dr. Berman’s research currently focuses on the processing and presentation of HIV envelope proteins to the immune system and on mutations in HIV-1 that confer sensitivity and resistance to virus neutralizing antibodies. The information gained from these studies should lead to the development of improved HIV vaccines.
+
+Title: Professor
+
+Website: http://www.cbse.ucsc.edu/people/berman
+
+Email: pwb@soe.ucsc.edu
+
+Phone: (831) 459-3529
+
+Address: University of California, Santa Cruz Baskin School of Engineering 1156 High St Mail Stop SOE2 Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-phillip-berman/
+
+Personal Website Text Short: nan
+

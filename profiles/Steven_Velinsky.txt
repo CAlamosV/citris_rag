@@ -1,0 +1,19 @@
+Name: Steven Velinsky
+
+Description: My research interests are in mechanical systems analysis and design.I have been involved in the analysis and design of a wide variety of systems including: wire ropes and cables, vehicles, air bearings, ballscrew mechanisms, eye surgery, and automated highway maintenance and construction machinery.I am Director of the Advanced Highway Maintenance & Construction Technology (AHMCT) Research Center at the University of California, Davis. The AHMCT Center is aimed at advancing the methods used for highway operations by incorporating advanced automation and robotics technologies for the purposes of improving safety and efficiency of these operations.
+
+Title: Professor,
+
+Website: http://www.ahmct.ucdavis.edu/people/velinsky.htm
+
+Email: savelinsky@ucdavis.edu
+
+Phone: (530) 752-4166
+
+Address: University of California, Davis Dept of Mechanical and Aeronautical Engineering One Shields Avenue Davis, CA 95616-5294
+
+Profile URL: https://citris-uc.org/people/person/professor-steven-velinsky/
+
+Personal Website Text Short: Web Site Not Found Web Site Not Found Sorry, we could not find any content for this web address.  Please check the URL. If you are an Acquia Cloud customer and expect to see your site at this address, you'll need to add
+this domain name to your site via the Acquia Network management console. Acquia Inc.
+

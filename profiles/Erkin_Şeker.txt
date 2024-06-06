@@ -1,0 +1,18 @@
+Name: Erkin Şeker
+
+Description: Erkin Şeker leads a research group that focuses on engineering high-throughput miniaturized screening platforms to study nanoscale material properties and their implications on electrical, biochemical, optical and biological properties. Şeker’s team are employing these techniques to the development of biosensors for pathogens, miniature drug delivery platforms, multifunctional neural interfaces and combinatorial material libraries.
+
+Title: Professor of Electrical and Computer Engineering
+
+Website: http://web.ece.ucdavis.edu/~eseker
+
+Email: eseker@ucdavis.edu
+
+Phone: nan
+
+Address: nan
+
+Profile URL: https://citris-uc.org/people/person/erkin-seker/
+
+Personal Website Text Short: Seker Lab - Welcome HOME NEWS RESEARCH PEOPLE PUBLICATIONS PRESS TEACHING R ESOURCES CONTACT
+

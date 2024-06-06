@@ -1,0 +1,46 @@
+Name: Professor David Wagner
+
+Description: Professor Wagner is a Professor in the Computer Science Division at the University of California, Berkeley with extensive experience in computer security and cryptography. Dr. Wagner is an Alfred P. Sloan Research Fellow and a CRA Digital Government Fellow. Dr. Wagner was a co-designer of one of the Advanced Encryption Standard finalists. His current research is on security for wearable devices, smartphone security, and other topics in computer security. Previously he has worked on software security, cryptography, and e-voting. In the past, Dr. Wagner has served as a member of the Security Peer Review Group for the SERVE Internet voting project, a technical advisor to the ACLU Ad-Hoc Committee on Touchscreen Voting, and a member of the California Secretary of State’s Voting Systems Technical Assessment Advisory Board. Dr. Wagner serves on the committee for theNSA Award for the Best Scientific Cybersecurity Paper, on the CACM Research Highlights editorial board, and on the editorial board for theJournal of Election Technology and Systems (JETS).
+
+Title: Professor
+
+Website: http://www.cs.berkeley.edu/~daw/
+
+Email: daw@cs.berkeley.edu
+
+Phone: (510) 642-2758
+
+Address: University of California, Berkeley
+733 Soda Hall
+Berkeley, Ca 94720 - 1776
+
+Profile URL: https://citris-uc.org/people/person/professor-david-wagner/
+
+Personal Website Text Short: David Wagner David Wagner Professor Carl J. Penther Chair in Engineering Computer Science Division University of California, Berkeley Research interests. Computer security.
+I am currently working on security for AI
+(particularly security for large language models),
+AI for security, and other topics in computer security.
+I have worked on software security , electronic voting , wireless security , sensor network security , and applied cryptography . Projects. My group page is here .
+I'm part of Berkeley's security research group and a member of the ACTION Institute . I was previously co-PI or PI for SCRUB ,
+the Intel Science and
+Technology Center for Secure Computing ,
+and the DHOSA project,
+and I was a member of the TRUST , ACCURATE , Science of Security , and ISAAC projects. Publications. My technical papers and
+publications are all available online. Teaching. See my past teaching . Students. I'm lucky to have the chance to work with a group of
+outstanding graduate students and postdocs: Sizhe Chen , Zhanhao Hu , Norman Mu ,
+and Julien Piet .
+See also the students I've graduated . Contacting me. See my contact information for my address
+and other details. Software. Our group releases code for many of our recent papers on Github . Also available: DiverseVul ,
+a dataset of vulnerabilities in code; SLIP ,
+a multi-modal model for images and text; OpenCount ,
+a tool to help with auditing of elections conducted using
+optical-scan paper ballots; AuditBear ,
+a web application for analyzing audit logs from ES&S iVotronic
+voting machines; Joe-E ,
+a Java-based programming language for secure programming; html-sanitizer-testbed ,
+a suite of tests to probe the security of a HTML sanitizer;
+and CQual++ ,
+a tool for type inference analysis of C and C++ code. Recruiting. I am looking for a strong postdoc with interests in applications
+of machine learning to security or security of LLMs,
+starting in 2024. I do not have any opportunities for internships or collaborations with high school students at this time. David Wagner, daw@cs.berkeley.edu , http://www.cs.berkeley.edu/~daw/ .
+

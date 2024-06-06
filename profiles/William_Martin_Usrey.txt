@@ -1,0 +1,20 @@
+Name: William Martin Usrey
+
+Description: W. Martin Usrey’s laboratory uses anatomical and physiological tools to study the functional organization of the mammalian visual system. In particular, his lab is interested in how visual information is processed and transmitted from one level of the visual pathway to the next.Along the visual pathway, from retina to extrastriate cortex, neurons become increasingly selective to the patterns of light – the visual stimulus – that are excitatory. The goal of their research is to understand the neural circuitry responsible for generating these selective responses. In addition, they are also investigating the dynamics of these neural circuits to determine what role activity patterns play in influencing neuronal responses.In an ongoing study, they are investigating the relationship between ascending and descending connections made between the thalamus and visual cortex. In an effort to determine the functional role(s) of these connections, they are using multielectrode arrays to record the responses of neurons that are synaptically connected are discovering the rules that govern the connections from one level to the next, and how these connections determine new visual response properties.The lab’s research is funded by the National Institutes of Health, the National Science Foundation, the McKnight Foundation, the Esther A. and Joseph Klingenstein Foundation, and the Alfred P. Sloan Foundation.
+
+Title: Professor of Neurobiology, Physiology & Behavior, College of Biological Sciences
+
+Website: nan
+
+Email: wmusrey@ucdavis.edu
+
+Phone: (530)754-5468
+
+Address: Center for Neuroscience
+1544 Newton Court
+ Davis, CA 95618
+
+Profile URL: https://citris-uc.org/people/person/professor-william-martin-usrey/
+
+Personal Website Text Short: nan
+

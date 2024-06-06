@@ -1,0 +1,18 @@
+Name: Grace Gu
+
+Description: Grace X. Gu is an assistant professor of mechanical engineering at the University of California, Berkeley. She received her Ph.D. and M.S. in mechanical engineering from the Massachusetts Institute of Technology and her B.S. in mechanical engineering from the University of Michigan-Ann Arbor. Her current research focuses on creating new materials with superior properties for mechanical, biological and aerospace applications using multiphysics modeling, artificial intelligence and high-throughput computing, as well as developing intelligent additive manufacturing technologies to realize complex material designs. Gu is the recipient of several awards, including the 3M Non-Tenured Faculty Award, Office of Naval Research (ONR) Young Investigator Program Award, Defense Advanced Research Projects Agency (DARPA) Young Faculty Award, MIT Technology Review 35 Innovators Under 35, Johnson & Johnson Women in STEM2D Scholars Award, Prytanean Faculty Award, and SME Outstanding Young Manufacturing Engineer Award.Research interests: bioinspired materials, composites, additive manufacturing, computational materials science, deep learning, computer vision
+
+Title: Assistant Professor of Mechanical Engineering
+
+Website: https://gu.berkeley.edu/
+
+Email: ggu@berkeley.edu
+
+Phone: nan
+
+Address: University of California, Berkeley
+
+Profile URL: https://citris-uc.org/people/person/grace-gu/
+
+Personal Website Text Short: Gu Research Group | UC Berkeley Mechanical Engineering Skip to main content Skip to primary navigation Skip to primary sidebar Header Search Widget Search this website Gu Research Group UC Berkeley Mechanical Engineering Home Research People Publications News Home Welcome to the Gu Research Group at UC Berkeley! The Gu Research Group works at the intersection of mechanics, additive manufacturing, materials, and artificial intelligence. We aim to develop deep learning algorithms to accelerate multi-physics modeling and inverse design of tailored materials with specific functions and desired properties. Additionally, we aim to make additive manufacturing more accessible, economical, and ubiquitous. We harness tools such as advanced computational analysis, machine learning, and topology optimization to expand and revolutionize the field of smart additive manufacturing – printing what we need with minimal amount of material and creating more efficient functional, customizable designs. These advances will find applications in tough body armor and helmet designs, resilient and lightweight structural materials in extreme environments, soft robotics, biomedical devices, aerospace, among many others. Please refer to the Research and Publications sections for more information about our work. Gu Lab Research Focus Areas Contact: Prof. Grace X. Gu Department of Mechanical Engineering, UC Berkeley Email: ggu@berkeley.edu Primary Sidebar Recent Posts Kundo receives the Sejong Science Fellowship, congratulations! Yuna receives the SB11 Poster Presenter Travel Award at MRS Spring, congratulations! Several Gu Group members are attending MRS Spring in Seattle! Brennan receives NSF GFRP Honorable Mention, congratulations! Gu Group receives the TMS SMD Young Leaders Professional Development Award! UC Berkeley Berkeley Engineering Privacy Accessibility Nondiscrimination © 2016–2024 UC Regents  | Log in
+

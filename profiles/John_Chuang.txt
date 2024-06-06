@@ -1,0 +1,18 @@
+Name: John Chuang
+
+Description: Dr. John Chuang is a professor in the School of Information at UC Berkeley, with an affiliate appointment in the Department of EECS. His research interests are in economics of network architectures, economics of information security, incentives for peer-to-peer systems, and ICT for development. The Chuang Sirbu Scaling Law is named for his work on scaling properties of multicast trees.He received his Ph.D. in Engineering and Public Policy from Carnegie Mellon University, M.S. in Electrical Engineering from Stanford University, and graduated summa cum laude in Electrical Engineering from the University of Southern California.Prof. Chuang is co-founder of BoxBabble, an ingredient-based search tool serving consumers with food allergies and sensitivities. He designed the register file and the chip logo for the MIPS R10000 microprocessor, now in the collection of the National Museum of American History at the Smithsonian Institute.
+
+Title: Associate Professor
+
+Website: http://www.sims.berkeley.edu/~chuang/
+
+Email: chuang@ischool.berkeley.edu
+
+Phone: (510) 642-7253
+
+Address: University of California, Berkeley School of Information 303A South Hall Berkeley, CA 94720-4600
+
+Profile URL: https://citris-uc.org/people/person/john-chuang/
+
+Personal Website Text Short: nan
+

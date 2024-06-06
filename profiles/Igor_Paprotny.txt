@@ -1,0 +1,18 @@
+Name: Igor Paprotny
+
+Description: Dr. Igor Paprotny is an Assistant Professor in the Electrical and Computer Engineering department at the University of Illinois, Chicago. His research interest include applications of MEMS to distributed self-powered microsensors for the Smart Grid, microrobotics, and pollution monitoring using air microfluidics. He received his Ph.D. in Computer Science from Dartmouth College while part time in-residence at the Department of Computer Science at Duke University. He holds an Engineering Diploma in Mechatronics from the NKI College of Engineering in Oslo, Norway, as well as BS and MS degrees in Industrial Engineering from Arizona State University in Tempe, Arizona.
+
+Title: Research Scientist
+
+Website: http://www1.ece.uic.edu/~paprotny/
+
+Email: paprotny@uic.edu
+
+Phone: (312) 996-1924
+
+Address: 851 S. Morgan M/C 154 1115 SEO Chicago, IL. 60607
+
+Profile URL: https://citris-uc.org/people/person/igor-paprotn/
+
+Personal Website Text Short: nan
+

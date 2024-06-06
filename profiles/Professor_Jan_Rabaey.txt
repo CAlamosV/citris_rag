@@ -1,0 +1,20 @@
+Name: Professor Jan Rabaey
+
+Description: Jan Rabaey received the EE and Ph.D degrees in Applied Sciences from the Katholieke Universiteit Leuven, Belgium, respectively in 1978 and 1983. From 1983 till 1985, he was connected to the University of California, Berkeley as a Visiting Research Engineer. From 1985 till 1987, he was a research manager at IMEC, Belgium, and in 1987, he joined the faculty of the Electrical Engineering and Computer Science department of the University of California, Berkeley, where he is now holds the Donald O. Pederson Distinguished Professorship. He has been a visiting professor at the University of Pavia (Italy), Waseda University (Japan), Technical University Delft (Netherlands), Victoria Technical University and the University of New South Wales (Australia). He was the Associate Chair (EE) of the EECS Dept. at UC Berkeley from 1999 till 2002, and is currently the Scientific co-director of the Berkeley Wireless Research Center (BWRC), as well as the director of the FCRP GigaScale Systems Research Center (GSRC).Jan Rabaey authored or co-authored a wide range of papers in the area of signal processing, design automation, and low power and wireless systems design. He is the author of “Digital Integrated Circuits: A Design Perspective”, a state-of-the art textbook on digital circuit design (Prentice Hall, ISBN 0-13-178609-1). He is also the editor/author of “Low Power Design Methodologies” and “Power Aware Design Methodologies”, two Springer books that present an in-depth coverage on low-power design ranging from the technology up to the system level. He co-edited “Ambient Intelligence”, a Springer-Verlag book on the applications, technology and systems aspects of the Ambient Intelligence concept. In 2009, he published “Low Power Design Essentials”, an integrated text book on low-power design using an innovative format published by Springer.He received numerous scientific awards, including the 1985 IEEE Transactions on Computer Aided Design Best Paper Award (Circuits and Systems Society), the 1989 Presidential Young Investigator award, the 1994 Signal Processing Society Senior Award, the 2002 ISSCC Jack Raper Award, the 2008 IEEE CAS Mac Van Valkenburg Award, the 2009 EDAA Lifetime Achievement Award, and the 2010 SIA University Researcher Award. In 1995, he became an IEEE Fellow. He is past chair of the VLSI Signal Processing Technical Committee of the Signal Processing Society and chaired the executive committee of the Design Automation Conference. Prof. Rabaey serves on the technical advisory board of a range of companies and research institutes focused in the areas of design automation, semiconductor intellectual property and wireless systems.His current research interests include the conception and implementation of next-generation integrated wireless systems. This includes the analysis and optimization of communication algorithms and networking protocols, the study of low-energy implementation architectures and circuits, and the supporting design automation environments.
+
+Title: Professor
+
+Website: http://web.me.com/janrabaey/JansSite/Home.html
+
+Email: jan@eecs.berkeley.edu
+
+Phone: (510) 643-3986
+
+Address: University of California, Berkeley
+563 Cory Hall
+Berkeley, Ca 94720 - 1770
+
+Profile URL: https://citris-uc.org/people/person/professor-jan-rabaey/
+
+Personal Website Text Short: nan
+

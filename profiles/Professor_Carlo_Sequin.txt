@@ -1,0 +1,379 @@
+Name: Professor Carlo Sequin
+
+Description: Carlo H. Séquin is a professor of Computer Science at the University of California, Berkeley. He received his Ph.D. degree in experimental physics from the University of Basel, Switzerland in 1969. From 1970 till 1976 he worked at Bell Telephone Laboratories, Murray Hill, NJ, on the design and investigation of Charge-Coupled Devices for imaging and signal processing applications. At Bell Labs he also got introduced to the world of Computer Graphics in classes given by Ken Knowlton.In 1977 he joined the faculty in the EECS Department at Berkeley. He started out by teaching courses on the subject of very large-scale integrated (VLSI) circuits, thereby building a bridge between the CS division and the EE faculty. In the early 1980’s, jointly with Dave Patterson, he introduced the `RISC’ concept to the world of microcomputers. He was head of the Computer Science Division from 1980 till 1983. Since then he has concentrated on computer graphics, geometric modeling, and on the development of computer aided design (CAD) tools for circuit designers, architects, and for mechanical engineers. During the 1990’s he has collaborated with Paul Wright in Mechanical Engineering on the CyberCut/CyberBuild project with the goal to streamline the path from creative design to rapid prototyping.Since the mid-1990’s, Séquin’s work in computer graphics and in geometric design have provided a bridge to the world of art. In collaboration with a few sculptors of abstract geometric art, in particular with Brent Collins of Gower, MO, Séquin has found yet another domain where new frontiers can be opened through the use of computer-aided tools. Large bronze sculptures resulting from collaborations between Brent Collins, Steve Reinmuth of the Bronze Studio in Eugene, OR, and Carlo Séquin have been installed in the lobby of Sutardja Dai Hall at U.C. Berkeley and in the courtyard of the H&R Block headquarters building in Kansas City.During his tenure at Berkeley Séquin has directed the research of 26 Ph.D. students and has supervised 77 graduate students in the completion their Masters Theses. Every year he is also working with several undergraduate students on individual study or programming projects.Dr. Séquin is a Fellow of the ACM, a Fellow of the IEEE, and has been elected to the Swiss Academy of Engineering Sciences. He has received the IEEE Technical Achievement Award for contributions to the development of computer-aided design tools, the Diane S. McEntyre Award for Excellence in Teaching, and an Outstanding Service Award from the University of California for Exceptional Leadership in the Conception, Design and Realization of Soda Hall.
+
+Title: Professor
+
+Website: http://www.cs.berkeley.edu/~sequin
+
+Email: sequin@cs.berkeley.edu
+
+Phone: (510) 642-5103
+
+Address: University of California, Berkeley
+639 SODA HALL # 1776 
+Berkeley, CA 94720 - 1776
+
+Profile URL: https://citris-uc.org/people/person/professor-carlo-sequin/
+
+Personal Website Text Short: Homepage for Prof. C.H. Sequin Carlo H. Séquin Professor of Computer Science, CS Division, EECS Dept.,
+              U.C. Berkeley, ( Graphics and HCI ) CONTACT: UNIVERSITY OF
+                    CALIFORNIA COLLEGE OF
+                    ENGINEERING EECS COMPUTER
+                    SCIENCE DIVISION 639
+
+
+
+
+
+
+
+                    SODA HALL # 1776 BERKELEY CA
+                    94720-1776 Email: sequin(at)eecs(dot)berkeley(dot)edu Phone: (510) 642-5103 FAX: (510) 643-1289 SCHEDULE: Weekly
+
+
+
+
+
+
+
+                    Schedule, Office Hours Travel
+
+
+
+
+
+
+
+                    Plans NO SUMMER INTERNSHIPS AVAILABLE Soda Hall Jacobs DII __ Pillar of Engineering _ __ Life&Dreams __ __ CS39:Symm&Topo Art & Math Sculpture __ __ Usr.Gd.Inv.3D.Mod _ Sculpting Geometry Twisted Tori Trip Photos Recent Work: SCULPTURES EXHIBITS TALKS PAPERS REPORTS VIDEOS CONSTRUCTION PROJECTS Biographical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Information : Lists
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          of publications, talks, artwork Curriculum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Vitae Biographical
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sketch Research
+Interests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        and Projects : Buildings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        and Construction Projects : Student
+&
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Visitor Information : Current
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Students Ph.D.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Students Graduated M.S.
+
+
+
+
+
+
+
+          Students Graduated Recent Teaching Assignments: Spring 2019: CS 39: Symmetry & Topology (Freshman Sophomore
+          Seminar) 2018/19 : URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering 2017/18: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2017/18: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering Fall 2017: CS 39: Symmetry & Topology (Freshman Sophomore
+          Seminar) 2016/17: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2016/17: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering Spring 2016: CS 39: Symmetry & Topology (Freshman Sophomore
+          Seminar) 2015/16: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2015/16: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering 2014/15: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2014/15: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering 2013/14: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2013/14: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering 2012/13: CS299:
+
+
+
+
+
+
+
+            Graduate Research 2012/13: URAP: UGIS
+
+
+
+
+
+
+
+
+
+
+
+
+            192 D: Research Physical Sciences/Engineering Summer 2013: CompSci 97; CompSci 197:
+          Curricular Practical Training (Field Studies) Spring 2013: CS 39: Symmetry & Topology (Freshman Sophomore
+          Seminar) Spring 2013: CompSci 97; CompSci 197 : Curricular Practical Training (Field Studies) Spring 2013: CS299:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Graduate Research Fall 2012: CS 284:
+            Computer-Aided Geometric Design and Modeling (Splines,
+          Subdivision, Surface Optimization, Texturing) Spring 2012: CS299:
+          Graduate Research Spring 2012: UGIS 192
+          D: Research Physical Sciences/Engineering Fall 2011: CS 285:
+            (Procedural) Modeling of Solid Shapes (and Rapid
+          Prototyping) Spring 2011: CS
+            184: Introduction to Computer Graphics Previous Teaching Assignments
+

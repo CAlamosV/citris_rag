@@ -1,0 +1,18 @@
+Name: Stefano Carpin
+
+Description: Stefano Carpin received his “Laurea” (MSc) and Ph.D. degrees in electrical engineering and computer science from the University of Padova, Italy in 1999 and 2003, respectively.From 2003 to 2006 he held faculty positions with the International University Bremen, Germany.Since 2007 he has been with the School of Engineering at UC Merced, where he established and leads the UC Merced robotics laboratory, and he currently serves as chair of the graduate program in Electrical Engineering and Computer Science.His research interests include mobile and cooperative robotics for service tasks, and robot algorithms. He published more than 80 papers in international journals, conferences, and workshops. He routinely serves as associate editor or program committee member for the major international conferences in robotics, and since May 2010 he is an associate editor for the IEEE Transactions on Robotics. From 2006 to 2009 he served as elected executive member of the RoboCup federation. Under his supervision, teams participating in the RoboCupRescue Virtual Robots competition won second place in 2006 and 2008, and first place in 2009. Since he moved to UC Merced his research has been supported by the National Science Foundation, the Center for Information Technology Research in the Interest of Society (CITRIS), Microsoft Research, and General Motors.
+
+Title: Associate Professor
+
+Website: http://eng.ucmerced.edu/people/scarpin
+
+Email: scarpin@ucmerced.edu
+
+Phone: (209) 228-4152
+
+Address: University of California, Merced School of Engineering 5200 North Lake Rd Merced, CA 95343
+
+Profile URL: https://citris-uc.org/people/person/professor-stefano-carpin/
+
+Personal Website Text Short: UCM Directory You need to enable JavaScript to run this app.
+

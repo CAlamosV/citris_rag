@@ -1,0 +1,19 @@
+Name: Darrell Long
+
+Description: Dr. Darrell D.E. Long is Professor of Computer Science. He holds the Kumar Malavalli Endowed Chair of Storage Systems Research and is Director of the Storage Systems Research Center.He received his B.S. degree in Computer Science from San Diego State University, and his M.S. and Ph.D. from the University of California, San Diego. His dissertation advisor was Jehan-François Pâris.He is a Fellow of the Institute of Electrical and Electronics Engineers and of the American Association for the Advancement of Science. He is a member of the IEEE Computer Society, the Association for Computing Machinery, the American Society for Engineering Education, the Usenix Association, Upsilon Pi Epsilon and Sigma Xi.He has broad research interests in many areas of mathematics and science, and in the area of computer science include data storage systems, operating systems, distributed computing, reliability & fault tolerance, and computer security. His research has been supported by the National Science Foundation, the Department of Energy (Office of Science and National Nuclear Security Administration), Lawrence Livermore, Los Alamos and Sandia National Laboratories, the Office of Naval Research, and a number of industrial sponsors that include IBM, Microsoft, NetApp, Symantec, LSI Logic, Samsung, Hewlett-Packard and Data Domain.He served as the Vice Chair and then Chair of the University of California Committee on Research Policy. He has served on the University of California President’s Council on the National Laboratories, and on the Science & Technology, National Security and Intelligence committees. He currently serves on the Science & Technology committee for both Los Alamos and Lawrence Livermore National Laboratories. He served on the National Research Council Standing Committee on Technology Insight-Gauge, Evaluate and Review. He continues to serve on numerous committees and advisory panels for various Federal government agencies.
+
+Title: Professor
+
+Website: http://users.soe.ucsc.edu/~darrell/Home.html
+
+Email: Darrell@cs.ucsc.edu
+
+Phone: (831) 459-2616
+
+Address: University of California, Santa Cruz Baskin School of Engineering 1156 High St Mail Stop SOE3 Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-darrell-long/
+
+Personal Website Text Short: 403 Forbidden Forbidden You don't have permission to access /~darrell/Home.html
+on this server. Apache/2.4.6 (CentOS) Server at users.soe.ucsc.edu Port 443
+

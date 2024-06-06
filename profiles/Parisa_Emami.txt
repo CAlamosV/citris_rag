@@ -1,0 +1,18 @@
+Name: Parisa Emami
+
+Description: Parisa Emami is a vitreoretinal surgeon and uveitis specialist at UC Davis Health. She studies various imaging tools in ocular inflammatory disease and retinal pathologies. Emami’s research combines artificial intelligence (AI) and machine learning (ML) with ocular imaging and instrumentation to develop new diagnostic tools and models to evaluate disease activity and predict response to treatment.Her research areas include the development of imaging biomarkers in patients with ocular inflammation (uveitis),machine learning in evaluation of disease status and thedevelopment of automated retina imaging devices.Research interests:deep learning, medical devices, ocular imaging.
+
+Title: Assistant Professor and Director of Uveitis Service, Department of Ophthalmology
+
+Website: nan
+
+Email: pemamin@ucdavis.edu
+
+Phone: nan
+
+Address: University of California, Davis
+
+Profile URL: https://citris-uc.org/people/person/parisa-emami/
+
+Personal Website Text Short: nan
+

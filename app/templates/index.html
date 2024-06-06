@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Collaborator Finder</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            height: 100vh;
+            margin: 0;
+            background-color: #f8f9fa;
+            padding-top: 120px;
+        }
+        .search-container {
+            text-align: center;
+            width: 65%;
+            display: flex;
+            margin-bottom: 20px;
+        }
+        input[type="text"] {
+            padding: 10px;
+            flex-grow: 1;
+            border: 1px solid #ccc;
+            border-radius: 5px 0 0 5px;
+            font-size: 16px;
+        }
+        button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #007BFF;
+            color: white;
+            border-radius: 0 5px 5px 0;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .sample-queries {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+        }
+        .sample-query {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 15px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            cursor: pointer;
+            background-color: #fff;
+            transition: background-color 0.3s, box-shadow 0.3s;
+            font-size: 16px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: left;
+            position: relative;
+        }
+        .sample-query i {
+            margin-bottom: 10px;
+        }
+        .sample-query:hover {
+            background-color: #f1f1f1;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+        .results {
+            margin-top: 20px;
+            width: 65%;
+            text-align: left;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .loading {
+            font-size: 16px;
+            color: #555;
+        }
+    </style>
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+</head>
+<body>
+    <div class="search-container">
+        <input type="text" id="query" placeholder="Find people to collaborate with" onkeypress="handleKeyPress(event)">
+        <button class="btn btn-primary" onclick="submitQuery()">Search</button>
+    </div>
+    <div class="sample-queries">
+        <div class="sample-query" onclick="submitQuery('I need an expert in the intersection of machine learning and biology.')">
+            <i class="fas fa-brain" style="color: #6f42c1;"></i>
+            <span>I need an expert in the intersection of machine learning and biology.</span>
+        </div>
+        <div class="sample-query" onclick="submitQuery('Who can I ask about in lithium-ion batteries?')">
+            <i class="fas fa-battery-half" style="color: #ffc107;"></i>
+            <span>Who can I ask about in lithium-ion batteries?</span>
+        </div>
+        <div class="sample-query" onclick="submitQuery('Find people in healthtech at Berkeley')">
+            <i class="fas fa-heartbeat" style="color: #17a2b8;"></i>
+            <span>Find people in healthtech at Berkeley.</span>
+        </div>
+    </div>
+    <div class="results" id="results"></div>
+    <script>
+        var socket = io();
+        var loadingInterval;
+
+        socket.on('response', function(data) {
+            if (loadingInterval) {
+                clearInterval(loadingInterval);
+                document.getElementById('results').innerHTML = '';
+                loadingInterval = null;
+            }
+            document.getElementById('results').innerHTML += data.data;
+        });
+
+        function handleKeyPress(event) {
+            if (event.key === 'Enter') {
+                submitQuery();
+            }
+        }
+
+        function submitQuery(query = null) {
+            const queryText = query || document.getElementById('query').value;
+            if (queryText.trim() === '') return;
+
+            document.getElementById('query').value = '';
+            document.getElementById('results').innerHTML = '';
+            startLoadingAnimation();
+
+            socket.emit('query', queryText);
+        }
+
+        function startLoadingAnimation() {
+            const resultsElement = document.getElementById('results');
+            let dots = 1;
+            resultsElement.innerHTML = '<span class="loading">.</span>';
+
+            loadingInterval = setInterval(() => {
+                dots = (dots % 3) + 1;
+                resultsElement.innerHTML = '<span class="loading">' + '.'.repeat(dots) + '</span>';
+            }, 500);
+        }
+    </script>
+</body>
+</html>

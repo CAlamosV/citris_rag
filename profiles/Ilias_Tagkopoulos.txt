@@ -1,0 +1,18 @@
+Name: Ilias Tagkopoulos
+
+Description: Our lab’s interests span a variety of topics related to evolutionary, synthetic and systems biology. We employ machine learning, graph theory, mathematical optimization, multiscale modeling and HPC simulation methods to address questions in these fields. Computational predictions are experimentally tested in our microbiology lab, where we perform laboratory evolution of microbial cultures, and we construct novel synthetic gene circuits for biotechnological applications.Professor Tagkopoulos is also a faculty member of the UC Davis Genome Center and a member of the Biophysics, Microbiology, Electrical Engineering and Biomedical Engineering graduate groups. Prior to joining UC Davis he was a post-doctoral fellow in Princeton’s Lewis-Sigler Institute for Integrative Genomics and a relationship manager in Credit Suisse’s LOCuS group (DIT-SRA). He earned a Dipl.-Ing. in Electical and Computer Engineering from University of Patras, a MSc in Microelectronics from Columbia University and a PhD in Electrical Engineering from Princeton University in 2001, 2003 and 2008 respectively.
+
+Title: Assistant Professor
+
+Website: nan
+
+Email: tagkopou@cs.ucdavis.edu
+
+Phone: (530) 752-4821
+
+Address: nan
+
+Profile URL: https://citris-uc.org/people/person/ilias-tagkopoulos/
+
+Personal Website Text Short: nan
+

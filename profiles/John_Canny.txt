@@ -1,0 +1,26 @@
+Name: John Canny
+
+Description: He received his B.Sc. in Computer Science and Theoretical Physics from Adelaide University in South Australia, 1979, a B.E. (Hons) in Electrical Engineering, Adelaide University, 1980, an M.S. and a Ph.D. from M.I.T, 1983 and 1987, respectively. He joined the faculty of EECS in 1987. He is the author of “A Variational Approach to Edge Detection” and the creator of the widely used Canny edge detector.
+
+Title: Paul and Stacy Jacobs Distinguished Professor of Engineering
+
+Website: http://www.cs.berkeley.edu/~jfc/
+
+Email: jfc@cs.berkeley.edu
+
+Phone: (510)642-9955
+
+Address: University of California, Berkeley 637 Soda Hall Berkeley, Ca 94720-1776
+
+Profile URL: https://citris-uc.org/people/person/professor-john-canny/
+
+Personal Website Text Short: John Canny John Canny Paul and Stacy Jacobs Distinguished Professor of Engineering canny@berkeley.edu Office: 637 Soda Hall Phone (510) 642-9955 Office hours: 1-2pm Weds in 637 Soda or on zoom Grant Admin: Lauren Mitchell gavinboy@berkeley.edu 634 Soda Hall Tel: (510) 642-3417 Teaching: Spring 2023: CS194/294-100: EECS for all: Social Justice in EECS (Course Home) Courses from previous semesters Projects The BID Data Project Archived Projects Publications: In reverse chronological order Grouped by topic Journals, Conferences and Workshops: Editorial Board member for ACM Transactions on Computer-Human Interaction EB member for IEEE Pervasive Computing Magazine Program co-chair for Ubicomp 2013 I was a program committee member for CHI
+  2005 , CHI2007 , CHI2008 , CHI2010 , CHI2012 and CHI2014 PC member for Ubicomp 2011 , Ubicomp 2012 PC member for ICTD 2006 , ICTD 2007 , ICTD 2009 , ICTD 2010 PC member for ACM DEV 2010 I organized the Mobile Applications Workshop in May 2006 on the Berkeley campus. Ubicomp Privacy Workshops: I co-organized workshops on Privacy at UBICOMP 2002,
+  2003, 2004 and 2005. The first workshop was titled Socially-Informed
+  Design of Privacy-Enhancing Solutions in Ubiquitous Computing , the second
+  was Ubicomp
+  communities: Privacy as boundary negotiation , the third was: Ubicomp
+  Privacy: Current status and future directions. , and the fourth was Privacy
+  in Context . Group Activities HCI prelim reading
+  list Former Ph.D. Students Paul Jacobs, 1989 (Qualcomm) Greg Heinzinger, 1990 (Qualcomm) Dinesh Manocha, 1992 (UNC) Ming Lin, 1994 (UNC) Ioannis Emiris, 1994 (University of Athens) Aaron Wallack, 1995 (Cognex) Ashu Rege, 1996 (NVidia) Brian Mirtich, 1996 (Mathworks) Yan Zhuang, 2000 (Qualcomm, number 3!) Dan Reznik, 2000 (e-Solar) Eric Paulos, 2001 (CMU) Francesca Barrientos, 2002 (NASA) Dan Glaser, 2004, (RPI) Tom Duan , 2007, (Yodao, China) David Nguyen , 2008, (Accenture) Jeremy Risner , 2008, (e-Solar) Ana Ramirez-Chang , 2008 (Oracle) Matthew Kam , 2008 (CMU) Tye Rattenbury , 2008 (Intel) Jingtao Wang , 2010 (U. Pittsburgh) Divya Ramachandran , 2010 Reza Naima, 2012 Andy Carle, 2012 (Marvell) Anuj Tewari, 2013 (GE Software) Huasha Zhao, 2014 Pablo Paredes, 2015 Biye Jiang, 2018 Jinkyu Kim, 2020 last updated 1/10/2021
+

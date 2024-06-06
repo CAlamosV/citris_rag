@@ -1,0 +1,18 @@
+Name: Todd Lowe
+
+Description: Todd Lowe is a Professor in Biomolecular Engineering at UC Santa Cruz. His research focuses on comparative genomics, computational and experimental small non-coding RNA research (gene prediction, transcriptional analysis, RNA roles in cancer), non-canonical transfer RNA function, RNA modification dynamics, Archaeal and extremophile genomics.
+
+Title: Professor
+
+Website: https://www.soe.ucsc.edu/people/lowe
+
+Email: lowe@soe.ucsc.edu
+
+Phone: 831-459-1511
+
+Address: Physical Sciences Building 316
+
+Profile URL: https://citris-uc.org/people/person/todd-lowe/
+
+Personal Website Text Short: nan
+

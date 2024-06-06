@@ -1,0 +1,20 @@
+Name: Jaijeet Roychowdhury
+
+Description: Jaijeet Roychowdhury is a Professor of EECS at the University of California at Berkeley. His research interests include machine learning, novel computational paradigms, and the analysis, simulation, verification and design of cyber-physical, electronic, biological, nanoscale and mixed-domain systems. Contributions his group has made include the concept of self-sustaining oscillators for Ising-based and von Neumann computation, novel machine-learning techniques for dynamical systems, theory and techniques for oscillator phase macromodels, injection locking and phase noise, multi-time partial differential equations, techniques for model reduction of time-varying and nonlinear systems, and open-source infrastructures for reproducible research.Roychowdhury received a Bachelor’s degree in electrical engineering from the Indian Institute of Technology, Kanpur, India, in 1987, and a Ph.D. degree in electrical engineering and computer science from UC Berkeley in 1993. From 1993 to 1995, he was with the Computer-Aided Design (CAD) Laboratory, AT&T Bell Laboratories, Allentown, PA. From 1995 to 2000, he was with the Communication Sciences Research Division, Bell Laboratories, Murray Hill, NJ. From 2000 to 2001, he was with CeLight Inc. (an optical networking startup), Silver Spring, MD. From 2001-2008, he was with the Electrical and Computer Engineering Department and the Digital Technology Center at the University of Minnesota in Minneapolis.Roychowdhury was cited for Extraordinary Achievement by Bell Laboratories in 1996. Over the years, he has authored or co-authored seven best or distinguished papers. He has served on technical and administrative committees within several conferences and professional organizations, including ICCAD, DAC, DATE, ASP-DAC and CEDA. Roychowdhury was a co-founder of Berkeley Design Automation, a startup later acquired by Mentor Graphics. He is a Fellow of the IEEE.
+
+Title: Professor
+
+Website: nan
+
+Email: jr@eecs.berkeley.edu
+
+Phone: (510) 643-5664
+
+Address: University of California, Berkeley
+545E Cory Hall
+Berkeley, CA 94720
+
+Profile URL: https://citris-uc.org/people/person/professor-jaijeet-roychowdhury/
+
+Personal Website Text Short: nan
+

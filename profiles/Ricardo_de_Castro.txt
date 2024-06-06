@@ -1,0 +1,18 @@
+Name: Ricardo de Castro
+
+Description: Ricardo de Castro received licenciatura and Ph.D. degrees in electrical and computer engineering from the Faculty of Engineering at the University of Porto, Portugal, in 2006 and 2013, respectively. From 2013–2020, he was with the Institute of System Dynamics and Control at the German Aerospace Center, where he developed enabling technologies for electric mobility. In 2021, he joined University of California, Merced as an assistant professor. He is the author of three patents and more than 70 papers in international journals, conferences and book chapters and the recipient of two best paper awards. He has been an expert evaluator for the European Union, editor of IEEE Transactions on Vehicular Technology, associate editor of IEEE Access, guest editor of the journal Energies and chair of technical tracks on vehicular electronics and intelligent transportation systems for the IEEE Vehicle Power and Propulsion Conference (VPPC 2017–18). Ricardo de Castro is also a senior member of IEEE.De Castro’s research focuses on robotic electric vehicles. He is interested in combining power conversion with advanced control and optimization methods as a means of achieving high energy efficiency, durability and reliability of energy storage systems. Robotic vehicles is another area of research, with particular emphasis on safe motion planning and resilient control.Research interests:electric mobility, controls, robotic vehicles, vehicle automation.
+
+Title: Assistant Professor
+
+Website: https://castro.ucmerced.edu
+
+Email: rpintodecastro@ucmerced.edu
+
+Phone: nan
+
+Address: University of California, Merced
+
+Profile URL: https://citris-uc.org/people/person/ricardo-de-castro/
+
+Personal Website Text Short: R. de Castro Search this site Skip to main content Skip to navigation R. de Castro Home Bio Research Publications Professional Activities CastroLab Gallery Location R. de Castro Ricardo de Castro Assistant Professor Department of Mechanical Engineering University of California, Merced 5200 N. Lake Road, Merced, CA 95343 E-mail : rpintodecastro [at] ucmerced [dot] edu ricardo . decastro [at] ieee.org Affiliated with: CITRIS and the Banatao Institute Research Interests My research focuses on electric and robotic vehicles. I am interested in combining power conversion with advanced control and optimization methods as a means of achieving high energy efficiency, durability and reliability of energy storage systems. Vehicle automation is another area of my research, with particular emphasis on safe motion planning and resilient control. Keywords: Zero-emission vehicles;  control and optimization; power conversion and energy management; energy storage systems; electric and robotic vehicles; safe and resilient motion control Google Sites Report abuse Page details Page updated Google Sites Report abuse
+

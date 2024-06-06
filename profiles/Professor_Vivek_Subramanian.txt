@@ -1,0 +1,24 @@
+Name: Professor Vivek Subramanian
+
+Description: Vivek Subramanian received his BS in electrical engineering from Louisiana State University in 1994. He received his MS and PhD in electrical engineering, in 1996 and 1998 respectively, from Stanford University.Dr. Subramanian co-founded Matrix Semiconductor, Inc., in 1998. Since 1998, he has been at the University of California, Berkeley, where he is currently a Professor in the Department of Electrical engineering and Computer Sciences. His research interests include advanced CMOS devices and technology and polysilicon thin film transistor technology for displays and vertical integration applications. His current research focuses on organic electronics for display, low-cost logic, and sensing applications. He has authored or co-authored more than 40 research publications and patents.Dr. Subramanian is a member of the Institute of Electrical and Electronic Engineers (IEEE) and has served on the technical committee for the Device Research Conference and the International Electron Device Meeting. In 2002, he was nominated to Technology Review’s list of top 100 young innovators (the TR100), ), and his work at Matrix Semiconductor was nominated to the Scientific American SA50 list for visionary technology. In 2003, he was nominated to the National Academy of Engineering’s “Frontiers of Engineering”, and was awarded a National Science Foundation Young Investigator Award (CAREER).
+
+Title: Professor
+
+Website: http://www.eecs.berkeley.edu/~viveks/
+
+Email: viveks@eecs.berkeley.edu
+
+Phone: (510) 643-4535
+
+Address: University of California, Berkeley
+571 Cory Hall
+Berkeley, CA 94720 - 1764
+
+Profile URL: https://citris-uc.org/people/person/professor-vivek-subramanian/
+
+Personal Website Text Short: Vivek Subramanian Professor, EECS Address: 513 Sutardja Dai Hall ,
+  #1764 University of
+  California Berkeley, CA 94720-1764 Phone: Google Voice: (510) 842-7763 Office: (510) 643-4535 Fax: (510) 642-2739 Email: viveks@eecs.berkeley.edu Administrative Assistant: Charlotte
+  Jones 557 Cory Hall (510) 664-4203 cmjones@erso.berkeley.edu Grant Administrator: Gwen
+  Lindsey 557 Cory Hall (510) 642-8814 gwenl@erso.berkeley.edu
+

@@ -1,0 +1,25 @@
+Name: Raju Pandey
+
+Description: Professor Pandey is interested in all aspects of parallel and distributed systems. His current research involves building scalable, reliable, efficient, and secure systems software infrastructure for sensor network-based systems. His research group is also developing fundamental techniques for building distributed systems that can dynamically adapt to changes in their environment and program characteristics.
+
+Title: Associate Professor
+
+Website: http://www.cs.ucdavis.edu/~pandey/
+
+Email: pandey@cs.ucdavis.edu
+
+Phone: (530) 752-3584
+
+Address: University of California, Davis Department of Computer Science 3041 Kemper Hall One Shields Ave. Davis, Ca 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-raju-pandey/
+
+Personal Website Text Short: Raju Pandey: Home Page Raju
+Pandey Associate Professor Department of Computer
+Science University of California, Davis Research Interests Sensor networks Distributed computing Programming langage design and implementation Operating Systems System Security Research Projects Teaching Programming Languages Compilers Parallel Programming Distributed Systems Course home pages ( ECS 142 , ECS 150 ) Background B.Tech Indian Institute of
+Technology, Kharagpur M.S. University of
+Massachusetts, Amherst Ph.D. University of Texas,
+Austin Address Department of Computer Science ( Directions ) 3041 Kemper Hall  ( Map ) One Shields Avenue University of California, Davis, CA 95616 Email pandey@cs.ucdavis.edu Contact numbers 530-752-3584 (office) 530-752-4767 (Fax) Laboratory Affiliations Sensor
+Network Systems Laboratory Security Laboratory Programming Language and Verification Laboratory Miscellaneous Miscellaneous
+sites
+

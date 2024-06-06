@@ -1,0 +1,21 @@
+Name: Professor Kenneth Joy
+
+Description: Ken Joy is a Professor in the Computer Science Department at the University of California, Davis. He came to UC Davis in 1980 in the Department of Mathematics and was a founding member of the Computer Science Department in 1983. Professor Joy’s research and teaching interests are in the area of visualization, geometric modeling, and computer graphics.He is the Director of the Institute for Data Analysis and Visualization (IDAV) at UC Davis. This Institute provides an interdisciplinary research environment where practical data exploration problems from a variety of driving applications can be addressed. Within this environment, and with his research colleagues and graduate students, Professor Joy has collaborated on a large number of projects involving large-scale data analysis, multiresolution modeling, compuer vision, data compression, flow visualiation, query-driven visualization, and the visualization of uncertainty. He is the principal investigator, or co-principal investigator, on a number of grants involving material interface reconstruction, exploration of wide-area high-resolution aerial video, flow visualization, and uncertainty visualization.Professor Joy has won numerous teaching awards at UC Davis. He was awarded the Distinguished Teaching Award, UC Davis’ highest honor, in 1996, was awarded the Faculty Advisor of the Year in 1995, and has won numerous departmental- and student-based awards.He is a member of the Association for Computing Machinery (ACM and the IEEE Computer Society. He is a Visiting Scientist at Lawrence Livermore National Laboratory, and a Faculty Computer Scientist at Lawrence Berkeley National Laboratory. He was co-chair of the EuroVis 2005 and 2006 conferences, was co-organizer of the Dagstuhl 2005 and 2007 Visualization Seminars, and serves on a number of conference program committees. He was general chair of the 2007 IEEE Visualization Conference, held in Sacramento CA, and was senior chair of the 2008 IEEE Visualization Conference, held in Columbus OH.Professor Joy received a B.A. (1968) and M.A. (1972) in Mathematics from UCLA, and a Ph.D. (1977) in Mathematics from the University of Colorado, Boulder. He has worked a number of years in the computer industry, and consults regularly on visualization, massive data analysis and geometric modeling.
+
+Title: Director Institute for Data Analysis and Visualization
+
+Website: http://cipic.ucdavis.edu/~joy/
+
+Email: kijoy@ucdavis.edu
+
+Phone: (530) 752-1077
+
+Address: University of California, Davis
+Computer Science Department
+One Shields Avenue
+Davis, CA 95616-8562
+
+Profile URL: https://citris-uc.org/people/person/professor-kenneth-joy/
+
+Personal Website Text Short: nan
+

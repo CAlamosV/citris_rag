@@ -1,0 +1,18 @@
+Name: Michael Cohen
+
+Description: Michael’s research is focused on “renewables integration”, using computer models to understand how the growth in intermittent energy sources such as rooftop solar power will affect the electric grid. He is presently leading the development of Griddle, a video game that enables players to design, build and operate their own power grids to facilitate a hands-on understanding of electric grid operation among students and the general public.Prior to matriculating at Berkeley, Michael held positions as the technology coordinator at the West End House Boys & Girls Club in Boston, a software trainer at Brown University, a software engineer at a web application startup, and a business analyst at EnerNOC, an energy management company. He holds an MS in Energy and Resources from Berkeley and a BA in Psychology from Brandeis University.
+
+Title: Researcher
+
+Website: nan
+
+Email: mcohen@rollingturtle.com
+
+Phone: nan
+
+Address: nan
+
+Profile URL: https://citris-uc.org/people/person/michael-cohen/
+
+Personal Website Text Short: nan
+

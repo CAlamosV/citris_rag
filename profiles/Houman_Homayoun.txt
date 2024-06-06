@@ -1,0 +1,18 @@
+Name: Houman Homayoun
+
+Description: Houman Homayoun is an associate professor in the Department of Electrical and Computer Engineering at the University of California, Davis. He is also site director for the National Science Foundation Center for Hardware and Embedded Systems Security and Trust, or CHEST Center. He conducts research in hardware security and trust, applied machine learning and artificial intelligence, data-intensive computing, and heterogeneous computing.Homayoun has published more than 200 technical papers in conferences and journals and directed over $8 million in research funding from the NSF, the Defense Advanced Research Projects Agency, the Air Force Research Laboratory, the National Institute of Standards and Technology, U.S. Congress, and various industrial sponsors. His CHEST Center received congressional support for research in hardware security, which was included in 2021 National Defense Authorization Act.His work has received best paper awards and nominations in various conferences, including ACM GLSVLSI 2016, IEEE ICDM and ICCAD 2019, ISVLSI 2020, and IEEE DCAS 2021. He has served on the advisory committee of the cybersecurity research and technology commercialization working group in the Commonwealth of Virginia and is a core group member of the hardware security body of the knowledge development team supported by the Department of Defense. He has served as an associate editor of IEEE Transactions on Very Large Scale Integration (VLSI) Systems since 2017. He has chaired and co-chaired major conferences in the Association for Computing Machinery, including the Great Lakes Symposium on VLSI.Homayoun received a 2010 NSF Computing Innovation Fellowship from the Computing Community Consortium and Computing Research Association.Research interests: e-health, embedded systems design, computer security, applied machine learning.
+
+Title: Associate Professor of Electrical and Computer Engineering
+
+Website: https://www.ece.ucdavis.edu/~hhomayou/
+
+Email: hhomayoun@ucdavis.edu
+
+Phone: nan
+
+Address: University of California, Davis
+
+Profile URL: https://citris-uc.org/people/person/houman-homayoun/
+
+Personal Website Text Short: Redirecting... We've moved! You will be redirected to our new website shortly. If not, click here .
+

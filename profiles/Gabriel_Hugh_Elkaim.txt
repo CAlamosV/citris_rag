@@ -1,0 +1,18 @@
+Name: Gabriel Hugh Elkaim
+
+Description: Research AreasEmbedded systems; robust software architectures for real-time reactive systems; sensor fusion; guidance, navigation, and control (GNC) system identification; robust and advanced control schemes; feedback and control systems; robotics; unmanned autonomous vehicles (UAVs); cooperative controlSelected PublicationsPersonal Publication ListArchive of Autonomous Systems Lab PublicationsDegreePh.D in Aeronautics and Astronautics, 2002, Stanford UniversityMSE in Aeronautics and Astronautics, 1995, Stanford UniversityBSE in Mechanical and Aerospace Engineering, 1990, Princeton University
+
+Title: Professor
+
+Website: https://www.soe.ucsc.edu/people/elkaim
+
+Email: elkaim@soe.ucsc.edu
+
+Phone: (831) 459-3054
+
+Address: University of California, Santa Cruz Engineering 2, Room 337B 1156 High Street Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/gabriel-hugh-elkaim/
+
+Personal Website Text Short: nan
+

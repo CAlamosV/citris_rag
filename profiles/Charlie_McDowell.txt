@@ -1,0 +1,18 @@
+Name: Charlie McDowell
+
+Description: Charlie McDowell is a Professor in the Computer Science Department at the University of California, Santa Cruz. He is also currently serving as the Associate Dean for Undergraduate Affairs in the Baskin School of Engineering.He earned his B.S. degree in Applied Mathematics and Computer Science from Cal Poly San Luis Obispo in 1974. He earned his M.S. and Ph.D. degrees in Computer Science from the University of California, San Diego in 1981 and 1983 respectively.He is a member of the Association for Computing Machinery and of the IEEE Computer Society.When not being a professor of computer science he can be found playing trombone with a number of local groups.
+
+Title: Professor, Associate Dean of Engineering
+
+Website: http://users.soe.ucsc.edu/~charlie/
+
+Email: charlie@soe.ucsc.edu
+
+Phone: (831) 459-4772
+
+Address: University of California, Santa Cruz Baskin School of Engineering 1156 High St Mail Stop SOE3 Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-charlie-mcdowell/
+
+Personal Website Text Short: Home Page | Charlie McDowell Skip to main content Charlie McDowell Navigation Main menu Home Brief Bio Projects Vita Java by Dissection Home Page Charlie McDowell is a Professor Emeritus of Computer Science and Engineering in the Baskin School of Engineering . One of his top priorities is increasing the participation of women in all engineering majors at UCSC. He continues to work to increase the meaningful participation of girls and women in computing with the National Center for Women and Information Technology through their Academic Alliance particularly with the Aspirations in Computing Award for 9th-12th grade students. Email: charlie@cs.ucsc.edu UCSC This site is maintained by: mcdowell@ucsc.edu UC Santa Cruz, 1156 High Street, Santa Cruz, CA 95064 Copyright © 2024 The Regents of the University of California. All rights reserved. Log In
+

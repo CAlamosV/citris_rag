@@ -1,0 +1,236 @@
+Name: Professor Philip M. Kaminsky
+
+Description: Phil Kaminsky received his BS in Chemical Engineering from Columbia University in 1989, and his MS and PhD in Industrial Engineering and Management Science from Northwestern University in 1997. Before graduate school, he worked in production engineering and control at Merck in Rahway, New Jersey. Professor Kaminsky is the faculty director of the Center for Entrepreneurship and Technology, and director of the Initiative for Research in Biopharmaceutical Operations. He served as department chair of Industrial Engineering and Operations Research in from 2011-2016, and currently serves as Executive Associate Dean nd Development in the College of Engineering.His primary research interests are broadly focused on the analysis and development of robust and efficient tools and techniques for design, operation, and risk management in logistics systems and supply chains. This encompasses operational issues including the modeling and analysis of production and control systems, as well as more tactical and strategic concerns, including the integration of production, distribution, and pricing strategies, and more broadly the analysis of issues that arise in integrated supply chain management. From a methodological perspective, he is particularly interested in the design and analysis of algorithms to address these problems. He also works on issues related to the healthcare system.Much of his current work is centered on two main themes: strategic, tactical, and operational issues that arise in the operation of biopharmaceutical firms; and collaborative, sustainable logistics. In addition, other current projects focus on the development of novel flexible algorithms for supply chain optimization, container terminal operations, efficient operation of operating rooms, and quantitative modeling of behavior change for personalized healthcare. His research is or has been funded by the National Science Foundation, the Project Production Institute, BioMarin, Bayer, Genentech, Navis, and FICO.
+
+Title: Professor
+
+Website: http://www.ieor.berkeley.edu/~kaminsky/
+
+Email: kaminsky@ieor.berkeley.edu
+
+Phone: (510) 642-4927
+
+Address: University of California, Berkeley
+Industrial Engineering and Operations Research
+4141 Etcheverry Hall
+Berkeley, CA  94720-1777
+
+Profile URL: https://citris-uc.org/people/person/professor-philip-m-kaminsky/
+
+Personal Website Text Short: Phil Kaminsky Industrial
+  Engineering and Operations Research University of
+  California @ Berkeley ABOUT PUBLICATIONS BOOKS TEACHING STUDENTS Emeritus Professor of Industrial Engineering and
+  Operations Research University of California, Berkeley Also at Amazon. University
+  of California Industrial Engineering and Operations Research 4179 Etcheverry Hall Berkeley, CA  94720-1777 Tel: (510)
+  642-4927 Fax: (510) 642-1403 Email: kaminsky {at}berkeley.ed u Curriculum Vitae ABOUT Phil Kaminsky is the Earl J. Isaac Professor Emeritus in the Science
+  and Analysis of Decision Making in the Department of Industrial Engineering
+  and Operations Research at UC Berkeley. He is also a Senior Principal
+  Research Scientist at Amazon, where he leads the Transportation Marketplace
+  Science team. Previously, he served as Executive Associate Dean and Associate
+  Dean for Student Affairs in the UC Berkeley College of Engineering, and
+  before that, faculty director of the Sutardja Center for Entrepreneurship and
+  Technology, director of the Initiative for Research in Biopharmaceutical
+  Operations, and department chair of Industrial Engineering and Operations
+  Research. Professor Kaminsky's research focuses primarily on the
+  analysis and development of robust and efficient tools and techniques for
+  design, operation, and risk management in logistics systems and supply
+  chains. This encompasses operational issues including the modeling and
+  analysis of production and control systems, as well as more tactical and
+  strategic concerns, including the integration of production, distribution,
+  and pricing strategies, and more broadly the analysis of issues that arise in
+  integrated supply chain management. Much of his current work is centered on two main themes:
+  strategic, tactical, and operational issues that arise in the operation of
+  biopharmaceutical firms; and collaborative, sustainable logistics. Other
+  current projects focus on the development of novel flexible algorithms for
+  supply chain optimization, container terminal operations, efficient operation
+  of operating rooms, and quantitative modeling of behavior change for
+  personalized healthcare. His research has been funded by the National Science
+  Foundation, BioMarin, Bayer, Genentech, Navis, Project Production Institute,
+  Material Handling Institute, Toyota, and FICO. Professor Kaminsky received his BS in Chemical Engineering
+  from Columbia University in 1989, and his MS and PhD in Industrial
+  Engineering and Management Science from Northwestern University in 1997.
+  Before graduate school, he worked in production
+  engineering and control at Merck in Rahway, New Jersey. PUBLICATIONS Papers and Chapters Adler, I., D. bu, and p. kaminsky. 2023. Production Lot Sizing with
+  Immediately Observable Random Production Rate . Submitted for publication. Y. MINTZ, A. ASWANI, P. KAMINSKY, E. FLOWERS, AND Y. FUKUOKA. 2023. Behavioral Analytics for Myopic
+  Agents. European Journal of Operational Research, Vol 310(2), pp. 793-811 B. BEBITOGLU, A. SEN, AND P.
+  KAMINSKY. 2023. C onstrained multi -location assortment
+  optimization Under the multinomial logit model . N aval
+  Research Logistics . A. JABBARI AND KAMINSKY, P. 2021. Online
+  scheduling to minimize total weighted (modified) earliness and tardiness .
+  Journal of Scheduling, Vol. 24, pp 431-446. Y. Mintz, A. Aswani, P. Kaminsky, E. Flowers, and Y. Fukuoka. 2020. Non-stationary bandits with habituation and recovery dynamics . Operations Research, Vol.
+  68(5), pp. 1286-1624. Jabbari, A., Tommelein, I.D.,
+  and Kaminsky, P. 2020. Workload
+  Leveling Based On Work Space Zoning for Takt
+  Planning . Automation in Construction, Vol 118. W. Ferrell, K. Ellis, P. Kaminsky, and C. Rainwater. 2019. Horizontal
+  Collaboration: Opportunities for Improved Logistics Planning . International
+  Journal of Production Research. S. Ding and P. Kaminsky. 2019. Centralized
+  and Decentralized Warehouse Logistics Collaboration . Manufacturing & Service
+  Operations Management. Extended version available here P. KAMINSKY AND Y. WANG. 2018. Multi-period
+  Process Flexibility with Inventory . Flexible Services and Manufacturing
+  Journal 31, pp 833-893. Sen, A., A. Atamturk and P. Kaminsky. 2018. A Conic
+  Integer Programming Approach to Constrained Assortment Optimization under the
+  Mixed Multinomial Logit Model . Operations Research, Vol. 66(4), pp.
+  994-1000. M. Zhou, Y. Fukouka, Y. Mintz, K. Goldberg, P. Kaminsky, E. Flowers, and
+  A. Aswani. 2018 . Evaluating Machine Learning Based Automated
+  Personalized Daily Step Goals Delivered through a Mobile Phone App: a Randomized Controlled
+  Trial . JMIR Mhealth Uhealth 2018;6(1 ):e 28 . P. KAMINSKY AND S. LIU. 2018. A Two-Step Gradient
+  Estimation Approach to for Setting Supply Chain Operating Parameters .
+  Computers & Operations Research 92, pp. 98-110 A. Aswani, P. Kaminsky, Y. Mintz, E. Flowers, and Y. Fukuoka . 2019. Behavioral
+  Modeling in Weight Loss Interventions . European Journal of Operations Research,
+  272(3) pp. 1058-1072 H-S. Ahn, S. Jasin, P. Kaminsky, and Y. Wang. 2017. Analysis of
+  Deterministic Control and Its Improvements for an Inventory Problem with
+  Multiproduct Batch Differentiation. Operations Research, 66 (1), pp.
+  58-76. Gumus, M, P Kaminsky, and S. Mathur . 2016. Impact of Product
+  Substitution and Retail Capacity on Price Promotions: Theory and Evidence .
+  International Journal of Production Economics 54(7), pp.2108-2135. H.C. Hwang, H-S. Ahn, and P. Kaminsky . 2016. Algorithms
+  for the Two-Stage Production-Capacitated Lot-Sizing Problem . Journal of
+  Global Optimization 65(4), 777-799. Kaminsky, P., and Y. Wang. 2015. Analytical
+  Models for Biopharmaceutical Operations and Supply Chain Management: A Survey
+  of Research Literature . Pharmaceutical Bioprocessing 3 (1) , pp. 61-73 Kaminsky, P. and M. Yuen . 2014. Production
+  Capacity Investment with Data Updates . IIE Transactions 46,
+  pp. 664-682. HWANG, HC, H. AHN AND P. KAMINSKY. 2013. Basis Paths
+  and a Polynomial Algorithm for the Multi-Stage Production-Capacitated
+  Lot-Sizing Problem . Operations Research 61, pp. 469-482. Janjevic, M., P. Kaminsky, and A. BallE Ndiaye. 2013. Downscaling
+  the consolidation of goods-state of the art and transferability of
+  micro-consolidation initiatives . European Transport 54(4), pp. 1-23. BULBUL, K. AND P. KAMINSKY. 2012. A Linear
+  Programming-Based Method for Job Shop Scheduling Journal of Scheduling
+  16 pp. 161-183. GUO, X, P. KAMINSKY,
+  P. TOMECEK, AND M. YUEN. 2011. Optimal Spot
+  Market Inventory Strategies in the Presence of Cost and Price Risk. Mathematical Methods
+  of Operations Research. KAMINSKY, P. AND O. KAYA.  2009. Combined
+  Make-to-Order/Make-to-Stock Supply Chains .  IIE
+  Transactions 41 pp. 103-119. AHN, H., M. GUMUS AND
+  P. KAMINSKY. 2009. Inventory,
+  Discounts, and the Timing Effect . Manufacturing & Service Operations
+  Management. 11, pp. 613-629 . TOMMELEIN, I.D.,
+  BALLARD, G., and KAMINSKY, P. 2008. Supply Chain
+  Management for Lean Project Delivery in Handbook of Construction Supply Chain
+  Management, Ch. 6, pp. 6-1 to 6-22. KAMINSKY, P. AND O. KAYA.  2008. Scheduling
+  and Due-Date Quotation in a MTO Supply Chain . Naval Research
+  Logistics 55, pp. 444-458. KAMINSKY, P. AND Z-H. LEE. 2008. Effective
+  On-Line Algorithms for Reliable Due Date Quotation and Large-Scale Scheduling . Journal of
+  Scheduling 11, pp. 187-204. KAMINSKY, P. AND O. KAYA.  2008. Inventory
+  Positioning, Scheduling, and Lead Time Quotation in Supply Chains . International
+  Journal of Production Economics 114, pp. 276-293. AHN, H., M. GUMUS AND
+  P. KAMINSKY. 2007. Pricing and Manufacturing
+  Decisions When Demand is a Function of Prices in Multiple Periods . Operations Research
+  55, pp. 1039-1057. BULBUL, K, P.
+  KAMINSKY, AND C. YANO. 2007. Preemption
+  in Single Machine Earliness/Tardiness . Journal of
+  Scheduling 10, pp. 271-292. AHN, H. AND P. KAMINSKY. 2005. Production
+  and Distribution Policy in a Two-Stage Stochastic Push-Pull Supply Chain . IIE Transactions 37,
+  pp. 609-621. NEWMAN, A, C. YANO,
+  AND P. KAMINSKY.  2005. Third Party
+  Logistics Planning with Routing and Inventory Costs . In Supply Chain
+  Optimization, J. Geunes and P. Pardalos ,
+  eds: Kluwer Academic Publishers KAMINSKY, P. AND D. HOCHBAUM.  2004. Due Date
+  Quotation Models and Algorithms . Handbook of Scheduling, Joseph Y. Leung
+  (ed.), Chapman Hall/CRC. KAMINSKY, P. AND J. SWAMINATHAN.  2004. Effective
+  Heuristics For Capacitated Production Planning with
+  Multi-Period Production and Demand With Forecast Band Refinement . Manufacturing &
+  Service Operations Management 6, p. 184-194. BULBUL, K, P.
+  KAMINSKY, AND C. YANO. 2004. Flow shop
+  scheduling with earliness, tardiness, and intermediate inventory holding
+  costs . 
+  Naval Research Logistics 51, pp. 407-445. SIMCHI-LEVI, D., P.
+  KAMINSKY, AND E. SIMCHI-LEVI. 2004. Managing the
+  Supply Chain: The Definitive Guide for The Business Professional . McGraw-Hill: New
+  York. KAMINSKY, P. 2003. The
+  Effectiveness of the Longest Delivery Time Rule for the Flow Shop Delivery
+  Time Problem . 
+  Naval Research Logistics 50, pp. 257-272. KAMINSKY, P. AND D. SIMCHI-LEVI. 2003. Production
+  and Distribution Lot Sizing in a Two Stage Supply Chain . IIE Transactions
+  35(11), pp.1065-1074. KAMINSKY, P. AND J. SWAMINATHAN.  2001. Utilizing
+  Forecast Band Refinement For Capacitated Production
+  Planning .
+  Manufacturing & Service Operations Management 3, p. 68-81. KAMINSKY P. AND D.
+  SIMCHI-LEVI. 2001. Asymptotic Analysis
+  of an On-line Algorithm for the Single Machine Completion Time Problem With Release Dates .  Operations
+  Research Letters. 29, p. 141-148 KAMINSKY P. AND D.
+  SIMCHI-LEVI.  2001. The
+  Asymptotic Optimality of the SPT Rule for the Flow Shop Mean Completion Time
+  Problem . 
+  Operations Research 49, p. 293-304 SIMCHI-LEVI, D., P.
+  KAMINSKY, AND E. SIMCHI-LEVI. Designing
+  and Managing the Supply Chain . Irwin McGraw-Hill: New York. First Edition (2000) Second Edition (2003) Third Edition (2008) KAMINSKY, P. AND D. SIMCHI-LEVI.  1998. A New
+  Computerized Beer Game: A Tool For Teaching the
+  Value of Integrated Supply Chain Management . In Supply Chain and
+  Technology Management. Hau Lee and Shu Ming Ng, eds., The Production and
+  Operations Management Society: Miami, Florida. KAMINSKY, P. AND D. SIMCHI-LEVI. 1998. Probabilistic
+  Analysis and Practical Algorithms for the Flow Shop Weighted Completion Time
+  Problem .
+  Operations Research 46, p. 872-882 Proceedings M. Zhou, Y. Mintz, Y. Fukuoka, K. Goldberg, E. Flowers, P. Kaminsky, A.
+  Castillejo, and A. Aswani. 2018, Personalizing mobile fitness
+  apps using reinforcement learning , In ACM Workshop on Theory-Informed
+  User Modeling for Tailoring and Personalizing Interfaces (HUMANIZE). H-C Hwang, H-S Ahn and P Kaminsky. 2012. A Single Phase Dynamic Program with Independent Production
+  Decision for Production-Capacitated Two- and Multi-Stage Lot-Sizing Problems . Proceedings of the 3nd International Workshop on Lot Sizing, Rotterdam, the
+  Netherlands. P. Kaminsky and M. Yuen . 2011. Production
+  Capacity Investment With Trial Result Updates . Proceedings of the
+  2011 MSOM Conference. H-C Hwang, H-S Ahn and P Kaminsky. 2011. A polynomial
+  time algorithm for the multi-stage lot-sizing problem with production
+  capacities .
+  Proceedings of the 2nd International Workshop on Lot Sizing, Istanbul, Turkey . Papavasiliou, A, S. S. Oren, I. Sidhu and P.
+  Kaminsky . 2009. Renewable Energy
+  Supply for Electric Vehicle Operations in California . Proceedings of the
+  32nd IAEE International Conference, San Francisco, CA, June 2009. GUMUS, M., P.
+  KAMINSKY, E. TIEMROTH AND M. AYIK. 2008. A
+  Multi-stage Decomposition Heuristic for the Container Stowage Problem. Proceedings of the
+  2008 MSOM Conference. HAMZEH, F., TOMMELEIN,
+  I.D., BALLARD, G., and KAMINSKY, P. 2007. Logistics
+  Centers to Support Project-based Production in the Construction Industry. In Pasquire , C.L. and Tzortzopoulos ,
+  P. (editors )( 2007). Proceedings of the 15th Annual
+  Conference of the International Group for Lean Construction (IGLC 15), 18-20
+  July 2007, East Lansing, MI. AHN, H-S, O. ALPER AND
+  P. KAMINSKY. 2006. Effective Distribution
+  Policies Utilizing Logistics Contracting. Proceedings of the
+  2006 MSOM Conference. KAMINSKY, P. AND H-S AHN. 2006. Models and
+  Algorithms for Integrated Multi-Stage Production/Distribution Systems: Third
+  Party Logistics. Proceedings of the 2006 NSF Design, Service,
+  and Manufacturing Research Conference. KAMINSKY, P. AND O. Kaya. 2006. MTO-MTS
+  Production Systems in Supply Chains. Proceedings of the 2006 NSF Design, Service,
+  and Manufacturing Research Conference. KAMINSKY, P. AND O. KAYA. 2005. Career:
+  Scheduling of Large Scale Systems: Probabilistic Analysis and Practical
+  Algorithms for Due Date Quotation. Proceedings of the 2005 NSF Design, Service,
+  and Manufacturing Research Conference. KAMINSKY, P., H-S AHN,
+  AND O. ALPER. 2005. Models and
+  Algorithms for Integrated Multi-Stage Production/Distribution Problems. Proceedings of the
+  2005 NSF Design, Service, and Manufacturing Research Conference. KAMINSKY, P. AND O. KAYA. 2005. Centralized
+  Versus Decentralized Scheduling and Due Date Quotation in a Make-to-Order
+  Supply Chain. Proceedings of the 2005 MSOM Conference. KAMINSKY, P. AND Z-H. LEE. 2003. On-Line
+  Algorithms for Due Date Quotation with Lateness Penalties . Proceedings of the
+  2003 NSF Design, Service, and Manufacturing Research Conference. CHAN, A., P.KAMINSKY , A.MURIEL, AND D.SIMCHI-LEVI. 1996. New Results
+  for Flowshop and Parallel Machine Scheduling
+  Problems. Proceedings of the 1996 MSOM Conference, Hanover, New Hampshire,
+  pp.213-218. Articles Kaminsky, P., J. Liu, and J. Olsen-Claire 2012. Survey:
+  Optimizing Global Biopharmaceutical Operations through Risk Mitigation and
+  Management . BioPharm International, December 2012. Johnson, R, and P. Kaminsky. 2008. Biopharmaceutical
+  Operations: Developing the Science .PharmaFocus Asia # 9. BOOKS Designing and Managing the Supply Chain The recent fourth edition of this
+    book (co-authored with D. Simchi -Levi and E. Simchi -Levi) expands significantly on previous
+    editions. Published by Irwin/McGraw-Hill. Business 2.0, December 2001, names this book
+    the best source for slashing time and costs and increasing productivity in
+    the supply chain. Winner of the 2000
+    IIE Book-of-the-Year Award, and the 2000 Outstanding IIE Publication Award . Managing the Supply Chain: The
+    Definitive Guide for the Business Professional This book,
+    co-authored with D. Simchi -Levi and E. Simchi -Levi, is a reference for consultants and
+    managers involved in any one of the processes that make up the supply
+    chain. Published by McGraw-Hill. TEACHING [Note:
+  Course information available on bSpace and bCourses ] Current Courses : IEOR180: Senior Project IEOR250: Introduction to Production and Logistics Planning Models Past courses : IEOR 153: Logistics Network Design and Supply Chain Management IEOR 290L: Logistics Modeling IEOR 251: Facilities Design and Logistics IEOR 199: Supply Chain Management STUDENTS Arman
+  Jabbari. PhD expected 2019. Area: Project Supply Chain Management Tugce Gurek . PhD expected 2018. Area: OR Scheduling Heejung
+  Kim. PhD expected 2018. Area: Production planning. Shiman Ding.
+  PhD 2017. Area: Logistics collaboration. Currently
+  at Google . Yang Wang.
+  PhD 2017. Area: Biopharmaceutical operations. Currently at FedEx . Dan Bu.
+  2016. Production Planning and Inventory Control in Pharmaceutical
+  Manufacturing Process. Currently at Amazon. Stewart
+  Liu. PhD expected 2017. Area: Supply Chain Optimization. Currently on the faculty of SF State . Ming Yuen.
+  PhD 2013. Capacity Planning in the Pharmaceutical Industry. Currently at a
+  startup Osman
+  Engin Alper. PhD 2010. (Jointly advised with w/ H.Ahn .) Third Party Logistics Contracts Currently at NVidia Mehmet
+  Gumus. PhD 2007. (Jointly advised w/H. Ahn.) Joint Pricing/Production Models. Currently on the faculty of McGill University . Onur Kaya.
+  PhD 2006. Supply Chain Due Date Quotation. Currently on the faculty of Koc University in
+  Istanbul. Zu-Hsu
+  Lee. PhD 2002. Algorithms for Due Date Quotation. Currently on the faculty of Marist University. Kerem Bulbul.
+  PhD 2002. (Jointly advised w/C. Yano.) Just in Time Scheduling in the Supply
+  Chain. Currently on the faculty of Sabanci University
+  in Istanbul. ABOUT PUBLICATIONS BOOKS TEACHING STUDENTS
+

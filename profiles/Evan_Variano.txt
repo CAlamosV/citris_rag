@@ -1,0 +1,20 @@
+Name: Evan Variano
+
+Description: Professor Variano’s teaching and research focus on environmental fluid mechanics & the physics of fluid motion in the environment. This includes a variety of phenomena on a variety of scales, from microscopic mixing to the coupled ocean-atmosphere system that transports heat and Carbon Dioxide around the globe. An understanding of fluid mechanics is crucial for an engineer whose goal is to restore or preserve a natural environment (e.g., wetlands, rivers, or the ocean) or design a system in which water or air flow must be controlled (e.g., ventilation, treatment, or turbomachinery). The basics of such work are covered in classes such as CE100 (Elementary Fluid Mechanics) and CE101 (Fluid Mechanics of Rivers, Streams, and Wetlands).In his research, Professor Variano develops cutting-edge experimental techniques to make measurements of fluid phenomena. He is particularly interested in the phenomena of turbulence and scalar transport. In these phenomena, one can only understand the large-scale behavior (e.g., ‘how fast will this pollutant plume spread’) via the microscale behavior (e.g., “what are the stochastic properties of the velocity fluctuations”).Professor Variano’s measurements occur in the laboratory or in the field, and are motivated by engineering problems for which existing models and approximation methods fall short of stakeholder needs. These are typically cases in which fluid motion is transporting some other quantity of interest (e.g., sediment, pollutants, or nutrients for aquatic organisms). Many scientists in several disciplines study such phenomena, but the environmental engineer has the pleasure of working with the natural environment. To do this, one must pay attention to spatial heterogeneity, unsteady forcing, and the fact that every species in the food web, from bacteria to humans, is a stakeholder with the ability to modify the environment to achieve its needs.
+
+Title: Assistant Professor
+
+Website: http://www.ce.berkeley.edu/~variano/
+
+Email: variano@ce.berkeley.edu
+
+Phone: (510) 642-2648
+
+Address: University of California, Berkeley
+623 Davis Hall
+Berkeley, CA 94720
+
+Profile URL: https://citris-uc.org/people/person/professor-evan-variano/
+
+Personal Website Text Short: Civil and Environmental Engineering Skip to main content Please enable javascript in your browser for full site features Log In Toggle navigation Navigation Menu About Overview Principles of Community Institutes Visitors Contact Grad Programs Construction Systems Energy, Civil Infrastructure and Climate Engineering and Project Management Environmental Engineering GeoSystems Engineering Structural Engineering, Mechanics and Materials Systems Engineering Transportation Engineering People Faculty Staff Alumni Advisory Council Undergraduate Prospective Undergraduates Admissions Diversity Curriculum Advising Certificate Undergrad Student Orgs Study Abroad Finances Careers Graduate Prospective Graduates Admissions Diversity Programs Degrees Grad Student Orgs Finances Careers Handbook Testing Facilities Structures Lab Equipment Lab Staff Resources For Students For Faculty For Staff For Visiting Scholars and Postdocs Diversity and Inclusion Libraries Computing Documentation Safety Documentation (CEE)² Program Page Not Found The page that you requested could not be found.  Please check the url and try again. Error 404 Department of Civil and Environmental Engineering College of Engineering UC Berkeley Give to CEE © 2024 UC Regents Accessibility Nondiscrimination Campus Privacy Office
+

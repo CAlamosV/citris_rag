@@ -1,0 +1,110 @@
+Name: Hamid Sadjadpour
+
+Description: Hamid Sadjadpour received his Ph.D. degree in Electrical Engineering with an emphasis on communication theory from University of Southern California (USC) in 1996. During his Ph.D., he worked part-time at Lincom corporations between February 1994 and July 1995 as a member of technical staff. During this period, he worked on the design of communication systems for satellite applications. Since December 1995, he was with AT&T research Lab as a senior technical staff member. He was promoted to Principal technical staff member in 2000. During this time, he worked on the design of a new full-duplex DSL modem. One of his joint work in bit loading algorithm with NEXT and FEXT minimization capability has been accepted in T1E1.4 US standard for the next generation of DSL modems. He has also designed a Multi-tone Turbo TCM (MTTCM) technique for DSL modems and participated in development of the first DSL modem with Turbo code capability. In the fall of 2001, he joined the department of Electrical Engineering at University of California, Santa Cruz as an assistant professor where he is currently employed.Professor Sadjadpour works with Communications, Signal Processing, and Networking groups where his research interests are in the areas of scaling laws and fundamental limits of wireless networks, performance analysis of protocols in sensor and ad hoc networks, coding and signal processing for DSL applications and data storage systems. He is also a member of UCSC Broadband Communications (UCBC) research, CCRG, and SSRC research groups.
+
+Title: Professor
+
+Website: http://users.soe.ucsc.edu/~hamid/
+
+Email: hamid@soe.ucsc.edu
+
+Phone: (831) 459-1483
+
+Address: University of California, Santa Cruz
+Baskin School of Engineering
+1156 High St
+Mail Stop SOE2
+Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/professor-hamid-sadjadpour/
+
+Personal Website Text Short: Hamid Sadjadpour's web page Hamid
+                                  Sadjadpour Professor 
+and
+Graduate
+
+
+                                  Director of Electrical
+
+
+                                    Eng. Baskin
+School
+
+
+                                      of Engineering E2-245B University of California 1156 High Street Santa Cruz, CA 95064 Phone: (831) 459-1483 Fax: (831) 459-4829 first-name at
+                                    soe dot ucsc dot edu Education | B ackground | Research/Activities | Teaching | Publications | New-Applicants/Open-positions | Patents Home News from Our Lab Curriculum Vitae Honors and Awards: IEEE 2017 Conference on Cloud and
+                    Big Data Computing best paper award, Topic: Secure and Private Cloud Storage Systems with
+                Random  Linear Fountain Codes IEEE European Wireless 2010
+                    conference best student paper award, Topic: Opportunistic Interference Management. IEEE Fred W. Ellersick Award for
+                    Best Unclassified Paper at the 2008 Milcom
+                    conference, Topic: Network Coding Multicast Capacity Our paper was selected as one of
+                    the best papers at Wiopt 2007 conference. Best Paper Award at SPECTS 2007
+                    conference, Topic: Link lifetime analytical modeling Co-inventor of a patent that was
+                    adopted by spectrum management of T1.E1.4 standard
+                    committee. Senior Member of IEEE. Graduated first in MS program at
+                    Sharif University of Technology. Graduated with high honor in BS
+                    program at Sharif University of Technology. Professional Acitvities: Technical Program Committee member, MASS 2012. Technical Program Committee member, MILCOM 2012. Technical Program Committee member, SPAWC 2012. Technical Program Committee member, ICASSP 2012. Technical Program Committee member, MILCOM 2011. Founder and CTO, Scale-free Untethered Network
+                  Systems Technologies, July 2010. General Chair, IEEE SPAWC 2011 . Technical Program Committee member, ICASSP 2011. Special session organizer on MANETs in Asilomar
+                  2010. Technical Program Committee member, MILCOM 2010. Technical Program Committee member, SECON 2010. Technical Program Committee member, ICASSP 2010. Technical Program
+                    Committee member, SPAWC 2010. Technical Program
+                    Committee member, INFOCOM 2010. Technical Program
+                    Committee member, WCNC 2010. Guest Editor,
+                    International Journal of Digital Multimedia
+                    Broadcasting, Special issue on Cognitive Radio
+                    Technology 2009. Technical Program
+                    Committee member, NetSciCom 2009. Technical Program
+                    Committee member, AdHocNow 2009. Technical Program
+                    Committee member, SPAWC 2009. Honorary Chair of Communication and Information
+                  Theory Symposium, IWCMC 2009. Technical Program Committee member, ICASSP 2009. Technical Program
+                    Committee member, INFOCOM 2009. Guest Editor, IEEE Communication Magazine, Special
+                  issue on Advances in Signal Processing for Wireless
+                  and Wired Communications, CFP . Technical Program
+                    Committee member, ICC 2009. Technical Program
+                    Committee member, SPAWC 2008. Registration Chair, Mobicom 2008. Technical Program
+                    Committee member, Globecom 2008. Chair of Communication and Information Theory
+                  Symposium, IWCMC 2008. Technical Program
+                    Committee member, ICASSP 2008. Technical Program
+                    Committee member, WCNC 2008. Technical Program
+                    Committee member, Signal Processing for
+                  Space Communications (SPSC) 2008 workshop. Technical Program
+                    Committee member, INFOCOM 2008. Technical Program
+                    Committee member, Globecom 2007. Technical Program
+                    Committee member, ICASSP 2007. Technical Program
+                    Committee member, SPAWC 2007. IEEE Signal Processing Society's Technical Committee
+                  on Signal Processing for Communications, January
+2007-
+
+
+                    December 2011 . Vice Chair of Communication Executive Committee of
+                  IUCRP, November 
+                    2006 - 2008. Editor for Journal of Communications and Networks (JCN) Dec. 2006- Now. Chair of Communication
+                    and Information Theory Symposium, IWCMC 2007 . NSF Panelist, 2006, 2007, 2008,2009,2010. Technical Program
+                    Committee member, ISBAT 2006. Technical Program
+                    Committee member, Infocom 2007. Technical Program
+                    Committee member, Globecom2006. Technical Program Committee member, Chinacom
+                    2006 . Guest Editor of
+                    EURASIP, Special
+issue
+
+
+                      on Wireless
+Mobile
+
+
+                    Ad Hoc Networks , 2005. Member of International Program Committee of IASTED
+                  Conference on Communication, Systems and Applications
+                  ( CSA
+
+
+                    2006 ). Chair of Communication
+                    and Information Theory Symposium , IWCMC 2006 . Technical Program Committee member, ICC2006. Technical Program Committee member, RAWCON2006. Technical Program Committee member, Globecom2005. Chair of Communication Theory Symposium, WirelessCom
+                  2005. Technical Program
+                    Committee member, BWAN2005. Technical Program
+                    Committee member, ICC2005. Technical Program Committee member, Wireless ad hoc
+                  and sensor networks workshop as part of Globecom 2004. Technical Committee member of a book on "Turbo Code
+                  Applications: A journey from a paper to realizations. Technical Program Committee member, Globecom 2004. Technical Program Committee member, RAWCON2004. Technical Program Committee member, ICC2003. Guest Editor of EURASIP, Special issue on
+                  Multicarrier Communications and Signal Processing,
+                  2003. Senior Member of IEEE communications society. Click for weather
+        forecast Number of
+          visitors since January 9, 2004:
+

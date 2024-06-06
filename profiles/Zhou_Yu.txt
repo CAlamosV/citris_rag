@@ -1,0 +1,18 @@
+Name: Zhou Yu
+
+Description: My research centers on an inter-disciplinary area of machine learning, natural language processing and human-computer interaction. The goal of my research is to develop AI system that have positive social impacts.Research interests:Natural Language Processing, Interactive Systems, Human-Robot Interaction
+
+Title: Assistant Professor
+
+Website: http://zhouyu.cs.ucdavis.edu/
+
+Email: joyu@ucdavis.edu
+
+Phone: nan
+
+Address: nan
+
+Profile URL: https://citris-uc.org/people/person/zhou-yu/
+
+Personal Website Text Short: 403 Forbidden Forbidden You don't have permission to access this resource. Apache/2.4.52 (Ubuntu) Server at zhouyu.cs.ucdavis.edu Port 80
+

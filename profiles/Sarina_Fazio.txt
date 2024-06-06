@@ -1,0 +1,18 @@
+Name: Sarina Fazio
+
+Description: Sarina Fazio is a clinical nurse scientist at UC Davis Health. She is also the lead nursing subject-matter expert within the Data Provisioning Core at UC Davis Health’s Data Center of Excellence. Prior to joining the Center for Nursing Science, she practiced as an ICU nurse and completed a postdoctoral fellowship in comparative lung biology and medicine in the Division of Pulmonary, Critical Care and Sleep Medicine.Fazio’s research is focused on the design, development and testing of informatics-based solutions to enable quantitative monitoring of early mobility and patient-ventilation interactions in the ICU using wearable sensors, clinical videography and electronic health record analysis.Sarina Fazio began her nursing career in Canada, where she received a Bachelor of Science in nursing from McGill University in Montreal, Quebec, where she also practiced as a nurse. She obtained her Ph.D. in nursing science and health care leadership from the Betty Irene Moore School of Nursing at UC Davis in 2018.Research interests: critical care, nursing, mobility, mobile health, electronic health records.
+
+Title: Clinical Nurse Scientist
+
+Website: nan
+
+Email: safazio@ucdavis.edu
+
+Phone: nan
+
+Address: University of California, Davis
+
+Profile URL: https://citris-uc.org/people/person/sarina-fazio/
+
+Personal Website Text Short: nan
+

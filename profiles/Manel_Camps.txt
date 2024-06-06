@@ -1,0 +1,18 @@
+Name: Manel Camps
+
+Description: The laboratory of Dr. Manel Camps uses molecular genetic and computational approaches to study the biological consequences of random changes in genetic information mutations) that occur spontaneously or as a result of environmental insults. They couple the generation of random mutant libraries with specific selections or screens to study the functional impact of point mutations and to establish how genes evolve in response to selective pressure. This work is relevant for the identification of risk factors of disease, understanding the origins of drug resistance, and engineering biological activities.The Camps laboratory also uses induction of random genetic alterations (mutagenesis) as an indicator of DNA damage for high-throughput analysis of chemical libraries. Through this approach, Camps and his colleagues exploit the particular susceptibility of rapidly replicating cells to DNA damage for therapeutic purposes, with the long-term goal of identifying candidates that complement or enhance existing anti-tumor therapies.Dr. Camps accepts graduate students from both the METX and PBSE graduate programs.
+
+Title: Professor
+
+Website: http://www.metx.ucsc.edu/research/camps.html
+
+Email: mcamps@ucsc.edu
+
+Phone: 831-459-5396
+
+Address: 1156 High Street Santa Cruz CA 95064 USA
+
+Profile URL: https://citris-uc.org/people/person/professor-manel-camps/
+
+Personal Website Text Short: nan
+

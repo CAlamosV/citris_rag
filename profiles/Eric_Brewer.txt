@@ -1,0 +1,67 @@
+Name: Eric Brewer
+
+Description: Dr. Brewer focuses on all aspects of Internet-based systems, including technology, strategy, and government. As a researcher, he has led projects on scalable servers, search engines, network infrastructure, sensor networks, and security. His current focus is (high) technology for developing regions, with projects in India, Ghana, and Uganda among others, and including communications, health care, education, and e-government.In 1996, he co-founded Inktomi Corporation with a Berkeley grad student based on their research prototype, and helped lead it onto the NASDAQ 100 before it was bought by Yahoo! in March 2003.In 2000, he founded the Federal Search Foundation, a 501(c)(3) organization focused on improving consumer access to government information. Working with President Clinton, Dr. Brewer helped to create USA.gov, the official portal of the Federal government, which launched in September 2000.He was recently elected to the National Academy of Engineering for leading the development of scalable servers (early cloud computing), and also received the ACM Mark Weiser award for 2009. He received an MS and Ph.D. in EECS from the MIT, and a BS in EECS from UC Berkeley. He was named a “Global Leader for Tomorrow” by the World Economic Forum, by the Industry Standard as the “most influential person on the architecture of the Internet”, by InfoWorld as one of their top ten innovators, by Technology Review as one of the top 100 most influential people for the 21st century (the “TR100”), and by Forbes as one of their 12 “e-mavericks”, for which he appeared on the cover.
+
+Title: Professor
+
+Website: http://www.cs.berkeley.edu/~brewer/
+
+Email: brewer@cs.berkeley.edu
+
+Phone: (510) 642-8143
+
+Address: University of California, Berkeley 417 Sutardja Dai Hall Berkeley, CA 94720-1758
+
+Profile URL: https://citris-uc.org/people/person/professor-eric-brewer/
+
+Personal Website Text Short: Professor Eric A. Brewer 417 Sutardja 
+      Dai Hall University of 
+      California at Berkeley Berkeley, CA 94720-1758 (510) 642-8143 FAX: (510) 642-5775 brewer@cs.berkeley.edu Professor, Computer Science Division Founder of 
+the Federal Search Foundation, which built FirstGov (now USA.gov) , the portal for the US 
+government. Formerly, Founder and Chief Scientist of  Inktomi 
+Corporation, now part of Yahoo! Office Hours for Fall 2011:  Wed 1-2 (417 Sutardja Dai 
+Hall), plus other times via e-mail Classes Fall 2011 : CS262a: Advanced 
+Topics in Computer Systems Spring 2010, 2011: Cellphones as a 
+Computing Platform Fall 2009 : CS262a: Advanced Topics in 
+Computer Systems Spring 2009: CS169: Software 
+Engineering Fall 2008: CS262a: Advanced Topics in Computer 
+Systems Spring 2008: CS294-35: 
+Cellphones as a Computing Platform Spring 2008: CS262A Spring 
+2006: CS262B Spring 2005:  CS169: Software 
+Engineering Fall 2004: CS262a: Advanced Topics in Computer Systems Spring 
+2004: CS262b: Advanced Topics in Computer Systems Fall 2003: CS294-12: ICT for Developing 
+Regions (with Richard Newton, Tom Kalil and CMU) Research Publications My 
+primary research interests include technology for developing regions, 
+programming languauge support for concurrency, Internet systems, and databases. Current Projects: TIER: Technology and 
+  Infrastructure for Emerging Regions Video of 
+  my BEARS talk (a good introduction to TIER, about 25 minutes) Ivy: An extension for C with 
+  better safety properties that works with legacy C code Past Projects NEST: Network Embedded Systems 
+  Technology The Ninja Project on 
+  Internet-Scale Services Internet security: ISAAC , which led to the 
+  PhDs of David Wagner , Ian 
+  Goldberg and Nikita Borisov. Mobile Computing: Daedalus and Bay 
+  Area Research Wireless Access Network (BARWAN) Cluster Computing: The Berkeley NOW 
+  Project InfoPad Graduate Students: Yahel Ben-David Shaddi Hasan Kurtis Heimerl Kevin Klues Jeremy Rahe Barret Rhoden David Zhu Former PhD Advisees Zach Anderson, Post-Doc at ETH Zurich Nikita 
+  Borisov , now a professor at University of Illinois, Urbana-Champaign Yatin 
+  Chawathe , now at Google Mike 
+  Chen ,  now a professor at the National Taiwanese Universitiy (NTU) Mike Demmer , now at 
+  Riverbed Bowei Du, was at Aster Data Armando Fox , now a 
+  professor at Berkeley Paul Gauthier, co-founder of Inktomi, now at a Groupon Steve Gribble , 
+  now a professor at the University of Washington Ian Goldberg , now a 
+  professor at Waterloo Barbara Hohlt , now 
+  at Intel RJ Honicky, now at Tarana Wireless Bill McCloskey , now at 
+  Mozilla Sergui Nedevschi , 
+  currently at Tarana Wireless Rabin Patra currently 
+  at Tarana Wireless Rusty Sears , now at 
+  Yahoo! Research Sonesh Surana, now at Solar Semiconductor Rob von Behren , now at 
+  Google David Wagner , now a 
+  professor at UC Berkeley Matt Welsh , now a 
+  professor at Harvard (co-advised with David Culler) Feng Zhou , now at NetEase 
+  (1B+ page view/day Chinese Internet company) Tier Advisees Melissa Ho Joyojeet Pal, now at University of Washington Renee Kuriyan, now a Intel People & Practices Group Jennifer Bussell, now at the Center for Asian Democracy at the University 
+  of Louisville Lakshmi Subramanian, now at NYU Awards ACM Infosys Foundation Award, 2009 Member, National 
+Academy of Engineering SIGOPS Mark Weiser Award, 2009 Global Leader for 
+Tomorrow for the World Economic 
+Forum ACM Fellow Alfred P. Sloan Research 
+Fellow Personal Photography Documents: Short bio Press 
+  photo brewer@cs.berkeley.edu x x
+

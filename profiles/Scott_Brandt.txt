@@ -1,0 +1,90 @@
+Name: Scott Brandt
+
+Description: Scott Brandt is Professor of Computer Science, the UCSC Director of the Institute for Scalable Scientific Data Management, and Director of the UCSC Systems Research Laboratory. He is also co- founder of the UCSC Storage Systems Research Center. Scott’s research is in the area of Computer Systems. He specializes in both storage systems and real-time systems. His current storage system research focuses on high-performance peta-scale distributed object-based storage, while his real-time research focuses on integrating real-time and non-real-time processing into a uniform processing environment. His most recent research intregrates the two, researching novel solutions for robust guaranteeable management of varied system resources, including CPU, disk, memory, and network.
+
+Title: Professor
+
+Website: http://users.soe.ucsc.edu/~sbrandt/
+
+Email: scott@cs.ucsc.edu
+
+Phone: (831) 459-5042
+
+Address: University of California, Santa Cruz Computer Science Department 1156 High Street MS:SOE3 Santa Cruz, CA 95064
+
+Profile URL: https://citris-uc.org/people/person/scott-brandt/
+
+Personal Website Text Short: Dr. Scott A. Brandt, Professor Scott A. Brandt Professor Computer Science Department Director UCSC/Los Alamos Institute for Scalable Scientific Data Management (ISSDM) Director (on leave) UCSC Systems Research Laboratory Co-founder UCSC Storage Systems Research Center Email: scott@cs.ucsc.edu Phone: 831-459-5042 Fax: 831-459-4829 Office #: E2–347B Office Hours: (Fall 2007) Tuesdays 2–4, and by appointment Address:
+		  Computer Science Department University of California 1156 High Street MS:SOE3 Santa Cruz, CA 95064 Dr. Scott A. Brandt is  Professor of Computer Science at the University of California, Santa Cruz.  He is also Director of the UCSC Systems Research Laboratory, co-founder of the UCSC Storage Systems Research
+	  Center and, co-founder and Director of the UCSC/Los
+	  Alamos Institute for Scalable Scientific Data
+	  Management .  Dr. Brandt's research is in
+	  the area of Computer Systems.  He specializes in 
+	  Storage Systems and Real-Time Systems and, more recently, System and Storage Performance Management.  His  Storage
+	  System research includes high-performance peta-scale
+	  object-based storage and the use of new storage technologies
+	  to improve storage system performance and reliability.  His
+	   real-time research focuses on integrating real-time
+	  and non-real-time processing into a uniform processing
+	  environment. His performance management research integrates the two to provide  processing and I/O performance guarantees in local and distributed systems. Dr. Brandt joined UC Santa Cruz in 1999.
+	  Prior to that he spent a number of years doing research and
+	  development in industry, including secure operating systems
+	  research at Secure Computing Corporation, and real-time
+	  image processing systems research at Alliant Techsystems
+	  Research and Technology Center and Honeywell Systems and
+	  Research Center.  Dr. Brandt also co-founded Theseus
+	  Research, a small company devoted to researching
+	  asynchronous circuit technology and parallel computer
+	  languages.  Dr. Brandt received his Ph.D. in Computer
+	  Science from the University of Colorado at Boulder in 1999,
+	  his M.S. in Computer Science from the University of
+	  Minnesota in 1994, and his Bachelor of Mathematics from the
+	  University of Minnesota in 1987. Research Teaching Publications Curriculum 
+		  Vitae Research Dr. Brandt's research is in
+    the broad area of Computer Systems.  He specializes in Storage Systems , Real-Time Systems and Performance Management. He also does research in other systems-related areas.  A comprehensive (but somewhat out of date) list of his
+    publications can be found here . Recent and Notable Ceph  is in Linux! See the press release and the official Ceph website for more information. Roberto Pineiro, Kleoni Iouannidou, Carlos Maltzahn, and Scott Brandt, "RAD-FLOWS: Buffering for Predictable Communication," The IEEE Real-Time and Embedded Technology and Applications Symposium, Chicago, Illinois, April 11–14, 2011. Greg Levin, Shelby Funk, Caitlin Sadowski, Ian Pye, and Scott A. Brandt, ”DP-FAIR: A Simple Model for Understanding Optimal Multiprocessor Scheduling," The Euromicro Conference on Real-Time Systems (ECRTS), Brussels, Belgium, July–9, 2010. Best Paper Award Anna Povzner, Darren Sawyer, and Scott A. Brandt, ”Horizon: Efficient Deadline-Driver Disk I/O Management for Distributed Storage Systems,"” The ACM International Symposium on High Performance Distributed Computing, Chicago, Illinois, June 20–25, 2010. Best Paper Award. Changkyu Kim, Jatin Dhhugani, Nadathur Satish, Eric Sedlar, Anthony Nguyen, Tim Kaldewey, Victor Lee, Scott Brandt, and Pradeep Dubey,”FAST: Fast Architecture Sensitive Tree Search on Modern CPUs and GPUs” ACM SIGMOD, Indianapolis, Indiana, June 6–11, 2010. Best Paper Award. Tim Kaldewey, Anna Povzner, Theodore Wong, Richard Golding, Scott Brandt, Carlos Maltzahn, "Virtualizing Disk Performance", The IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2008), St. Louis, Missouri, April 22–24, 2008. Springer Journal of Real-Time Systems Award for Best Student Paper. David Bigelow, Scott A. Brandt, John Bent, H. B. Chen, "Mahanaxar: Quality of Service Guarantees in High-Bandwidth, Real-Time Streaming Data Storage," The IEEE / NASA Conference on Mass Storage Systems and Technologies (MSST 2010) , Lake Tahoe, Nevada, May 3–7, 2010. Timothy Bisson, Scott A. Brandt, Darrell Long, "A Hybrid Disk-Aware Spin-Down Algorithm with I/O Subsystem Support," The IEEE International Performance, Computing, and Communications Conference (IPCCC 2007), New Orleans, Louisiana, April 11–13, 2007. Best Paper Award . Sage Weil, Scott A. Brandt, Ethan Miller, Darrell Long, and Carlos Maltzahn, ``Ceph: A Scalable, High-Performance, Distributed Object-based Storage System,'' Symposium on Operating Systems Design and Implementation (OSDI '06), pp. 307--320, Seattle, Washington, November 6–8.  2006. Storage Systems I/O bandwidth is increasing arithmetically while CPU
+	  performance, disk capacity, and I/O requirements are all
+	  increasing exponentially.  The ever-widening performance gap
+	  this creates both demands and enables increasingly
+	  intelligent data storage and retrieval.  Our research
+	  examines high-performance data storage storage
+	  architectures, algorithms, and technologies aimed at
+	  addressing this performance gap. Projects: High-performance peta-scale object-based storage MRAM-based storage MEMS-based storage Adaptive Caching Prediction and Grouping Representative publications: Sage A. Weil, Scott A. Brandt, Carlos Maltzahn, and Ethan L. Miller, “CRUSH: Controlled, Scalable, and Decentralized Placement of Replicated Data,” International Conference for High Performance Computing, Networking, Storage, and Analysis (SC06), Denver, Colorado, November 11–17, 2006. Sage A. Weil, Scott A. Brandt, Ethan L. Miller, Darrell D. E. Long, and Carlos Maltzahn, “Ceph: A Scalable, High-Performance, Distributed Object-based Storage System,” Symposium on Operating Systems Design and Implementation (OSDI ’06) , Seattle, Washington, November 6–8. 2006. Bo Hong, Scott A. Brandt, Darrell D. E. Long, Ethan L. Miller, and Ying Lin, “Using MEMS-Based Storage in Computer Systems–Device Modeling and Management,” ACM Transactions on Storage , Volume 2, No. 2, pp. 1–22, May 2006. Bo Hong, Feng Wang, Scott A. Brandt, Darrell D. E. Long, and Thomas J. E. Schwarz, “Using MEMS-Based Storage in Computer Systems–MEMS Storage Architectures,” ACM Transactions on Storage , Volume 2, No. 1, pp. 1–21, February 2006. Sage A. Weil, Kristal T. Pollack, Scott A. Brandt,
+	      and Ethan L. Miller, "Dynamica Metadata Management for
+	      Petabyte-scale File Systems," International Conference for High Performance Computing, Networking, Storage, and Analysis (SC2004) ,
+	      November, 2004. Real-Time Systems We are investigating a new model for
+	  dynamic and fully integrated real-time scheduling called
+	  Resource Allocation/Dispatching(RAD). RAD allows for the
+	  detailed management of both the resources consumed and the
+	  timing of the delivery of those resource for each executing
+	  process.  RAD fully characterizes the timeliness
+	  requirements of the processes, allowing each process to have
+	  different requirements with respect to both of these
+	  quantities and enabling resource delivery precisely tailored
+	  to the needs of each process.  The RAD model of CPU resource
+	  management has led to the development of several distinct
+	  CPU resource managers: RBED, HodgePodge, BEST, BeRate,
+	  and DQM. We have also applied this model to control system
+	  and, more recently, to storage Quality of Service. Projects : Integrated real-time and non-real-time processing Storage Quality of Service DQM Representative publications: Caixue Lin, Tim Kaldewey, Anna Povzner, Scott A. Brandt, ”Diverse Soft Real-Time Processing in an Integrated System,” IEEE Real-Time Systems Symposium (RTSS 2006), Rio de Janeiro, Brazil, December 5–8, 2006. Caixue Lin and Scott A. Brandt, "Improving Soft
+	        Real-Time Performance Through Better Slack Management," IEEE Real-Time Systems Symposium (RTSS 2005) , pp. 3–14, December, 5–8, 2005. Joel Wu, Scott Banachowski, and Scott A. Brandt,
+		"Hierarchical Disk Sharing for Multimedia Systems," ACM
+		International Workshop on Network and Operating System 
+		Support for Digital Audio and Video (NOSSDAV 2005) , 
+		pp. 189–194, June 2005. Scott Banachowski, Timothy Bisson, and Scott A. Brandt,
+	      "Integrating Best-effort Scheduling into a Real-Time
+	      System," IEEE Real-Time Systems Symposium (RTSS 2004) , 
+	      December, 2004. Pau Marti, Caixue Lin, Scott Brandt, Manel Velasco,
+	      and Josep Fuertes, "Optimal State Feedback Resource
+	      Allocation for Resource-Constrained Control Tasks," IEEE
+	      Real-Time Systems Symposium (RTSS 2004) , pp. 161–172,
+	      December, 2004. Teaching Dr. Brandt teaches both undergraduate and graduate
+	  courses. His undergraduate course offerings include CMPS
+	  12A: Introduction to Programming, CMPS 12B: Data Structures,
+	  CMPS 13H: Honors Introduction to Programming and Data
+	  Structures, CMPS 105: Systems Programming, and CMPS 111:
+	  Introduction to Operating Systems.  His graduate course
+	  offerings include CMPS 221: Advanced Operating Systems, and
+	  CMPS 290S: Advanced Topics in Computer Systems (covering
+	  Storage Systems and Real-Time Systems in different
+	  offerings). Class Web Pages: Current: CMPS 221—Advanced Operating Systems All: CMPS 12A—Introduction to Programming CMPS 13H—Honors Introduction to Programming and Data Structures CMPS 111—Introduction to Operating Systems CMPS 200 - Introduction to Research and Teaching in Computer Science and Engineering and Electrical Engineering and Applied Math and Statistics and Technology and Information Management CMPS 221—Advanced Operating Systems CMPS 280S: Seminar in Computer Systems CMPS 290S—Advanced Topics in Computer Systems: Storage Systems CMPS 290S—Advanced Topics in Computer Systems: Real-Time and Soft Real-Time Systems Current and Former Graduate Students: Doctor of Philosophy Rosie Wacha — David Bigelow — Roberto Pineiro — Andrew Shewmaker — Greg Levin — Joe Buck — Noah Watkins — Latchesar Ionkov — Michael McThrow — Dr. Tim Kaldewey — Predictable High Performance Data Management--Leveraging System Resource Characteristics To Efficiently Improve Performance and Predictability (2010) Dr. Sage Weil — Ceph: Reliable, Scalable, and High-Performance Distributed Storage (2007) Dr. Joel Wu — Providing Quality of Service Support for Storage Systems (2007) Dr. Timothy Bisson — Improving Hard Disk Power Consumption, Performance, and Reliability Through I/O Redirection (2007) Dr. Feng Wang — Storage Management in Large Distributed Object-based Storage Systems (2006) Dr. Caixue Lin — Unified and Effective Soft Real-Time Processing in Integrated Systems (2006) Dr. Bo Hong — Storage and File Systems for MEMS-based Storage (2005) Dr. Scott Banachowski — CPU Time-Sharing in Real-Time Systems (2005) Master of Science Jan Pieper — Coping with the Storage Requirements of Cloud Computing (2010) Melanie Witt — Quality of Service in the Common Container (2010) Greg Levin — TSnS: A Simple Model for Understanding Optimal Hard Real-Time Multiprocessor Scheduling (2010) David Bigelow — Managing High-Bandwidth Real-Time Data Storage (2009) Latchesar Ionkov — XCPU2 Distributed Seamless Desktop Extension (2009) Andrew Shewmaker — Investigating Efficient Real-time Performance Guarantees on Storage Networks (2009) Ian Pye — Beyond Hypertext: Distributed Naming on a Global Scale (2008) Tim Kaldewey — Virtualizing Storage Performance (2008) Suresh Iyer — The Right Split: Enabling User-Space Real-Time Scheduling (2008) Eric LaLonde — A Characterization of LANL HPC Systems (2007) Nikhil Bobb — The Graffiti Distributed Metadata Management System—Client (2006) Travis Odegaard — The Cache and Multimedia Data (2005) Ivan Dramaliev — Optimizing Probe-based Storage (2005) Timothy Bisson — Dynamic Spin-Down Kernel Implementation and Reducing Energy Consumption Using a Non-Volatile Storage Cache (2005) Deepa Tuteja — Linking File System with MRAM (2004) Suruchi Malatpure — Rate-based Scheduling in RBED (2003) Caixue Lin — Managing the Soft Real-Time Processes in RBED (2003) Scott Banachowski — Using the Best-effort Scheduling Model to Support Soft Real-time Processing (2002) Alicja Szczurowska — MRAM—Preliminary Analysis for File System Design (2002) Feng Wang — Using MEMS-based Storage Devices in the Storage Hierarchy (2002) Lan Xue — Efficient Metadata Management in Large Distributed File Systems (2002) Scott A. Brandt / Telephone: (831) 459-5042 / FAX: (831) 459-4829 / scott@cs.ucsc.edu "To laugh often and love much; to win the respect of intelligent persons and the affection of children; to earn the approbation of honest citizens and endure the betrayal of false friends; to appreciate beauty; to find the best in others; to give of one's self; to leave the world a bit better, whether by a healthy child, a garden patch or a redeemed social condition; to have played and laughed with enthusiasm and sung with exultation; to know even one life has breathed easier because you have lived—this is to have succeeded." Ralph Waldo Emerson
+

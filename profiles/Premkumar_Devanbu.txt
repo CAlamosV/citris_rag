@@ -1,0 +1,96 @@
+Name: Premkumar Devanbu
+
+Description: Prem Devanbu started off in Industrial software development, first at Perkin-Elmer; then at Bell Labs, first in software development and then in research, at Murray Hill, NJ; with the big travestyture, Devanbu went to AT&T Labs Research in Florham Park. Devanbu have been  at UC Davis since  late 1997.  His undergraduate education  was at IIT, Madras in India; his doctoral work was done  under Prof. Borgida at Rutgers University in the Garden State,which is a lovely   place, actually; although the Golden State   also has much to offer .
+
+Title: Professor
+
+Website: http://web.cs.ucdavis.edu/~devanbu/
+
+Email: devanbu@cs.ucdavis.edu
+
+Phone: (530) 752-7324
+
+Address: University of California
+Davis, CA 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-premkumar-devanbu/
+
+Personal Website Text Short: Prem Devanbu's Home Page Prem Devanbu (but are you looking for the  Painter Roma Devanbu ? or the Social Practice Artist Josephine Devanbu ? or the Design Engineer Frances Devanbu ? If you're looking for the Mridungam player,
+  or the Evangelist, sorry you're on yer own ) I am a Distinguished Research Professor on the Faculty of the Computer
+Science Department at the University of California at Davis. I work in
+the areas of empirical software engineering, and Software Engineering applications of ML, and co-direct
+the DECAL Lab with Vladimir Filkov See my academic vitae for a summary, and/or  my research
+statement for more details. 
+consulting work. My office is at Academic Surge 2079. I am a proudly helmeted bicycle commuter. JOB SCAM ALERT Unfortunately, some nasty characters are running a job scam using
+  my name. Please read the UC Davis alert on this. I almost never contact
+students  by email offering jobs, unless I know them first. If you
+get such an email, it's almost certainly a scam. I was elected ACM Fellow  in 2018. A pleasure to join  my wonderful
+    UC Davis colleagues Dan Gusfield , Nelson Max. and Kwan-liu Ma I am deeply honored to be the winner of the The 2021 ACM SIGSOFT Outstanding Research Award , (in 2022)
+	  the Humboldt Research Award from the Alexander von Humboldt Foundation in Germany, and (in 2024) the IEEE Computer Society Harlan Mills  Award Journal Service: I am pleased to serve as a  Co-Chair (along with prof. m. c. schraefel )
+  of the Editorial Board of the Communications of the ACM. Previously have done hard time on the 
+Ed Board of several journals, including: The Empirical Software Engineering Journal, IEEE Transactions on Software Engineering, ACM Transactions on Software Engineering and Methodology, and the Journal of Software Maintenance and Evolution,                                                                          
+Research and Practice I program-chaired ACM SIGSOFT FSE in 2006 in Portland, OR; 
+since then, 
+I co-chaired the program for ICSE 2010 in Cape Town, with
+Seb Uchitel.
+ 
+I was also the General Chair for FSE 2020 , held virtually  in Sacramento,
+California, during the Pandemic. Want a letter of reference? My Academic Lineage is the same as William Cohen's , and 
+extends back to such luminaries as Maxwell, 
+Newton, Bernoulli, Poisson, Euler, and Leibniz. Those guys were smart, but
+didn't wear bike helmets. Look what happened to them. Where are they now, eh?  EH? EH? Let that be a lesson. Wear your helmet,
+especially when bicycling. Post-Diluvian Pubs ( Rest here ) Automatic Semantic Augmentation of Language Model Prompts (ICSE  2024) pdf Better patching using LLM prompting, via Self-Consistency (ASE NIER  2023) pdf Large Language Models, and Simple, Stupid Bugs (MSR 2023) preprint Extended Source Code Pre-Trained Language Models to Summarise Decompiled Binaries (SANER 2023) Preprint pdf SYNSHINE: improved fixing of Syntax Errors". (IEEE TSE 2022) preprint pdf Few-shot training VLLMs for project-specific code-summarization . (ASE New Ideas and Emerging Results, 2022) preprint ) NatGen: Generative Pre-Training by "Naturalizing" source code ESEC/FSE 2022 Learning to Predict User-Defined Types IEEE Transactions on Software Engineering
+  2022 pre print pdf ManyTypes4TypeScript: A Comprehensive TypeScript Dataset
+  for Sequence-Based Type Inference MSR 2022 Data Challenge pre-print Multi-lingual training for software engineering ICSE 2022 pre print pdf Finding Inlined Functions in Optimized Binaries IEEE Transactions on Software Engineering 2021 pre print pdf Learning Type Annotations: is Big Data Enough? ESEC/FSE Visions and Reflections 2021 pre print pdf Learning Lenient Parsing and Typing via Indirect Supervision Springer-Verlag Empirical Software Engineering Journal 2021 pre print pdf Do Programmers Prefer Predictable Expressions in
+      Code? Cognitive Science 2020 pdf Code to Comment "Translation": Data, Metrics, Baselining & Evaluation Automated Software Engineering 2020 pdf Patching as Translation: the Data vs. the Metaphor Automated Software Engineering 2020 pdf Does Surprisal Predict Code Comprehension Difficulty? Presented at Cognitive Science Society Conference 2020 pdf A Theory of Dual-Channel Constraints Proceedings ICSE NIER 2020 pdf Status, Identity, and Language: A study of issue discussions
+    in GitHub PLOS One Journal 2019 Whom are you going to call? determinants of @-mentions in Github discussions Empirical Software Engineering Journal 2019 Test Coverage in Python Programs MSR 2019 pdf Studying the difference between Natural and Programming Language Corpora Empirical Software Engineering Journal 2019 pdf On the Naturalness of Proofs Proceedings ESEC/FSE (NIER Track)  2018 pdf A Survey of Machine Learning for Big Code and Naturalness ACM Computing Surveys, 51(4) 2018 pdf Mining Semantic Loop Idioms IEEE Transactions on Software Engineering 2018 44(7) pdf Are Deep Neural Networks the Best Choice for Modeling Source Code FSE 2017 pdf Recovering Clear, Natural Identifiers from Obfuscated JS Names FSE 2017 pdf On the "Naturalness" of Buggy Code ICSE 2016 pdf Belief & Evidence in Empirical Software ENgineering ICSE 2016 pdf The Sky is Not the Limit: Multitasking Across GitHub Projects ICSE 2016 pdf Quality and Productivity Outcomes Relating to Continuous Integration in GitHub FSE 2015 pdf Developer Onboarding in GitHub: the Role of Prior Social Links and Language Experience FSE 2015 pdf CACHECA: A Cache Language Model Based Code Suggestion Tool. ICSE 2015 Demonstration Track pdf Code Gender and Tenure Diversity  in Github Teams. CHI 2015 pdf Assert Use in GitHub Projects, ICSE 2015 pdf IMPORTANT, NOTE We replicated this study, using a different experimental methodology, and got different 
+results short pdf of replication New Initiative: Naturalness of Software ICSE 2015 NIER Track pdf Winner, Best Paper Award A Large Scale Study of Programming Languages and Code Quality in Github. The Version currently in ACM DL is out of date, and has been revised, see this pdf version for errata/details. On the Localness of Software FSE 2014 pdf Code The Plastic Surgery Hypothesis FSE 2014 Panning Requirement Nuggets in Stream of Software Maintenance Tickets FSE 2014 Focus-Shifting Patterns of OSS Developers and Their Congruence with Call Graphs FSE 2014 Comparing Static bug finders and Statistical defect prediction ICSE 2014 pdf DATA How Social Q&A Sites are Changing Knowledge Sharing in Open Source Software Communities CSCW 2014 Using and Asking: APIs Used in the Android Market and Asked About in StackOverflow SocInfo2013 pdf Sample Size vs. Bias in Defect Prediction , ESEC/FSE 2013 pdf Asking for (and about) Permissions Used by Android Apps MSR 2013 Dual Ecological Measures of Focus in Software Development , ICSE 2013 pdf Winner, ACM SIGSOFT Distinguished Paper Award How, and Why Process Metrics are Better , ICSE 2013 pdf To what extent could we detect field defects? ASE 2012 pdf When Would This Bug Get Reported? , ICSM 2012 pdf MIC Check: A Correlation Tactic for ESE Data , MSR 2012 pdf On the "Naturalness" of software ,
+Appeared in ICSE 2012 pdf (Expanded Version!) Recalling the Imprecision of Cross-Project Defect Prediction> 
+Appeared in FSE 2012, pdf Cohesive and Isolated Development with Branches ,
+Appeared in FASE 2012 Clones: what is that smell? l Journal on Empirical Software Engineering, pdf Got Issues? Do New Features and Code Improvements Affect Defects? WCRE 11 pdf Ecological Inference in Empirical Software Engineering ASE 2011 pdf Winner, ACM SIGSOFT Distinguished Paper and ASE 2011 Best Paper Awards. BugCache for Inspections : Hit or Miss? SIGSOFT FSE 2011 pdf Nominee, ACM Distinguished Paper Award. Don't Touch My Code! Examining the Effects of Ownership on Software Quality SIGSOFT FSE 2011 pdf A Simpler model of software readability MSR 2011 pdf Operating System Compatibility Analysis of Eclipse and Netbeans Based on Bug Data MSR 2011 Mining Challenge Ownership,  Experience and Defects: a fine-grained study of Authorship ICSE 2011 pdf An Empirical Study on the Influence of Pattern Roles on Change-Proneness Empirical Software Engineering  Journal Springer-Verlag, 2011. pdf The missing links: bugs and bug-fix commits SIGSOFT FSE 2010 pdf Validity of Network Analyses in Open Source Projects. MSR 2010 pdf Clones: What is that Smell? MSR 2010 pdf Winner, Best Paper Award, MSR 2010 Thex: Mining Metapatterns in Java. MSR 2010 pdf Does Distributed Development Affect Software Quality?
+An Empirical Case Study of Windows Vista, Research Highlights, CACM , August, 2009. Revised version of ICSE 2009 paper (see below). Putting it All Together: Using Socio-Technical Networks to Predict Failures ISSRE 2009. Fair and Balanced? Bias in bug-fix Datasets" SIGSOFT FSE 2009 pdf Promises and Perils of Mining Git MSR 2009 pdf Modeling and verifying a broad array of network properties Europhysics Letters (EPL), 2009 pdf Does Distributed Development Affect Software Quality? An Empirical Case Study
+of Windows Vista, ICSE 2009 pdf Winner, ACM SIGSOFT Distinguished paper award Structure and Dynamics of Research Collaboration in Computer Science SIAM International Conference on Data Mining 2009 pdf Instant Multi-Tier Web Applications without Tears. Indian Software Engineering Conference 2009 (acceptance rate 13%) pdf Community Structure in Open-source Developer Social networks. ACM SIGSOFT FSE 2008 pdf Scalable, Flexible Peephole Pretty-Printing. Science of Computer Programming 
+ 2008 . The pdf Recommending Random Walks ( SIGSOFT FSE 2007 pdf ) Nominee, ACM SIGSOFT Distinguished paper award Immigration
+in Open Source projects. (MSR 2007 pdf ) Aspect-oriented Layer Bypassing in Middleware ( AOSD 2007 pdf ) Mining Email Social Networks MSR 2006 pdf Static checking of dynamically generated queries in database applications 
+( ICSE 2004 pdf ). Winner, ACM SIGSOFT Distinguished
+paper
+award. Dynamically Negotiating QoS Features: The GlueQoS Project ( ICSE
+2004 pdf ) Text visualizations at interactive speeds: Peephole
+Pretty-Printing (Project page ) Distributed adaptations for distributed objects: The DADO project
+( ICSE 2003 pdf ). Nominee, ACM SIGSOFT
+Distinguished Paper
+award.) Teaching & Advising ECS
+30, Introduction to Programming and Problem Solving ECS
+160, Undergraduate Software Engineering ECS
+260 Graduate Software Engineering. ECS 289
+Graduate Seminar in Open Source Software Engineering I'm very lucky to have some great graduate students and Post-Docs . Brief  Bio I started off in Industrial software development,
+first at Perkin-Elmer; then  I worked at Bell Labs , first in software development and then in research, at
+Murray Hill, NJ; with the big travestyture, I went to AT&T Labs
+Research in Florham Park. I have been  at UC Davis since 
+late 1997.  My undergraduate education  was at IIT, Madras in India;
+my doctoral work was done  under Prof.
+Borgida at Rutgers
+University in the Garden
+State, which is a lovely place, actually; although the Golden State also has much to offer . Voice: 
+5 30
+752 7324 Fax: 530 752 4767 Email: Personal My spouse, Roma
+Devanbu , is an artist and art educator whose work draws
+on different cultures, and explores the interplay between the spiritual
+and the temporal. Check out her work on her own web site , which
+is really like a piece of cake for your eyes. . In my "abundant" spare time, I worry a lot. About everything. e.g., my work, my
+employer, fire, floods, war, bad guys, bad girls, financial derivatives, 
+the environment, and my kids. Not necessarily in that order. So 
+I need jokes in my life. So tell me jokes. Anytime, anywhere. Even bad ones. If you are a foreign student interested in pursuing graduate studies at
+UC Davis under my supervision, please a) look
+over my papers, see if my research interests you b) apply for the
+graduate program
+c) contact me when you're admitted. The bad news is that we
+accept few foreign students. The good news is that your chances are
+good if you're from
+a reputed institution in your country, or have publications in
+international conferences/journals, or have very good scores on
+your
+GREs. etc. If you email me, use the following text in the
+first
+line: "Blue bottles with red stoppers are found in orange boxes". Free JavaScripts provided by The JavaScript Source
+

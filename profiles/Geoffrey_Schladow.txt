@@ -1,0 +1,18 @@
+Name: Geoffrey Schladow
+
+Description: S. Geoffrey Schladow is a professor of civil and environmental engineering at the University of California, Davis, and director of the Tahoe Environmental Research Center. He serves on numerous federal, state and local government committees, providing technical advice on lake, stream and estuary systems throughout California.His principal area of research interest is the interaction between fluid transport and mixing processes with water quality in natural and engineered systems. Using a combination of field experimentation and numerical modeling, he is better quantifying the critical flux paths in these systems. His recent research has included the development of the Lake Tahoe Clarity Model, the modeling of eutrophication in the Salton Sea, the use of remote sensing for measuring water currents and water quality, and the measurement and modeling of flows in the Napa-Sonoma marsh complex.His work with the Watershed Center has included the modeling of North Delta restoration and flood flows, and the measurement and modeling of the hydrodynamics and oxygen stratification in the Stockton Deep Water Ship Channel.Originally from Australia, Schladow has been on the faculty of the Department of Civil and Environmental Engineering at UC Davis since 1993.
+
+Title: Professor of Civil and Environmental Engineering
+
+Website: http://terc.ucdavis.edu/
+
+Email: gschladow@ucdavis.edu
+
+Phone: (530) 752-3942
+
+Address: University of California, Davis
+
+Profile URL: https://citris-uc.org/people/person/geoffrey-schladow/
+
+Personal Website Text Short: nan
+

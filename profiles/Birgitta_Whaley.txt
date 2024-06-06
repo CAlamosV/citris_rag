@@ -1,0 +1,20 @@
+Name: Birgitta Whaley
+
+Description: Research InterestsQuantum Information and Computation, Quantum mechanics of clusters and nanomaterials, Chemical Physics.Research in Professor Whaley’s group focuses on understanding and manipulating quantum dynamics of atoms, molecules and nanomaterials in complex environments to explore fundamental issues in quantum behavior. Specific areas of interest are: quantum information processing, novel physics of cold atoms and molecules, nanoscale helium systems and molecular probes of these. Theoretical efforts are focused in quantum control, quantum information and quantum measurement, as well as quantum simulation techniques and are complemented by explicit studies of a range of physical systems that include atomic, molecular and solid state examples. Physical systems of interest include trapped cold atoms and molecules, spins in semiconductors, superconducting qubits, photosynthetic systems and helium clusters. Some current research problems are described below.Quantum information processing employs superposition, entanglement, and probabilistic measurement to encode and manipulate information in very different ways from the classical information processing underlying current electronic technology. Dramatic advances in quantum computational algorithms based on the parallelism resulting from quantum mechanical state evolutions, have led to experimental efforts to implement small scale quantum logic devices, including realizations based on silicon technology and on superconducting circuits. We are developing quantum control and measurement for donor spin qubits in silicon, in collaboration with experimental efforts at UCB/LBNL and for superconducting qubits, in collaboration with colleagues in Physics.Macroscopic superposition states, exemplified in Schrodinger’s famous cat paradox, offer unprecedented opportunities for precision measurements, if they could be realized. We are analyzing the underlying structure and effective size of these states in a variety of physical systems, including cold atoms and superconducting qubits.Quantum phases characterized by topological symmetry exhibit degenerate ground states that are protected against local decoherence, rendering them attractive for encoding and manipulating quantum information. However, naturally occurring topological phases are rare. We are investigating ways to realize such phases in physical systems, as well as exploring their finite temperature properties with quantum Monte Carlo simulations.Professor, born 1956; B.A. Oxford University (1978); Nuffield Scholar (1974-78); Kennedy Fellow, Harvard University (1978-79); M. Sc. (1982), Ph.D. University of Chicago (1984); Golda Meir Fellow, Hebrew University, Jerusalem (1984-85), Post Doctoral Fellow, Tel Aviv University (1985-86); Bergmann Award (1986); A. P. Sloan Foundation Fellow (1991-93); Member, ACS, APS, Deutsche Bunsen Gesellschaft; Alexander vonHumboldt Senior Scientist (1996-97); Fellow, American Physical Society (2002-); Miller Institute for Basic Research in Science Professor, University of California, Berkeley (2002-2003).
+
+Title: Professor
+
+Website: http://chem.berkeley.edu/faculty/whaley/index.php
+
+Email: whaley@berkeley.edu
+
+Phone: (510) 643-6820
+
+Address: University of California, Berkeley
+219 Gilman
+Berkeley, CA 94720
+
+Profile URL: https://citris-uc.org/people/person/birgitta-whaley/
+
+Personal Website Text Short: nan
+

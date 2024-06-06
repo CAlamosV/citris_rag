@@ -1,0 +1,18 @@
+Name: Ricardo Castro
+
+Description: Prof. Castro is a Faculty Member of the Peter A. Rock Thermochemistry Laboratory & NEAT ORU and its research fields can be basically divided in three areas:· Thermochemistry of Nanosintering:What if you could control the behavior of ceramic nanoparticles and nanostructures? This is what Professor Castro’s research group is looking for. Using specially designed thermochemical experiments, nanostructure characterization by TEM, SEM, BET, and others, we are currently designing a relationship between the interface energetics and nanosintering, nanostability, and phase transition, enabling a thermodynamic control of these phenomena.· Nanoceramics under radiation:Nanostructured materials are likely to play a large role in future nuclear reactors and radioactive waste storage due to their strength and potential resistance to structural damage from radiation. The goal of this project is to investigate the dependence of the strength of nanoceramics to radiation induced amorphization on the interfacial energies. Doped Zirconia and Aluminate Spinels are the model materials in this project that was supported by the Early Career Research Program award and is a collaboration with the Los Alamos National Laboratory.Transparent Nanoceramics:The knowledge on interface science enables an effective engineering of local chemistry that allows design of nanocrystalline materials with unprecedented properties. Castro’s group focus on finding the relationship between thermodynamics and mechanical behavior of nanoceramics to optimize those from the energetics perspective. Among the projects, the developement of transparent ceramics with grains in the nanorange is funded by CNPq, the Brazilian natinal funding agency, with the goals of manufacturing transparent structures that can withstand extreme environments, such as high pressures for application in deep-ocean submarines.
+
+Title: Associate Professor
+
+Website: http://www.chms.ucdavis.edu/research/web/castro/
+
+Email: rhrcastro@ucdavis.edu
+
+Phone: (530) 752-3724
+
+Address: University of California, Davis One Shields Ave Davis, CA 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-ricardo-castro/
+
+Personal Website Text Short: nan
+

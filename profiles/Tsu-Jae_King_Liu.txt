@@ -1,0 +1,34 @@
+Name: Tsu-Jae King Liu
+
+Description: Tsu-Jae King Liu received the B.S., M.S. and Ph.D. degrees in Electrical Engineering from Stanford University. She joined the Xerox Palo Alto Research Center as a Member of Research Staff in 1992, to research and develop high-performance thin-film transistor technologies for flat-panel display applications. In 1996 she joined the faculty of the University of California, at Berkeley, where she now holds the Taiwan Semiconductor Manufacturing Company (TSMC) Distinguished Professorship in Microelectronics. From 2000 to 2004 and from 2006 to 2008, she served as the Faculty Director of the UC Berkeley Microfabrication Laboratory. From July 2004 through June 2006 she was Senior Director of Engineering in the Advanced Technology Group of Synopsys, Inc. (Mountain View, CA). From 2008 through 2012, Professor Liu was the Associate Dean for Research in the College of Engineering at UC Berkeley. She also served as Faculty Director of the UC Berkeley Marvell Nanofabrication Laboratory in 2012. From 2012 to 2016 she served as Chair of the Electrical Engineering Division, and from 2014 to 2016 she served as Chair of the EECS Department.Professor Liu’s awards include the Ross M. Tucker AIME Electronics Materials Award (1992) for seminal work in polycrystalline silicon-germanium thin films; an NSF CAREER Award (1998) for research in thin-film transistor technology; the DARPA Significant Technical Achievement Award (2000) for development of the FinFET; the Electrical Engineering Award for Outstanding Teaching at UC Berkeley (2003); the IEEE Kiyo Tomiyasu Award (2010) for contributions to nanoscale MOS transistors, memory devices, and MEMS devices; the UC Berkeley Faculty Mentor Award (2010); the Electrochemical Society Dielectric Science and Technology Division Thomas D. Callinan Award (2011) for excellence in dielectrics and insulation investigations; the Intel Outstanding Researcher in Nanotechnology Award (2012); the Semiconductor Industry Association (SIA) University Researcher Award (2014); and the Semiconductor Research Corporation (SRC) Aristotle Award (2016). Her research activities are presently in advanced materials, fabrication processes and devices for energy-efficient electronics. She has authored or co-authored over 500 publications and holds over 90 patents.Professor Liu is a Fellow of the IEEE and a member of the U.S. National Academy of Engineering, and serves on the Board of Directors for Intel Corporation.
+
+Title: Dean and Roy W. Carlson Professor of Engineering, College of Engineering
+
+Website: https://people.eecs.berkeley.edu/~tking/
+
+Email: tking@eecs.berkeley.edu
+
+Phone: (510) 643-9251
+
+Address: University of California, Berkeley 253 Cory Hall Berkeley, CA 94720-1764
+
+Profile URL: https://citris-uc.org/people/person/dean-tsu-jae-king-liu/
+
+Personal Website Text Short: Prof. Tsu-Jae King Liu's Home Page Biography CV Publications Research Teaching Graduate 
+            Students Recent Presentations Spotlight Interview (4/24/2014) Campus 
+            Directions Campus Map Directions 
+            to Cory and Soda Halls Schedule of Classes Why Study Electrical Engineering? University of California, Berkeley Tsu-Jae King Liu Dean and Roy W. Carlson Professor of Engineering, College of Engineering Distinguished Professor of Electrical Engineering and Computer Sciences Member, Kavli Energy NanoSciences Institute at Berkeley Affiliated Faculty, Applied Science & 
+            Technology Graduate Program Affiliated Faculty, Nanoscale 
+            Science and Engineering Graduate Group Contact 
+            Information: E-mail: tking at eecs 
+            dot berkeley dot edu Phone: (510) 642-2689 Office Hours (501 Cory Hall): by appointment only Mailing Address: University of California at 
+            Berkeley EECS Department, 253 Cory Hall #1770 Berkeley, CA 
+            94720-1770 Executive Assistant: April Meagher Phone: (510) 642-5772 E-mail: aprilmeagher at berkeley dot edu Administrative Assistant: Charlotte Jones Phone: (510) 664-4203 E-mail: cmjones at eecs dot berkeley dot edu Grant 
+            Administrator: Stephanie Bratton Phone: (510) 664-7800 E-mail: sbratton at berkeley dot edu Research Research Areas : Nanometer-scale semiconductor devices and technology Novel non-volatile memory devices and technology M/NEMS technology for ultra-low-power integrated 
+            circuits Research 
+            Laboratories : Device 
+              Characterization Laboratory (355 Cory) Marvell Nanofabrication 
+              Laboratory Research Centers and 
+            Programs : Berkeley Emerging Technologies Research Center Education B.S. Electrical Engineering, Stanford University (1984) M.S. Electrical Engineering, Stanford University (1986) Ph.D. Electrical Engineering, Stanford University (1994) Back to top Awards and Honors American Institute of Mechatronic Engineers (AIME) Ross M. Tucker Electronics Materials Award, 1992 National Science Foundation CAREER Award, 1998 Defense Advanced Research Projects Agency (DARPA) Significant Technical Achievement Award, 2000 Semiconductor Research Corporation (SRC) Inventor Recognition Award, 2000, 2003, 2005 Outstanding Teaching Award, EE Division, EECS Department, 2003 SRC Focus Center Research Program Inventor Recognition Award, 2006, 2007 National Academy of Engineering Lillian M. Gilbreth 
+              Lectureship, 2006 Fellow of the Institute of Electrical and Electronics Engineers (IEEE) , 2007 IEEE Kiyo Tomiyasu Award , 2010 UC Berkeley Distinguished Faculty Mentoring Award , 2010 The Electrochemical Society Thomas D. Callinan Award , 2011 Intel Outstanding Researcher Award in Nanotechnology, 2012 Semiconductor Industry Association University Research Award , 2014 SRC Aristotle Award , 2016 CITRIS Athena Award for Academic Leadership , 2016 International Semiconductor Device Research Symposium Aldert Van Der Ziel Award , 2016 Elected Member of the U.S. National Academy of Engineering , 2017 Fellow of the National Academy of Inventors , 2018 Member of the Silicon Valley Engineering Hall of Fame , 2019 Asian American Distinguished Science and Technology Award, Asian American Engineer of the Year , 2019 Chang-Lin Tien Leadership in Education Award , 2020 Asia Game Changer West Award , 2021 IEEE Electron Devices Society Education Award , 2021 IEEE Founder's Medal , 2024 Back to top Graduate Students Collin Finnan Dasom Lee Lars Tatum Back to top Last updated January 2024
+

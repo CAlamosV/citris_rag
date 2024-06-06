@@ -1,0 +1,22 @@
+Name: Kevin Mitchell
+
+Description: My research addresses fundamental questions in nonlinear dynamics and its application to classical, semiclassical and quantum physics, especially to atomic physics. Nonlinear dynamics has historically played a fundamental role in explaining diverse and complex atomic processes, a role which in turn has stimulated numerous theoretical advances in classical and quantum chaos. This trend continues as advances in atomic and optical techniques provide an unprecedented level of control and precision for experimental studies of chaos in atomic systems. For example, the time evolution of highly localized initial states (e.g. ultrashort optical pulses, Rydberg wavepackets, and localized ensembles of ultracold atoms), can be measured as they evolve and disperse within a chaotic potential, thereby probing the detailed fractal structure in the chaotic phase space.The primary focus of my current work is twofold: (i) I am exploiting new advances in chaotic dynamics to motivate, guide, and interpret experiments capable of probing chaotic phase space with unprecedented resolution. These include the chaotic transport, ionization, and control of Rydberg wavepackets as well as the elucidation of novel chaotic pathways for the mixing and loss of ultracold atoms in optical traps. (ii) I am developing a nonlinear dynamics toolbox that can extract an accurate (symbolic dynamics) model for the structure of chaotic transport in Hamiltonian systems with two degrees of freedom. This model can be made arbitrarily precise, even for systems exhibiting a mixture of chaos and regularity. Though motivated by problems in atomic physics, my techniques can be applicable to a wide variety of applications, including microfluidic mixing, celestial dynamics, chemical reaction rates, and transport through microjunctions.
+
+Title: Associate Professor
+
+Website: http://campillos.ucmerced.edu/~kmitchell/index.html
+
+Email: kmitchell@ucmerced.edu
+
+Phone: (209) 228-2952
+
+Address: University of California, Merced
+School of Natural Sciences
+5200 North Lake Road
+S&E Bldg., RM 330
+Merced, CA 95343
+
+Profile URL: https://citris-uc.org/people/person/professor-kevin-mitchell/
+
+Personal Website Text Short: nan
+

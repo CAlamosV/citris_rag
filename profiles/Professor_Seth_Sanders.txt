@@ -1,0 +1,20 @@
+Name: Professor Seth Sanders
+
+Description: Seth R. Sanders received the S.B. degrees in electrical engineering and physics and the S.M. and Ph.D. degrees in electrical engineering from the Massachusetts Institute of Technology, Cambridge, in 1981, 1985, and 1989, respectively.He was a Design Engineer at the Honeywell Test Instruments Division, Denver, CO. Since 1989, he has been on the faculty of the Department of Electrical Engineering and Computer Sciences, University of California, Berkeley, where he is presently Professor. His research interests are in high frequency power conversion circuits and components, in design and control of electric machine systems, and in nonlinear circuit and system theory as related to the power electronics field. He is presently actively supervising research projects in the areas of flywheel energy storage, novel electric machine design, renewable energy, and digital pulse-width modulation strategies and associated IC designs for power conversion applications. During the 1992 to 1993 academic year, he was on industrial leave with National Semiconductor, Santa Clara, CA.Dr. Sanders received the NSF Young Investigator Award in 1993 and Best Paper Awards from the IEEE Power Electronics Society and the IEEE Industry Applications Society. He has served as Chair of the IEEE Technical Committee on Computers in Power Electronics, and as a Member-At-Large of the IEEE PELS Adcom.
+
+Title: Professor
+
+Website: http://www-power.eecs.berkeley.edu/sanders.html
+
+Email: sanders@eecs.berkeley.edu
+
+Phone: (510) 642-4425
+
+Address: University of California, Berkeley
+518 Cory Hall
+Berkeley, CA 94720 - 1770
+
+Profile URL: https://citris-uc.org/people/person/professor-seth-sanders/
+
+Personal Website Text Short: 404 Not Found Not Found The requested URL /sanders.html was not found on this server.
+

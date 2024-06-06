@@ -1,0 +1,19 @@
+Name: Min Hwan Lee
+
+Description: Min Hwan Lee is an Assistant Professor in the School of Engineering at the University of California, Merced. Dr. Lee’s main research interest resides in developing high energy-density, small-scale energy conversion/storage devices through materials engineering. Main applications of interest include micro-solid oxide fuel cell and ionic batteries. His research focus is directly aligned with the CITRIS mission of finding viable, sustainable energy alternatives to simplifying health care delivery and remote diagnosis where availability of durable small-scale energy device is one of the biggest challenges to overcome.Research Focus: Electrochemical energy conversion/storage, thin film fuel cell, oxygen reduction/evolution reaction, next generation non-volatile memory, Scanning probe-based nanoscale characterizationsEducation: Ph.D./M.S. Mechanical Engineering, Stanford University, CA; B.S. Mechanical Design & Production Engineering, Seoul National University, Korea
+
+Title: Assistant Professor
+
+Website: http://faculty2.ucmerced.edu/mlee49/
+
+Email: mlee49@ucmerced.edu
+
+Phone: (209) 228-4186
+
+Address: 5200 North Lake Road, S&E 386
+Merced, CA 95343
+
+Profile URL: https://citris-uc.org/people/person/professor-min-hwan-lee/
+
+Personal Website Text Short: nan
+

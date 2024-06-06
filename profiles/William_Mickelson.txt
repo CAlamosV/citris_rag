@@ -1,0 +1,18 @@
+Name: William Mickelson
+
+Description: As executive director of COINS, I have been researching sensing technologies to enable real-time environmental monitoring applications. The goal of COINS is to develop and integrate cutting-edge nanotechnologies into a versatile platform with various ultra-sensitive, ultra-selective, self-powering, mobile, wirelessly communicating detection applications. The success of this mission requires new advances in nanodevices, from fundamental building blocks to enabling technologies to full device integration. Since 2004, we have set our Center on a path towards achieving this goal by developing four major research thrusts, in the areas of Energy, Sensing, Mobility, and Electronics/Wireless. Each of these programs encompasses research projects spanning the full spectrum of basic through to the applied level, and each program has a set of criteria that has been established for use as a means of determining which projects to support, in order to assure optimal project alignment. In addition to engaging in research within each of the enabling thrusts, we are also integrating the component technologies from each of the thrusts to realize into functioning detection systems.
+
+Title: COINS Executive Director
+
+Website: http://susanb.physics.berkeley.edu/coins/?page_id=1253
+
+Email: wmickelson@berkeley.edu
+
+Phone: 510-642-8358
+
+Address: University of California, Berkeley 319 Birge Hall Berkeley CA 94720-7300
+
+Profile URL: https://citris-uc.org/people/person/william-mickelson/
+
+Personal Website Text Short: nan
+

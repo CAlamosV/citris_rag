@@ -1,0 +1,20 @@
+Name: Hayden Taylor
+
+Description: Welcome to the Design for Nanomanufacturing research group, which is led by Assistant Professor Hayden Taylor and based in the Department of Mechanical Engineering at the University of California, Berkeley. Our work spans the invention, modeling and simulation of micro- and nano-manufacturing processes, materials-testing techniques operating down to the nanoscale, and applications of polymeric materials in micro- and nano-fabrication, including for tissue scaffold engineering.
+
+Title: Assistant Professor
+
+Website: http://design-nano.berkeley.edu/
+
+Email: hkt@berkeley.edu
+
+Phone: 510- 642-4901
+
+Address: 6159 Etcheverry Hall, Mailstop 1740
+University of California, Berkeley
+Berkeley, CA 94720-1740
+
+Profile URL: https://citris-uc.org/people/person/professor-hayden-taylor/
+
+Personal Website Text Short: Design for Emerging and Nanoscale Manufacturing at UC Berkeley
+

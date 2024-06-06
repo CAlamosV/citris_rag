@@ -1,0 +1,31 @@
+Name: Anthony Joseph
+
+Description: Dr. Joseph received his S.B. and S.M. degrees in EECS in 1988 and his Ph.D. degree in Computer Science in 1998, all from MIT. He has been on the faculty at the University of California, Berkeley since 1998, holding the Chancellor’s Associate Professor Chair since 2007. Starting in June, he will be the director of the Intel Research Berkeley Laboratory.His research interests include network and computer security, the security of machine learning in decision-making environments, critical cyber-infrastructure protection, mobile computing and networking, wireless telecommunication networks, overlay networks, and computer architectures for distributed systems.Dr. Joseph is a recipient of the Diane McEntyre Award for Excellence in Teaching, a National Science Foundation CAREER Award, an Okawa Foundation Research Grant in Telecommunications and Information Processing, an IBM Faculty Development Award, an Intel Foundation Graduate Fellowship, an IBM Corporation Graduate Fellowship, and a Shell Corporation National Achievement Corporation Scholarship. He is a lifetime member of ACM, and also a member of USENIX, IEEE, and Sigma Xi.He has already served ACM in multiple roles: past associate editor for ACM SIGMOBILE Mobile Computing and Communications Review; past technical program co-chair for the ACM/IEEE International Conference on Mobile Computing and Networking (MobiCom 2003); past editorial board member for ACM/Kluwer Wireless Networks journal; past general chair for the Workshop on Mobile Computing Services and Applications 2006 (co-sponsored by ACM SIGMOBILE); past member of the Defense Science Study Group (2004-2005).
+
+Title: Associate Professor
+
+Website: http://www.cs.berkeley.edu/~adj/
+
+Email: adj@eecs.berkeley.edu
+
+Phone: (510) 643-7212
+
+Address: University of California, Berkeley 465D Soda Hall #1776 Berkeley, Ca 94720 - 1776
+
+Profile URL: https://citris-uc.org/people/person/professor-anthony-joseph/
+
+Personal Website Text Short: Anthony Joseph Anthony D. Joseph Chancellor's Professor 465 Soda Hall #1776 ( AMP Lab ) Computer Science Division University of California at Berkeley Berkeley, CA
+94720-1776 +1 (510) 643-7212 FAX: +1 (510)
+643-7352 adjATeecs.berkeley.edu Office Hours: Mondays and Tuesdays 10-11am  
+
+      in 449 Soda Assistants: Kattt Atchley, 465  Soda, (510) 734-3667, atchleyATeecs.berkeley.edu Boban Zarkovich, 
+     465 Soda, (510) 643-0264, bobanATeecs.berkeley.edu Classes CS162: Operating Systems and Systems Programming CS262: Advanced Topics in Computer Systems Past Courses Taught and Future Plans Research My primary research interests are in Secure Machine Learning, ,Datacenters, mobile/distributed computing, and wireless
+communications (networking and telephony).
+I am part of the AMP Lab and am exploring these areas in current ( Mesos , SecML , DETER , and SCRUB ) and former ( RAD Lab , D-Trigger , Tapas, Tapestry , Reap, Sahara , Ninaja, and Iceberg ) projects. Students I work with an awesome
+group of students (both graduate and undergraduate). Recent Publications ( auto-generated on Wednesday, 21-Sep-2011 23:22:12 PDT ) Blaine Nelson, Benjamin I. P. Rubinstein, Ling Huang, Anthony D. Joseph, and J. D. Tygar, Classifier Evasion: Models and Open Problems , Privacy and Security Issues in Data Mining and Machine Learning , pp. 92-98, Lecture Notes in Computer Science, Vol. 6549, Berlin, Germany: Springer-Verlag, 2011. pdf Blaine Nelson, Benjamin I. P. Rubinstein, Ling Huang, Anthony D. Joseph, Steven J. Lee, Satish Rao, and J. D. Tygar, Query Strategies for Evading Convex-Inducing Classifiers , arXiv Report 1007.0484v1 , pp. 121-148, 2011. (note: Also to appear in the Journal of Machine Learning Research) pdf Bonnie Zhu, Anthony Joseph, and Shankar Sastry, Taxonomy of Cyber Attacks on SCADA Systems , Proceedings of CPSCom 2011: The 4th IEEE International Conference on Cyber, Physical and Social Computing , Dalian, China, October 19-22, 2011. pdf Benjamin Hindman, Andrew Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, and Ion Stoica, Mesos: Flexible Resource Sharing for the Cloud , USENIX ;login: , August, 2011. pdf Benjamin Hindman, Andrew Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, and Ion Stoica, Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center , NSDI'11: Proceedings of the 8th USENIX Symposium on Networked Systems Design and Implementation , Boston, MA, USENIX Association, March, 2011. pdf Marco Barreno, Blaine Nelson, Anthony D. Joseph, and J. D. Tygar, The Security of Machine Learning , Machine Learning Journal , vol. 81, num. 2, pp. 121-148, 2010. (note: Also appears in UCB Technical Report UCB/EECS-2008-43) pdf Blaine Nelson, Behavior of Machine Learning Algorithms in Adversarial Environments , PhD dissertation, UCB Technical Report UCB/EECS-2010-140, University of California Berkeley, Electrical Engineering and Computer Science Department, November, 2010. (note: Chair-Anthony D. Joseph) pdf Blaine Nelson, Benjamin I. P. Rubinstein, Ling Huang, Anthony D. Joseph, and J. D. Tygar, Classifier Evasion: Models and Open Problems , PSDML'10: Proceedings of the international ECML/PKDD conference on Privacy and security issues in data mining and machine learning , pp. 92-98, Barcelona, Spain, Springer-Verlag, September, 2010. pdf Matt Piotrowski, and Anthony D. Joseph, Virtics: A System for Privilege Separation of Legacy Desktop Applications , UCB Technical Report UCB/EECS-2010-70, University of California Berkeley, Electrical Engineering and Computer Science Department, May, 2010. pdf Full
+publications list Miscellaneous My old home
+page
+at MIT This page last modified by adj on Tuesday, 01-Oct-2013 09:41:43 PDT Direct comments and suggestions to Anthony D. Joseph
+(adjATeecs.berkeley.edu).
+Copyright © 1997-2006, Anthony D. Joseph, University of California Berkeley.
+

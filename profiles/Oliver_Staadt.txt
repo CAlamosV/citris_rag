@@ -1,0 +1,18 @@
+Name: Oliver Staadt
+
+Description: Oliver Staadt is an Assistant Professor of Computer Science at the University of California, Davis. Prior to joining UC Davis, he has been Senior Research Associate in the Computer Graphics Lab at ETH Zurich, Switzerland. He received a MSc degree in Computer Science from the Darmstadt Technical University, Germany, in 1995 and a PhD in Computer Science in 2001 from the Swiss Federal Institute of Technology (ETH) Zurich, Switzerland. His past research includes multi-resolution representations and compression of surface and volume data.Professor Staadt is a faculty researcher in the Institute for Data Analysis and Visualization (IDAV). This institute provides the research environment for the Graphics and Visualization Research Group at UC Davis. He is futhermore a member of the W.M. Keck Center for Active Visualization in the Earth Sciences (KeckCAVES) and the Center for Information Technology Research in the Interest of Society (CITRIS).
+
+Title: Assistant Professor
+
+Website: http://graphics.cs.ucdavis.edu/~staadt/
+
+Email: staadt@ucdavis.edu
+
+Phone: (530) 752-4821
+
+Address: University of California, Davis 3009 Kemper Hall One Shields Ave. Davis, CA 95616
+
+Profile URL: https://citris-uc.org/people/person/professor-oliver-staadt/
+
+Personal Website Text Short: 403 Forbidden Forbidden You don't have permission to access this resource. Apache/2.4.52 (Ubuntu) Server at graphics.cs.ucdavis.edu Port 443
+
