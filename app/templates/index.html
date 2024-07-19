@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Research Collaborator Finder</title>
+    <title>CITRIS Research Collaborator Finder</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
@@ -14,10 +14,14 @@
             flex-direction: column;
             align-items: center;
             justify-content: flex-start;
-            height: 100vh;
+            min-height: 100vh;
             margin: 0;
             background-color: #f8f9fa;
-            padding-top: 120px;
+            padding-top: 20px;
+        }
+        .logo {
+            max-width: 200px;
+            margin-bottom: 20px;
         }
         .search-container {
             text-align: center;
@@ -46,6 +50,7 @@
             justify-content: center;
             gap: 15px;
             flex-wrap: wrap;
+            margin-bottom: 20px;
         }
         .sample-query {
             display: flex;
@@ -70,9 +75,15 @@
             background-color: #f1f1f1;
             box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
         }
-        .results {
-            margin-top: 20px;
+        .results-container {
             width: 65%;
+            margin-top: 20px;
+        }
+        .query-display {
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .results {
             text-align: left;
             background-color: #fff;
             padding: 20px;
@@ -83,10 +94,15 @@
             font-size: 16px;
             color: #555;
         }
+        #stopButton {
+            display: none;
+            margin-top: 10px;
+        }
     </style>
     <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
 </head>
 <body>
+    <img src="{{ url_for('static', filename='images/citris_logo.png') }}" alt="CITRIS Logo" class="logo">
     <div class="search-container">
         <input type="text" id="query" placeholder="Find people to collaborate with" onkeypress="handleKeyPress(event)">
         <button class="btn btn-primary" onclick="submitQuery()">Search</button>
@@ -94,21 +110,48 @@
     <div class="sample-queries">
         <div class="sample-query" onclick="submitQuery('I need an expert in the intersection of machine learning and biology.')">
             <i class="fas fa-brain" style="color: #6f42c1;"></i>
-            <span>I need an expert in the intersection of machine learning and biology.</span>
+            <span>Machine learning and biology expert</span>
         </div>
         <div class="sample-query" onclick="submitQuery('Who can I ask about in lithium-ion batteries?')">
             <i class="fas fa-battery-half" style="color: #ffc107;"></i>
-            <span>Who can I ask about in lithium-ion batteries?</span>
+            <span>Lithium-ion batteries expert</span>
         </div>
         <div class="sample-query" onclick="submitQuery('Find people in healthtech at Berkeley')">
             <i class="fas fa-heartbeat" style="color: #17a2b8;"></i>
-            <span>Find people in healthtech at Berkeley.</span>
+            <span>Healthtech at Berkeley</span>
+        </div>
+        <div class="sample-query" onclick="submitQuery('Experts in quantum computing')">
+            <i class="fas fa-atom" style="color: #28a745;"></i>
+            <span>Quantum computing experts</span>
+        </div>
+        <div class="sample-query" onclick="submitQuery('Researchers working on climate change solutions')">
+            <i class="fas fa-leaf" style="color: #20c997;"></i>
+            <span>Climate change solutions</span>
+        </div>
+        <div class="sample-query" onclick="submitQuery('AI ethics researchers')">
+            <i class="fas fa-balance-scale" style="color: #dc3545;"></i>
+            <span>AI ethics researchers</span>
         </div>
     </div>
-    <div class="results" id="results"></div>
+    <div class="results-container">
+        <div class="query-display" id="queryDisplay"></div>
+        <div class="results" id="results"></div>
+        <button id="stopButton" class="btn btn-danger" onclick="stopGeneration()">Stop Generating</button>
+    </div>
     <script>
         var socket = io();
         var loadingInterval;
+        var isGenerating = false;
+
+        socket.on('connect', function() {
+            console.log('Connected');
+        });
+
+        socket.on('start_query', function(data) {
+            document.getElementById('queryDisplay').innerText = `Query: ${data.query}`;
+            document.getElementById('stopButton').style.display = 'inline-block';
+            isGenerating = true;
+        });
 
         socket.on('response', function(data) {
             if (loadingInterval) {
@@ -117,6 +160,17 @@
                 loadingInterval = null;
             }
             document.getElementById('results').innerHTML += data.data;
+        });
+
+        socket.on('generation_complete', function() {
+            isGenerating = false;
+            document.getElementById('stopButton').style.display = 'none';
+        });
+
+        socket.on('generation_stopped', function() {
+            isGenerating = false;
+            document.getElementById('stopButton').style.display = 'none';
+            document.getElementById('results').innerHTML += '<br><b>Generation stopped.</b>';
         });
 
         function handleKeyPress(event) {
@@ -129,8 +183,9 @@
             const queryText = query || document.getElementById('query').value;
             if (queryText.trim() === '') return;
 
-            document.getElementById('query').value = '';
+            document.getElementById('query').value = queryText;
             document.getElementById('results').innerHTML = '';
+            document.getElementById('queryDisplay').innerText = '';
             startLoadingAnimation();
 
             socket.emit('query', queryText);
@@ -145,6 +200,19 @@
                 dots = (dots % 3) + 1;
                 resultsElement.innerHTML = '<span class="loading">' + '.'.repeat(dots) + '</span>';
             }, 500);
+        }
+
+        function stopGeneration() {
+            if (isGenerating) {
+                socket.emit('stop_generation');
+                isGenerating = false;
+                document.getElementById('stopButton').style.display = 'none';
+            }
+        }
+
+        window.onload = function() {
+            document.getElementById('results').innerHTML = '';
+            document.getElementById('queryDisplay').innerText = '';
         }
     </script>
 </body>

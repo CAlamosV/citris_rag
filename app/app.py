@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, session
 from flask_socketio import SocketIO, emit
 import os
 from gevent import monkey
@@ -8,36 +8,48 @@ from openai import OpenAI
 from typing_extensions import override
 from openai import AssistantEventHandler
 import re
+import uuid
+import threading
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
 socketio = SocketIO(app, async_mode='gevent')
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+active_threads = {}
+
 class EventHandler(AssistantEventHandler):
+    def __init__(self, session_id):
+        self.session_id = session_id
+        self.stop_flag = threading.Event()
+
     @override
     def on_text_created(self, text) -> None:
         pass
 
     @override
     def on_text_delta(self, delta, snapshot):
+        if self.stop_flag.is_set():
+            return
         clean_delta = clean_response(delta.value)
-        emit('response', {'data': clean_delta}, broadcast=True)
+        socketio.emit('response', {'data': clean_delta}, room=self.session_id)
 
     def on_tool_call_created(self, tool_call):
         pass
 
     def on_tool_call_delta(self, delta, snapshot):
+        if self.stop_flag.is_set():
+            return
         if delta.type == 'code_interpreter':
             if delta.code_interpreter.input:
                 clean_input = clean_response(delta.code_interpreter.input)
-                emit('response', {'data': clean_input}, broadcast=True)
+                socketio.emit('response', {'data': clean_input}, room=self.session_id)
             if delta.code_interpreter.outputs:
-                emit('response', {'data': "<br><br>output >"}, broadcast=True)
+                socketio.emit('response', {'data': "<br><br>output >"}, room=self.session_id)
                 for output in delta.code_interpreter.outputs:
                     if output.type == "logs":
                         clean_logs = clean_response(output.logs)
-                        emit('response', {'data': clean_logs}, broadcast=True)
+                        socketio.emit('response', {'data': clean_logs}, room=self.session_id)
 
 def create_assistant(instructions, data_name, assistant_name, model='gpt-3.5-turbo'):
     vector_store_id = "vs_PILR6EF6tb1gCv4Hn3z7ylRV"
@@ -53,27 +65,32 @@ def create_assistant(instructions, data_name, assistant_name, model='gpt-3.5-tur
     )
     return assistant
 
-def stream_answer(query, assistant, data_name):
+def stream_answer(query, assistant, data_name, session_id):
     vector_store_id = "vs_PILR6EF6tb1gCv4Hn3z7ylRV"
     thread = client.beta.threads.create(
         messages=[{"role": "user", "content": query, "attachments": []}],
         tool_resources={"file_search": {"vector_store_ids": [vector_store_id]}},
     )
 
+    event_handler = EventHandler(session_id)
+    active_threads[session_id] = event_handler
+
     with client.beta.threads.runs.stream(
         thread_id=thread.id,
         assistant_id=assistant.id,
         instructions=assistant.instructions,
-        event_handler=EventHandler(),
+        event_handler=event_handler,
     ) as stream:
         stream.until_done()
+
+    del active_threads[session_id]
+    socketio.emit('generation_complete', room=session_id)
 
 def clean_response(response):
     response = re.sub(r'【\d+:\d+†source】', '', response)
     response = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', response)
     response = response.replace('**', '')
     response = response.replace('\n', '<br>')
-
     return response
 
 instructions = """
@@ -89,7 +106,6 @@ You must format your response as follows:
 It is absolutely essential that you only use information from what is provided to you. Do not use any external information.
 It is critical that all information is accurate and relevant to the user's interests.
 It must be clear how the individuals' research interests are similar to the user's interests.
-
 
 If no relevant individuals are found, please say so and provide a description of those working in the most similar areas.
 
@@ -113,7 +129,6 @@ If for example there is no website:
 • Website: Not found.
 • Address: [address]
 
-
 Do not provide citations or sources.
 URLs should be in the format of "https://www.example.com", no html formatting.
 Do not tell people why research areas are relevant, unless it is highly non-obvious. They will know why they are relevant.
@@ -127,11 +142,23 @@ assistant = create_assistant(instructions, data_name, assistant_name)
 
 @app.route('/')
 def index():
+    if 'user_id' not in session:
+        session['user_id'] = str(uuid.uuid4())
     return render_template('index.html')
 
 @socketio.on('query')
 def handle_query(query):
-    stream_answer(query, assistant, data_name)
+    session_id = request.sid
+    emit('start_query', {'query': query}, room=session_id)
+    threading.Thread(target=stream_answer, args=(query, assistant, data_name, session_id)).start()
+
+@socketio.on('stop_generation')
+def stop_generation():
+    session_id = request.sid
+    if session_id in active_threads:
+        active_threads[session_id].stop_flag.set()
+        del active_threads[session_id]
+        emit('generation_stopped', room=session_id)
 
 if __name__ == '__main__':
     socketio.run(app, debug=True)
