@@ -1,5 +1,9 @@
 from flask import Flask, render_template, request, jsonify
 from flask_socketio import SocketIO, emit
+import os
+from gevent import monkey
+monkey.patch_all()
+
 from openai import OpenAI
 from typing_extensions import override
 from openai import AssistantEventHandler
@@ -7,8 +11,8 @@ import re
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
-socketio = SocketIO(app)
-client = OpenAI()
+socketio = SocketIO(app, async_mode='gevent')
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 class EventHandler(AssistantEventHandler):
     @override
@@ -35,7 +39,7 @@ class EventHandler(AssistantEventHandler):
                         clean_logs = clean_response(output.logs)
                         emit('response', {'data': clean_logs}, broadcast=True)
 
-def create_assistant(instructions, data_name, assistant_name, model='gpt-4o'):
+def create_assistant(instructions, data_name, assistant_name, model='gpt-3.5-turbo'):
     vector_store_id = "vs_PILR6EF6tb1gCv4Hn3z7ylRV"
     assistant = client.beta.assistants.create(
         name=assistant_name,
@@ -115,6 +119,7 @@ URLs should be in the format of "https://www.example.com", no html formatting.
 Do not tell people why research areas are relevant, unless it is highly non-obvious. They will know why they are relevant.
 No boilerplate "his work pertains to area X", or "which relates to X". Just say what they do.
 Abbreviate University of California to UC.
+Remember to absolutely never provide citations or sources.
 """
 data_name = 'pi_profiles'
 assistant_name = 'pi_profiles_assistant'
