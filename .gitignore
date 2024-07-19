@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 rag.ipynb
 list.py
+run_flask.sh

@@ -1,9 +1,5 @@
 from flask import Flask, render_template, request, session
 from flask_socketio import SocketIO, emit
-import os
-from gevent import monkey
-monkey.patch_all()
-
 from openai import OpenAI
 from typing_extensions import override
 from openai import AssistantEventHandler
@@ -13,8 +9,8 @@ import threading
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
-socketio = SocketIO(app, async_mode='gevent')
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+socketio = SocketIO(app)
+client = OpenAI()
 
 active_threads = {}
 
@@ -29,27 +25,25 @@ class EventHandler(AssistantEventHandler):
 
     @override
     def on_text_delta(self, delta, snapshot):
-        if self.stop_flag.is_set():
-            return
-        clean_delta = clean_response(delta.value)
-        socketio.emit('response', {'data': clean_delta}, room=self.session_id)
+        if not self.stop_flag.is_set():
+            clean_delta = clean_response(delta.value)
+            socketio.emit('response', {'data': clean_delta}, room=self.session_id)
 
     def on_tool_call_created(self, tool_call):
         pass
 
     def on_tool_call_delta(self, delta, snapshot):
-        if self.stop_flag.is_set():
-            return
-        if delta.type == 'code_interpreter':
-            if delta.code_interpreter.input:
-                clean_input = clean_response(delta.code_interpreter.input)
-                socketio.emit('response', {'data': clean_input}, room=self.session_id)
-            if delta.code_interpreter.outputs:
-                socketio.emit('response', {'data': "<br><br>output >"}, room=self.session_id)
-                for output in delta.code_interpreter.outputs:
-                    if output.type == "logs":
-                        clean_logs = clean_response(output.logs)
-                        socketio.emit('response', {'data': clean_logs}, room=self.session_id)
+        if not self.stop_flag.is_set():
+            if delta.type == 'code_interpreter':
+                if delta.code_interpreter.input:
+                    clean_input = clean_response(delta.code_interpreter.input)
+                    socketio.emit('response', {'data': clean_input}, room=self.session_id)
+                if delta.code_interpreter.outputs:
+                    socketio.emit('response', {'data': "<br><br>output >"}, room=self.session_id)
+                    for output in delta.code_interpreter.outputs:
+                        if output.type == "logs":
+                            clean_logs = clean_response(output.logs)
+                            socketio.emit('response', {'data': clean_logs}, room=self.session_id)
 
 def create_assistant(instructions, data_name, assistant_name, model='gpt-3.5-turbo'):
     vector_store_id = "vs_PILR6EF6tb1gCv4Hn3z7ylRV"
@@ -161,4 +155,4 @@ def stop_generation():
         emit('generation_stopped', room=session_id)
 
 if __name__ == '__main__':
-    socketio.run(app, debug=True)
+    socketio.run(app, debug=True, host='0.0.0.0')
