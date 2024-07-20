@@ -3,217 +3,186 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CITRIS Research Collaborator Finder</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <title>Research Interest Matcher</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <style>
         body {
-            font-family: 'Roboto', sans-serif;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: flex-start;
-            min-height: 100vh;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
             margin: 0;
-            background-color: #f8f9fa;
-            padding-top: 20px;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
         }
         .logo {
             max-width: 200px;
             margin-bottom: 20px;
         }
-        .search-container {
-            text-align: center;
-            width: 65%;
-            display: flex;
+        #search-container {
             margin-bottom: 20px;
+            display: flex;
+            width: 100%;
         }
-        input[type="text"] {
-            padding: 10px;
+        #query-input {
             flex-grow: 1;
-            border: 1px solid #ccc;
-            border-radius: 5px 0 0 5px;
+            padding: 10px;
             font-size: 16px;
-        }
-        button {
-            padding: 10px 20px;
             border: none;
-            background-color: #007BFF;
-            color: white;
-            border-radius: 0 5px 5px 0;
-            cursor: pointer;
+            background-color: #f0f0f0;
+            border-radius: 5px 0 0 5px;
+        }
+        #search-button {
+            padding: 10px 20px;
             font-size: 16px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 0 5px 5px 0;
+        }
+        #stop-button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #ccc;
+            color: white;
+            border: none;
+            cursor: pointer;
+            display: none;
+            border-radius: 5px;
+            margin-bottom: 20px;
         }
         .sample-queries {
             display: flex;
-            justify-content: center;
-            gap: 15px;
             flex-wrap: wrap;
+            gap: 10px;
             margin-bottom: 20px;
         }
         .sample-query {
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            padding: 15px;
-            width: 200px;
-            border: 1px solid #ccc;
-            border-radius: 10px;
+            background-color: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
             cursor: pointer;
-            background-color: #fff;
-            transition: background-color 0.3s, box-shadow 0.3s;
-            font-size: 16px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            text-align: left;
-            position: relative;
+            display: flex;
+            align-items: center;
         }
         .sample-query i {
-            margin-bottom: 10px;
+            margin-right: 10px;
         }
-        .sample-query:hover {
-            background-color: #f1f1f1;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-        }
-        .results-container {
-            width: 65%;
-            margin-top: 20px;
-        }
-        .query-display {
-            font-weight: bold;
-            margin-bottom: 10px;
-        }
-        .results {
-            text-align: left;
-            background-color: #fff;
+        #results {
+            border: 1px solid #ddd;
             padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .loading {
-            font-size: 16px;
-            color: #555;
-        }
-        #stopButton {
-            display: none;
-            margin-top: 10px;
+            min-height: 200px;
+            border-radius: 5px;
         }
     </style>
-    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
 </head>
 <body>
-    <img src="{{ url_for('static', filename='images/citris_logo.png') }}" alt="CITRIS Logo" class="logo">
-    <div class="search-container">
-        <input type="text" id="query" placeholder="Find people to collaborate with" onkeypress="handleKeyPress(event)">
-        <button class="btn btn-primary" onclick="submitQuery()">Search</button>
+    <img src="/static/citris_logo.png" alt="CITRIS Logo" class="logo">
+    
+    <div id="search-container">
+        <input type="text" id="query-input" placeholder="Enter your research interests">
+        <button id="search-button">Search</button>
     </div>
+    <button id="stop-button">Stop Generating</button>
+
     <div class="sample-queries">
         <div class="sample-query" onclick="submitQuery('I need an expert in the intersection of machine learning and biology.')">
             <i class="fas fa-brain" style="color: #6f42c1;"></i>
-            <span>Machine learning and biology expert</span>
+            <span>I need an expert in the intersection of machine learning and biology.</span>
         </div>
         <div class="sample-query" onclick="submitQuery('Who can I ask about in lithium-ion batteries?')">
             <i class="fas fa-battery-half" style="color: #ffc107;"></i>
-            <span>Lithium-ion batteries expert</span>
+            <span>Who can I ask about in lithium-ion batteries?</span>
         </div>
         <div class="sample-query" onclick="submitQuery('Find people in healthtech at Berkeley')">
             <i class="fas fa-heartbeat" style="color: #17a2b8;"></i>
-            <span>Healthtech at Berkeley</span>
+            <span>Find people in healthtech at Berkeley.</span>
         </div>
-        <div class="sample-query" onclick="submitQuery('Experts in quantum computing')">
+        <div class="sample-query" onclick="submitQuery('Experts in quantum computing and cryptography')">
             <i class="fas fa-atom" style="color: #28a745;"></i>
-            <span>Quantum computing experts</span>
+            <span>Experts in quantum computing and cryptography</span>
         </div>
-        <div class="sample-query" onclick="submitQuery('Researchers working on climate change solutions')">
+        <div class="sample-query" onclick="submitQuery('Research on sustainable agriculture and precision farming')">
             <i class="fas fa-leaf" style="color: #20c997;"></i>
-            <span>Climate change solutions</span>
+            <span>Research on sustainable agriculture and precision farming</span>
         </div>
-        <div class="sample-query" onclick="submitQuery('AI ethics researchers')">
+        <div class="sample-query" onclick="submitQuery('AI ethics and policy implications')">
             <i class="fas fa-balance-scale" style="color: #dc3545;"></i>
-            <span>AI ethics researchers</span>
+            <span>AI ethics and policy implications</span>
         </div>
     </div>
-    <div class="results-container">
-        <div class="query-display" id="queryDisplay"></div>
-        <div class="results" id="results"></div>
-        <button id="stopButton" class="btn btn-danger" onclick="stopGeneration()">Stop Generating</button>
-    </div>
+
+    <div id="results"></div>
+
     <script>
-        var socket = io();
-        var loadingInterval;
-        var isGenerating = false;
+        const socket = io();
+        let sessionId;
+        let isGenerating = false;
 
-        socket.on('connect', function() {
-            console.log('Connected');
+        socket.on('session', function(data) {
+            sessionId = data.session_id;
         });
 
-        socket.on('start_query', function(data) {
-            document.getElementById('queryDisplay').innerText = `Query: ${data.query}`;
-            document.getElementById('stopButton').style.display = 'inline-block';
-            isGenerating = true;
-        });
-
-        socket.on('response', function(data) {
-            if (loadingInterval) {
-                clearInterval(loadingInterval);
-                document.getElementById('results').innerHTML = '';
-                loadingInterval = null;
-            }
-            document.getElementById('results').innerHTML += data.data;
-        });
-
-        socket.on('generation_complete', function() {
-            isGenerating = false;
-            document.getElementById('stopButton').style.display = 'none';
-        });
-
-        socket.on('generation_stopped', function() {
-            isGenerating = false;
-            document.getElementById('stopButton').style.display = 'none';
-            document.getElementById('results').innerHTML += '<br><b>Generation stopped.</b>';
-        });
-
-        function handleKeyPress(event) {
-            if (event.key === 'Enter') {
-                submitQuery();
-            }
-        }
-
-        function submitQuery(query = null) {
-            const queryText = query || document.getElementById('query').value;
-            if (queryText.trim() === '') return;
-
-            document.getElementById('query').value = queryText;
-            document.getElementById('results').innerHTML = '';
-            document.getElementById('queryDisplay').innerText = '';
-            startLoadingAnimation();
-
-            socket.emit('query', queryText);
-        }
-
-        function startLoadingAnimation() {
-            const resultsElement = document.getElementById('results');
-            let dots = 1;
-            resultsElement.innerHTML = '<span class="loading">.</span>';
-
-            loadingInterval = setInterval(() => {
-                dots = (dots % 3) + 1;
-                resultsElement.innerHTML = '<span class="loading">' + '.'.repeat(dots) + '</span>';
-            }, 500);
-        }
-
-        function stopGeneration() {
+        socket.on('response', function(msg) {
             if (isGenerating) {
-                socket.emit('stop_generation');
-                isGenerating = false;
-                document.getElementById('stopButton').style.display = 'none';
+                document.getElementById('results').innerHTML += msg.data;
+            }
+        });
+
+        socket.on('clear_response', function() {
+            document.getElementById('results').innerHTML = '';
+        });
+
+        socket.on('stream_cancelled', function() {
+            isGenerating = false;
+            document.getElementById('stop-button').style.display = 'none';
+            document.getElementById('search-button').disabled = false;
+            document.getElementById('query-input').disabled = false;
+        });
+
+        socket.on('error', function(data) {
+            console.error('Error:', data.message);
+            isGenerating = false;
+            document.getElementById('stop-button').style.display = 'none';
+            document.getElementById('search-button').disabled = false;
+            document.getElementById('query-input').disabled = false;
+        });
+
+        function submitQuery(query) {
+            document.getElementById('query-input').value = query;
+            performSearch();
+        }
+
+        function performSearch() {
+            const query = document.getElementById('query-input').value;
+            if (query && !isGenerating) {
+                isGenerating = true;
+                socket.emit('query', query);
+                document.getElementById('stop-button').style.display = 'inline-block';
+                document.getElementById('search-button').disabled = true;
+                document.getElementById('query-input').disabled = true;
             }
         }
 
-        window.onload = function() {
+        document.getElementById('search-button').addEventListener('click', performSearch);
+
+        document.getElementById('query-input').addEventListener('keypress', function(event) {
+            if (event.key === 'Enter') {
+                performSearch();
+            }
+        });
+
+        document.getElementById('stop-button').addEventListener('click', function() {
+            if (isGenerating) {
+                socket.emit('stop_generating');
+            }
+        });
+
+        // Clear results on page refresh
+        window.addEventListener('load', function() {
             document.getElementById('results').innerHTML = '';
-            document.getElementById('queryDisplay').innerText = '';
-        }
+        });
     </script>
 </body>
 </html>
