@@ -50,7 +50,8 @@
             cursor: pointer;
             display: none;
             border-radius: 5px;
-            margin-bottom: 20px;
+            margin-top: 10px;
+            width: 20%;
         }
         .sample-queries {
             display: flex;
@@ -72,8 +73,10 @@
         #results {
             border: 1px solid #ddd;
             padding: 20px;
-            min-height: 200px;
+            height: 500px; /* Increased height (1.5x of previous 200px) */
             border-radius: 5px;
+            margin-bottom: 10px;
+            overflow-y: auto; /* Enable vertical scrolling */
         }
     </style>
 </head>
@@ -84,7 +87,6 @@
         <input type="text" id="query-input" placeholder="Enter your research interests">
         <button id="search-button">Search</button>
     </div>
-    <button id="stop-button">Stop Generating</button>
 
     <div class="sample-queries">
         <div class="sample-query" onclick="submitQuery('I need an expert in the intersection of machine learning and biology.')">
@@ -114,75 +116,103 @@
     </div>
 
     <div id="results"></div>
+    
+    <button id="stop-button">Stop Generating</button>
 
     <script>
         const socket = io();
         let sessionId;
         let isGenerating = false;
-
+        let loadingInterval;
+    
         socket.on('session', function(data) {
             sessionId = data.session_id;
         });
-
+    
         socket.on('response', function(msg) {
             if (isGenerating) {
+                stopLoadingAnimation();
                 document.getElementById('results').innerHTML += msg.data;
             }
         });
-
+    
         socket.on('clear_response', function() {
             document.getElementById('results').innerHTML = '';
         });
-
-        socket.on('stream_cancelled', function() {
-            isGenerating = false;
-            document.getElementById('stop-button').style.display = 'none';
-            document.getElementById('search-button').disabled = false;
-            document.getElementById('query-input').disabled = false;
+    
+        socket.on('stream_complete', function() {
+            resetUIState();
         });
-
+    
         socket.on('error', function(data) {
             console.error('Error:', data.message);
+            resetUIState();
+        });
+    
+        function resetUIState() {
             isGenerating = false;
             document.getElementById('stop-button').style.display = 'none';
             document.getElementById('search-button').disabled = false;
-            document.getElementById('query-input').disabled = false;
-        });
-
+            stopLoadingAnimation();
+        }
+    
         function submitQuery(query) {
             document.getElementById('query-input').value = query;
             performSearch();
         }
-
+    
         function performSearch() {
             const query = document.getElementById('query-input').value;
-            if (query && !isGenerating) {
+            if (query) {
+                if (isGenerating) {
+                    socket.emit('stop_generating');
+                }
                 isGenerating = true;
                 socket.emit('query', query);
                 document.getElementById('stop-button').style.display = 'inline-block';
                 document.getElementById('search-button').disabled = true;
-                document.getElementById('query-input').disabled = true;
+                startLoadingAnimation();
             }
         }
-
+    
+        function startLoadingAnimation() {
+            const resultsElement = document.getElementById('results');
+            resultsElement.innerHTML = '';
+            let dots = 0;
+            loadingInterval = setInterval(() => {
+                dots = (dots + 1) % 4;
+                resultsElement.innerHTML = '.'.repeat(dots);
+            }, 500);
+        }
+    
+        function stopLoadingAnimation() {
+            clearInterval(loadingInterval);
+            // Clear the loading dots only if no text has been generated yet
+            if (document.getElementById('results').textContent.match(/^\.{1,3}$/)) {
+                document.getElementById('results').innerHTML = '';
+            }
+        }
+    
         document.getElementById('search-button').addEventListener('click', performSearch);
-
+    
         document.getElementById('query-input').addEventListener('keypress', function(event) {
             if (event.key === 'Enter') {
                 performSearch();
             }
         });
-
+    
         document.getElementById('stop-button').addEventListener('click', function() {
             if (isGenerating) {
                 socket.emit('stop_generating');
+                resetUIState();
             }
         });
-
+    
         // Clear results on page refresh
         window.addEventListener('load', function() {
             document.getElementById('results').innerHTML = '';
         });
     </script>
-</body>
-</html>
+    
+    </body>
+    </html>

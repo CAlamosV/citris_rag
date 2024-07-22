@@ -6,11 +6,15 @@ from openai import AssistantEventHandler
 import re
 import uuid
 from config import Config
+import threading
 
 app = Flask(__name__)
 app.config.from_object(Config)
 socketio = SocketIO(app)
 client = OpenAI(api_key=app.config['OPENAI_API_KEY'])
+
+# Global variable to control streaming
+stop_streaming = threading.Event()
 
 class EventHandler(AssistantEventHandler):
     @override
@@ -19,6 +23,8 @@ class EventHandler(AssistantEventHandler):
 
     @override
     def on_text_delta(self, delta, snapshot):
+        if stop_streaming.is_set():
+            return
         clean_delta = clean_response(delta.value)
         emit('response', {'data': clean_delta}, broadcast=True)
 
@@ -26,6 +32,8 @@ class EventHandler(AssistantEventHandler):
         pass
 
     def on_tool_call_delta(self, delta, snapshot):
+        if stop_streaming.is_set():
+            return
         if delta.type == 'code_interpreter':
             if delta.code_interpreter.input:
                 clean_input = clean_response(delta.code_interpreter.input)
@@ -52,19 +60,28 @@ def create_assistant(instructions, data_name, assistant_name, model=app.config['
     return assistant
 
 def stream_answer(query, assistant, data_name):
+    global stop_streaming
+    stop_streaming.clear()
+    
     vector_store_id = app.config['VECTOR_STORE_ID']
     thread = client.beta.threads.create(
         messages=[{"role": "user", "content": query, "attachments": []}],
         tool_resources={"file_search": {"vector_store_ids": [vector_store_id]}},
     )
 
-    with client.beta.threads.runs.stream(
-        thread_id=thread.id,
-        assistant_id=assistant.id,
-        instructions=assistant.instructions,
-        event_handler=EventHandler(),
-    ) as stream:
-        stream.until_done()
+    try:
+        with client.beta.threads.runs.stream(
+            thread_id=thread.id,
+            assistant_id=assistant.id,
+            instructions=assistant.instructions,
+            event_handler=EventHandler(),
+        ) as stream:
+            stream.until_done()
+    except Exception as e:
+        print(f"Error in stream_answer: {e}")
+    finally:
+        if not stop_streaming.is_set():
+            emit('stream_complete', broadcast=True)
 
 def clean_response(response):
     response = re.sub(r'【\d+:\d+†source】', '', response)
@@ -85,6 +102,12 @@ def index():
 def handle_query(query):
     emit('clear_response', broadcast=True)
     stream_answer(query, assistant, app.config['DATA_NAME'])
+
+@socketio.on('stop_generating')
+def handle_stop_generating():
+    global stop_streaming
+    stop_streaming.set()
+    emit('stream_complete', broadcast=True)
 
 @socketio.on('connect')
 def handle_connect():
