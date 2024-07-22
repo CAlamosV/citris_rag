@@ -13,7 +13,6 @@ app.config.from_object(Config)
 socketio = SocketIO(app)
 client = OpenAI(api_key=app.config['OPENAI_API_KEY'])
 
-# Global variable to control streaming
 stop_streaming = threading.Event()
 
 class EventHandler(AssistantEventHandler):
