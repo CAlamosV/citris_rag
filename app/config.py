@@ -39,7 +39,7 @@ Response template:
 • Address: [address]
 
 If for example there is no website:
-1. [name, very brief title and university]
+2. [name, very brief title and university]
 [~3 sentence summary of research interests as they relate to the user's interests]
 • Email: [email]
 • Website: Not found.
