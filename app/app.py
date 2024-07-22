@@ -115,4 +115,4 @@ def handle_connect():
     socketio.emit('session', {'session_id': session_id}, room=request.sid)
 
 if __name__ == '__main__':
-    socketio.run(app, debug=True)
+    socketio.run(app)
