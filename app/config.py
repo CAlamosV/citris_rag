@@ -4,7 +4,7 @@ class Config:
     SECRET_KEY = os.environ.get('SECRET_KEY') 
     OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
     VECTOR_STORE_ID = os.environ.get('VECTOR_STORE_ID')
-    MODEL = "gpt-3.5-turbo"
+    MODEL = "gpt-4o"
     DATA_NAME = "pi_profiles"
     ASSISTANT_NAME = "pi_profiles_assistant"
     
