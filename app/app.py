@@ -13,12 +13,15 @@ app.config.from_object(Config)
 socketio = SocketIO(app)
 client = OpenAI(api_key=app.config['OPENAI_API_KEY'])
 
+# Global variable to control streaming
 stop_streaming = threading.Event()
+current_query_id = threading.local()
 
 class EventHandler(AssistantEventHandler):
-    def __init__(self, room):
+    def __init__(self, room, query_id):
         super().__init__()
         self.room = room
+        self.query_id = query_id
 
     @override
     def on_text_created(self, text) -> None:
@@ -26,7 +29,7 @@ class EventHandler(AssistantEventHandler):
 
     @override
     def on_text_delta(self, delta, snapshot):
-        if stop_streaming.is_set():
+        if stop_streaming.is_set() or current_query_id.value != self.query_id:
             return
         clean_delta = clean_response(delta.value)
         emit('response', {'data': clean_delta}, room=self.room)
@@ -35,7 +38,7 @@ class EventHandler(AssistantEventHandler):
         pass
 
     def on_tool_call_delta(self, delta, snapshot):
-        if stop_streaming.is_set():
+        if stop_streaming.is_set() or current_query_id.value != self.query_id:
             return
         if delta.type == 'code_interpreter':
             if delta.code_interpreter.input:
@@ -62,10 +65,11 @@ def create_assistant(instructions, data_name, assistant_name, model=app.config['
     )
     return assistant
 
-def stream_answer(query, assistant, data_name, room):
+def stream_answer(query, assistant, data_name, room, query_id):
     global stop_streaming
     stop_streaming.clear()
-    
+    current_query_id.value = query_id
+
     vector_store_id = app.config['VECTOR_STORE_ID']
     thread = client.beta.threads.create(
         messages=[{"role": "user", "content": query, "attachments": []}],
@@ -77,13 +81,13 @@ def stream_answer(query, assistant, data_name, room):
             thread_id=thread.id,
             assistant_id=assistant.id,
             instructions=assistant.instructions,
-            event_handler=EventHandler(room),
+            event_handler=EventHandler(room, query_id),
         ) as stream:
             stream.until_done()
     except Exception as e:
         print(f"Error in stream_answer: {e}")
     finally:
-        if not stop_streaming.is_set():
+        if not stop_streaming.is_set() and current_query_id.value == query_id:
             emit('stream_complete', room=room)
 
 def clean_response(response):
@@ -105,8 +109,9 @@ def index():
 def handle_query(query):
     room = session.get('user_id')
     join_room(room)
+    query_id = str(uuid.uuid4())
     emit('clear_response', room=room)
-    stream_answer(query, assistant, app.config['DATA_NAME'], room)
+    stream_answer(query, assistant, app.config['DATA_NAME'], room, query_id)
 
 @socketio.on('stop_generating')
 def handle_stop_generating():
