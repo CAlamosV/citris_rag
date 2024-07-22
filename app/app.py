@@ -5,7 +5,7 @@ from typing_extensions import override
 from openai import AssistantEventHandler
 import re
 import uuid
-from config import Config
+from .config import Config
 import threading
 
 app = Flask(__name__)
