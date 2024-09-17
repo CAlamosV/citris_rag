@@ -7,21 +7,28 @@ import re
 import uuid
 from .config import Config
 import threading
+from collections import defaultdict
 
 app = Flask(__name__)
 app.config.from_object(Config)
 socketio = SocketIO(app)
 client = OpenAI(api_key=app.config['OPENAI_API_KEY'])
 
-# Global variable to control streaming
-stop_streaming = threading.Event()
-current_query_id = threading.local()
+# Class to maintain per-user streaming state
+class StreamingState:
+    def __init__(self):
+        self.stop_streaming = threading.Event()
+        self.current_query_id = None
+
+# Dictionary to store streaming states per user
+user_streaming_states = defaultdict(StreamingState)
 
 class EventHandler(AssistantEventHandler):
-    def __init__(self, room, query_id):
+    def __init__(self, room, query_id, state):
         super().__init__()
         self.room = room
         self.query_id = query_id
+        self.state = state
 
     @override
     def on_text_created(self, text) -> None:
@@ -29,27 +36,27 @@ class EventHandler(AssistantEventHandler):
 
     @override
     def on_text_delta(self, delta, snapshot):
-        if stop_streaming.is_set() or current_query_id.value != self.query_id:
-            return
+        if self.state.stop_streaming.is_set() or self.state.current_query_id != self.query_id:
+            raise Exception("Streaming stopped")
         clean_delta = clean_response(delta.value)
-        emit('response', {'data': clean_delta}, room=self.room)
+        socketio.emit('response', {'data': clean_delta}, room=self.room)
 
     def on_tool_call_created(self, tool_call):
         pass
 
     def on_tool_call_delta(self, delta, snapshot):
-        if stop_streaming.is_set() or current_query_id.value != self.query_id:
-            return
+        if self.state.stop_streaming.is_set() or self.state.current_query_id != self.query_id:
+            raise Exception("Streaming stopped")
         if delta.type == 'code_interpreter':
             if delta.code_interpreter.input:
                 clean_input = clean_response(delta.code_interpreter.input)
-                emit('response', {'data': clean_input}, room=self.room)
+                socketio.emit('response', {'data': clean_input}, room=self.room)
             if delta.code_interpreter.outputs:
-                emit('response', {'data': "<br><br>output >"}, room=self.room)
+                socketio.emit('response', {'data': "<br><br>output >"}, room=self.room)
                 for output in delta.code_interpreter.outputs:
                     if output.type == "logs":
                         clean_logs = clean_response(output.logs)
-                        emit('response', {'data': clean_logs}, room=self.room)
+                        socketio.emit('response', {'data': clean_logs}, room=self.room)
 
 def create_assistant(instructions, data_name, assistant_name, model=app.config['MODEL']):
     vector_store_id = app.config['VECTOR_STORE_ID']
@@ -65,11 +72,7 @@ def create_assistant(instructions, data_name, assistant_name, model=app.config['
     )
     return assistant
 
-def stream_answer(query, assistant, data_name, room, query_id):
-    global stop_streaming
-    stop_streaming.clear()
-    current_query_id.value = query_id
-
+def stream_answer(query, assistant, data_name, room, query_id, state):
     vector_store_id = app.config['VECTOR_STORE_ID']
     thread = client.beta.threads.create(
         messages=[{"role": "user", "content": query, "attachments": []}],
@@ -81,14 +84,14 @@ def stream_answer(query, assistant, data_name, room, query_id):
             thread_id=thread.id,
             assistant_id=assistant.id,
             instructions=assistant.instructions,
-            event_handler=EventHandler(room, query_id),
+            event_handler=EventHandler(room, query_id, state),
         ) as stream:
             stream.until_done()
     except Exception as e:
         print(f"Error in stream_answer: {e}")
     finally:
-        if not stop_streaming.is_set() and current_query_id.value == query_id:
-            emit('stream_complete', room=room)
+        if not state.stop_streaming.is_set() and state.current_query_id == query_id:
+            socketio.emit('stream_complete', room=room)
 
 def clean_response(response):
     response = re.sub(r'【\d+:\d+†source】', '', response)
@@ -109,15 +112,27 @@ def index():
 def handle_query(query):
     room = session.get('user_id')
     join_room(room)
+    user_id = room
     query_id = str(uuid.uuid4())
+    # Get or create the per-user streaming state
+    state = user_streaming_states[user_id]
+    # Stop any previous streaming
+    state.stop_streaming.set()
+    # Reset the stop_streaming Event
+    state.stop_streaming.clear()
+    # Set the current query id
+    state.current_query_id = query_id
     emit('clear_response', room=room)
-    stream_answer(query, assistant, app.config['DATA_NAME'], room, query_id)
+    # Run stream_answer in a new thread
+    threading.Thread(target=stream_answer, args=(query, assistant, app.config['DATA_NAME'], room, query_id, state)).start()
 
 @socketio.on('stop_generating')
 def handle_stop_generating():
-    global stop_streaming
-    stop_streaming.set()
-    emit('stream_complete', broadcast=True)
+    user_id = session.get('user_id')
+    state = user_streaming_states.get(user_id)
+    if state:
+        state.stop_streaming.set()
+    socketio.emit('stream_complete', room=user_id)
 
 @socketio.on('connect')
 def handle_connect():

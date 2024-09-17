@@ -6,3 +6,4 @@ __pycache__/
 rag.ipynb
 list.py
 run_flask.sh
+.DS_Store
