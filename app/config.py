@@ -4,7 +4,7 @@ class Config:
     SECRET_KEY = os.environ.get('SECRET_KEY') 
     OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
     VECTOR_STORE_ID = os.environ.get('VECTOR_STORE_ID')
-    MODEL = "gpt-4o-mini"
+    MODEL = "gpt-4o"
     DATA_NAME = "pi_profiles"
     ASSISTANT_NAME = "pi_profiles_assistant"
     
@@ -50,5 +50,4 @@ Do not provide citations or sources.
 URLs should be in the format of "https://www.example.com", no html formatting.
 Do not tell people why research areas are relevant, unless it is highly non-obvious. They will know why they are relevant.
 No boilerplate "his work pertains to area X", or "which relates to X". Just say what they do.
-Abbreviate University of California to UC.
 """
